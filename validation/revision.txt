@@ -1,0 +1,10 @@
+NCT03700320  # Q2b : fenêtre de tolérance prolongée par le suivi = identique
+NCT03474107  # Q2 : délai réexprimé sans contradiction = identique
+NCT03345342  # Q2 : délai réexprimé sans contradiction = identique
+NCT01313767  # Q2 : délai réexprimé sans contradiction = identique
+NCT04739306  # Q3 : « réponse » sans métrique, dépôt d'une variation moyenne = précision
+NCT04668950  # Q1 : métrique ajoutée là où aucune n'était indiquée = précision
+NCT02105948  # Q5 : critère déposé par strate sans autre changement = précision
+NCT01473589  # Q4 : ancien critère en secondaire + nouveau critère = retrograde + ajoute, pas remplace
+NCT02686658  # Q4 : ancien critère en secondaire + nouveau critère = retrograde + ajoute, pas remplace
+NCT02611687  # Q4 : ancien critère en secondaire + nouveau critère = retrograde + ajoute, pas remplace

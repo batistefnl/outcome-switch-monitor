@@ -1,0 +1,574 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Outcome Switch Monitor</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f6f4; --surface: #fcfcfb; --surface-2: #f0efec; --line: #e2e1dc; --grid: #e7e6e2;
+  --ink: #0b0b0b; --ink-2: #52514e; --ink-3: #74736e;
+  --accent: #2a78d6; --series-1: #2a78d6; --series-2: #eb6834;
+  --ins: #dcfce7; --ins-ink: #14532d; --del: #fee2e2; --del-ink: #7f1d1d;
+  --human: #0f766e; --ai: #4a3aa7; --warn-bg: #fff7e6; --warn-ink: #7a4a00;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #121211; --surface: #1a1a19; --surface-2: #232321; --line: #34342f; --grid: #2c2c29;
+    --ink: #ffffff; --ink-2: #c3c2b7; --ink-3: #9a998f;
+    --accent: #3987e5; --series-1: #3987e5; --series-2: #d95926;
+    --ins: #14532d; --ins-ink: #dcfce7; --del: #7f1d1d; --del-ink: #fee2e2;
+    --human: #2dd4bf; --ai: #9085e9; --warn-bg: #3a2c0c; --warn-ink: #f5d48a;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface: #1a1a19; --surface-2: #232321; --line: #34342f; --grid: #2c2c29;
+  --ink: #ffffff; --ink-2: #c3c2b7; --ink-3: #9a998f;
+  --accent: #3987e5; --series-1: #3987e5; --series-2: #d95926;
+  --ins: #14532d; --ins-ink: #dcfce7; --del: #7f1d1d; --del-ink: #fee2e2;
+  --human: #2dd4bf; --ai: #9085e9; --warn-bg: #3a2c0c; --warn-ink: #f5d48a;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+header { background: var(--surface); border-bottom: 1px solid var(--line); }
+.top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding: 14px 0 0; }
+.brand h1 { font-size: 20px; margin: 0; letter-spacing: -0.01em; }
+.brand p { margin: 2px 0 0; color: var(--ink-2); font-size: 14px; }
+.theme { background: none; border: 1px solid var(--line); color: var(--ink-2); border-radius: 6px; padding: 4px 10px; font: inherit; font-size: 13px; cursor: pointer; }
+nav { display: flex; gap: 4px; overflow-x: auto; margin-top: 10px; }
+nav button { background: none; border: 0; border-bottom: 2px solid transparent; color: var(--ink-2); font: inherit; padding: 8px 12px; cursor: pointer; white-space: nowrap; }
+nav button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
+main.wrap { padding-top: 20px; padding-bottom: 48px; }
+section[hidden] { display: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 14px; }
+.muted { color: var(--ink-2); } .small { font-size: 13px; }
+h2 { font-size: 17px; margin: 0 0 10px; } h3 { font-size: 15px; margin: 14px 0 6px; }
+input[type=search], input[type=text] { width: 100%; padding: 10px 12px; font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+input:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.btn { background: var(--accent); color: #fff; border: 0; border-radius: 8px; padding: 10px 16px; font: inherit; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.btn[disabled] { opacity: .5; cursor: default; }
+.btn.ghost { background: none; color: var(--accent); border: 1px solid var(--line); font-weight: 500; }
+.row { display: flex; gap: 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.chip { border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); border-radius: 999px; padding: 4px 10px; font: inherit; font-size: 13px; cursor: pointer; }
+.chip b { font-weight: 600; }
+.results { list-style: none; margin: 10px 0 0; padding: 0; }
+.results li button { width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--line); padding: 8px 4px; font: inherit; color: var(--ink); cursor: pointer; display: flex; gap: 10px; align-items: baseline; }
+.results li button:hover { background: var(--surface-2); }
+.results code { font-size: 13px; color: var(--ink-2); flex: none; }
+.results .t { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pill { display: inline-block; font-size: 12px; border-radius: 999px; padding: 1px 8px; border: 1px solid var(--line); color: var(--ink-2); white-space: nowrap; }
+.pill.change { border-color: var(--series-2); color: var(--ink); }
+.pill.major { background: var(--series-2); border-color: var(--series-2); color: #fff; }
+.trial-head h2 { font-size: 18px; margin: 2px 0 4px; }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--ink-2); }
+.verdicts { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin-top: 14px; }
+.verdict { border: 1px solid var(--line); border-left: 4px solid var(--ai); border-radius: 8px; padding: 10px 12px; background: var(--surface); }
+.verdict.human { border-left-color: var(--human); }
+.who { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-2); font-weight: 600; }
+.verdict .v { font-size: 17px; font-weight: 600; margin: 2px 0; }
+.verdict .note { margin: 6px 0 0; }
+.lang { font-size: 11px; border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; color: var(--ink-3); margin-left: 4px; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 720px) { .cols { grid-template-columns: 1fr; } }
+.oc { border-left: 3px solid var(--line); padding: 6px 10px; margin: 6px 0; background: var(--surface-2); border-radius: 4px; }
+.oc.reg { border-left-color: var(--accent); } .oc.dep { border-left-color: var(--human); }
+.oc .tf { color: var(--ink-2); font-size: 13px; } .oc .d { color: var(--ink-2); font-size: 13px; margin-top: 2px; }
+.oc.gone { opacity: .85; }
+ins { background: var(--ins); color: var(--ins-ink); text-decoration: none; padding: 0 2px; border-radius: 3px; }
+del { background: var(--del); color: var(--del-ink); padding: 0 2px; border-radius: 3px; }
+.legend-diff { font-size: 13px; color: var(--ink-2); }
+.disclaimer { background: var(--warn-bg); color: var(--warn-ink); border-radius: 8px; padding: 8px 12px; font-size: 13px; margin-top: 12px; }
+.hist .ver { border: 1px solid var(--line); border-left: 4px solid var(--line); border-radius: 8px; padding: 8px 12px; margin: 8px 0; }
+.hist .ver.ref { border-left-color: var(--accent); } .hist .ver.final { border-left-color: var(--human); }
+.hist .tag { font-size: 12px; color: var(--ink-2); }
+.hist ul { margin: 4px 0; padding-left: 18px; }
+.status { font-size: 14px; color: var(--ink-2); margin-top: 10px; }
+.error { color: var(--del-ink); background: var(--del); border-radius: 8px; padding: 8px 12px; margin-top: 10px; }
+.spinner { display: inline-block; width: 12px; height: 12px; border: 2px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: -1px; margin-right: 6px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+/* Dashboard */
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin-bottom: 14px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+.tile .label { font-size: 13px; color: var(--ink-2); }
+.tile .value { font-size: 34px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.15; margin-top: 4px; }
+.tile .sub { font-size: 13px; color: var(--ink-2); }
+.tile.hero .value { font-size: 52px; }
+.grid2 .wide { grid-column: 1 / -1; max-width: 720px; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 14px; }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: 13px; color: var(--ink-2); margin: 0 0 6px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+svg text { fill: var(--ink-2); font: 12px system-ui, sans-serif; }
+svg text.val { fill: var(--ink); }
+svg .grid { stroke: var(--grid); stroke-width: 1; }
+svg .hit { fill: transparent; cursor: default; }
+svg .bar-major { fill: var(--series-1); } svg .bar-minor { fill: var(--series-2); } svg .bar-one { fill: var(--series-1); }
+svg g.bar:hover .b, svg g.bar:focus .b { filter: brightness(1.12); }
+svg g.bar:focus { outline: none; }
+#tip { position: fixed; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 13px; box-shadow: 0 4px 16px rgb(0 0 0 / 12%); z-index: 10; max-width: 260px; }
+#tip[hidden] { display: none; }
+#tip .k { display: inline-block; width: 12px; height: 2px; margin-right: 6px; vertical-align: 3px; }
+#tip strong { font-weight: 600; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; color: var(--ink-2); font-size: 13px; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+.scroll { overflow-x: auto; }
+details > summary { cursor: pointer; color: var(--ink-2); font-size: 13px; margin-top: 8px; }
+.method p, .method li { max-width: 72ch; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">
+        <h1>Outcome Switch Monitor</h1>
+        <p>Did a clinical trial report the primary outcome it registered? Human-validated rules, applied at scale by AI.</p>
+      </div>
+      <button class="theme" id="theme" type="button" aria-label="Toggle colour theme">Theme: auto</button>
+    </div>
+    <nav role="tablist">
+      <button role="tab" data-tab="explore" aria-selected="true">Explore a trial</button>
+      <button role="tab" data-tab="live" aria-selected="false">Check a new trial</button>
+      <button role="tab" data-tab="dashboard" aria-selected="false">Dashboard</button>
+      <button role="tab" data-tab="method" aria-selected="false">Method &amp; limits</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="tab-explore">
+    <div class="card">
+      <label for="q" class="muted small">Search the corpus by NCT number or title words (5,634 completed, randomised phase 3 trials with posted results)</label>
+      <input id="q" type="search" placeholder="e.g. NCT03504423, pancreatic, influenza vaccine…" autocomplete="off" style="margin-top:6px">
+      <div class="chips" id="showcase"></div>
+      <ul class="results" id="results"></ul>
+    </div>
+    <div id="explore-view"></div>
+  </section>
+
+  <section id="tab-live" hidden>
+    <div class="card">
+      <h2>Check a trial outside the corpus</h2>
+      <p class="muted small">Paste any NCT number. The server fetches the current record from ClinicalTrials.gov, recovers the
+        version registered before the trial started from the Internet Archive, and asks the AI model to classify the change.
+        Works for trials with posted results whose registry history was archived (crawl of February 2025). Takes 20–60 s.</p>
+      <form class="row" id="live-form">
+        <input id="live-id" type="text" placeholder="NCT01070316" autocomplete="off" aria-label="NCT number">
+        <button class="btn" id="live-go" type="submit">Check</button>
+      </form>
+      <div class="status" id="live-status"></div>
+    </div>
+    <div id="live-view"></div>
+  </section>
+
+  <section id="tab-dashboard" hidden>
+    <div id="dash"></div>
+  </section>
+
+  <section id="tab-method" hidden>
+    <div class="card method">
+      <h2>What is measured</h2>
+      <p>For each trial we compare the <b>primary outcomes registered before the trial started</b> (the last registry version
+        submitted no later than the start month, recovered from ClinicalTrials.gov history archived by the Internet Archive) with the
+        <b>primary outcomes posted with the results</b>. Secondary outcome titles are used only to detect a primary outcome that was
+        demoted.</p>
+      <h2>Rules</h2>
+      <p>Written rules derived from Zarin et al. (2011) classify each trial as <i>identical</i>, <i>rewording</i>, <i>clarification</i>
+        (the registry was vague and the results add detail without contradicting it), <i>substantive change</i>, or <i>undeterminable</i>.
+        Changes are typed (removed, demoted to secondary, added, replaced, time frame, metric, measure/definition) and graded major
+        (removed, replaced, demoted, or a new efficacy outcome) or minor. When in doubt, <i>clarification</i> is preferred over
+        <i>change</i>.</p>
+      <h2>Human ground truth</h2>
+      <ul>
+        <li>95 trials drawn from the 4,969 non-identical trials (stratified, survey-weighted estimates).</li>
+        <li>Each trial annotated twice, independently, by two of three annotators; agreement before arbitration: 73 % on
+          “change or not” (Cohen's kappa 0.44).</li>
+        <li>Rules clarified by the team, then every disagreement settled by an arbiter outside the annotation team. No label or
+          arbitration was produced by AI.</li>
+      </ul>
+      <h2>AI at scale</h2>
+      <ul>
+        <li>Four models released before April 2026 were compared on the 95 human-labelled trials; Gemini 2.5 Flash was kept
+          (kappa 0.73 on “change or not”, close to the human count of changes).</li>
+        <li>It then classified the other 4,874 non-identical trials for about US$3.0.</li>
+        <li>Measured bias on the human sample: it finds slightly more substantive changes (34 % vs 32 %) and fewer major ones
+          (11 % vs 17 %). AI figures are exploratory; the human estimate is the reference.</li>
+      </ul>
+      <h2>Limits</h2>
+      <ul>
+        <li>A discrepancy is not misconduct: a change can be justified and reported in the publication (CONSORT).</li>
+        <li>Registry vs posted results only; journal articles are not covered.</li>
+        <li>Validation rests on 95 trials, which were also used to choose the model and refine the rules, so AI agreement is
+          probably optimistic.</li>
+        <li>Registry history depends on the Internet Archive copy of February 2025.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+<div id="tip" role="tooltip" hidden></div>
+
+<script>
+"use strict";
+const VERDICT = { identique: "Identical", reformulation: "Rewording", precision: "Clarification",
+  changement: "Substantive change", indeterminable: "Undeterminable" };
+const TYPE = { supprime: "Removed", retrograde: "Demoted to secondary", ajoute: "Added", remplace: "Replaced",
+  delai: "Time frame", metrique: "Metric", mesure: "Measure / definition" };
+const GRAV = { majeur: "major", mineur: "minor" };
+const PHASE = { before_start: "before the trial started", during: "during the trial",
+  after_primary_completion: "after primary completion" };
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const pct = (p, d = 0) => (100 * p).toFixed(d) + " %";
+const $ = id => document.getElementById(id);
+let TRIALS = null, STATS = null;
+
+// theme
+const THEMES = ["auto", "light", "dark"];
+function applyTheme(t) {
+  if (t === "auto") document.documentElement.removeAttribute("data-theme");
+  else document.documentElement.setAttribute("data-theme", t);
+  $("theme").textContent = "Theme: " + t;
+  try { localStorage.setItem("osm-theme", t); } catch (e) {}
+}
+let theme = "auto";
+try { theme = localStorage.getItem("osm-theme") || "auto"; } catch (e) {}
+applyTheme(THEMES.includes(theme) ? theme : "auto");
+$("theme").onclick = () => { theme = THEMES[(THEMES.indexOf(theme) + 1) % 3]; applyTheme(theme); };
+
+// tabs
+function showTab(name) {
+  document.querySelectorAll("nav button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === name));
+  document.querySelectorAll("main > section").forEach(s => s.hidden = s.id !== "tab-" + name);
+  if (name === "dashboard") renderDashboard();
+  if (name === "live") refreshStatus();
+}
+document.querySelectorAll("nav button").forEach(b => b.onclick = () => showTab(b.dataset.tab));
+
+// data
+async function getJSON(url, opts) {
+  const r = await fetch(url, opts);
+  const body = await r.json().catch(() => ({ message: "Invalid server response." }));
+  if (!r.ok) throw Object.assign(new Error(body.message || r.statusText), { code: body.error });
+  return body;
+}
+async function loadData() {
+  [TRIALS, STATS] = await Promise.all([getJSON("data/trials.json"), getJSON("data/stats.json")]);
+  $("showcase").innerHTML = '<span class="muted small" style="align-self:center">Examples:</span>' +
+    STATS.showcase.map(s => `<button class="chip" data-nct="${esc(s.nct)}"><b>${esc(TYPE[s.label] || VERDICT[s.label] || s.label)}</b> · ${esc(s.nct)}</button>`).join("");
+  $("showcase").querySelectorAll("button").forEach(b => b.onclick = () => openTrial(b.dataset.nct));
+}
+
+// search
+function verdictPill(t) {
+  const a = t.human || t.ai;
+  if (t.auto) return '<span class="pill">Identical</span>';
+  if (!a) return "";
+  if (a.verdict === "changement") return a.gravite === "majeur" ? '<span class="pill major">Major change</span>' : '<span class="pill change">Minor change</span>';
+  return `<span class="pill">${esc(VERDICT[a.verdict])}</span>`;
+}
+$("q").addEventListener("input", () => {
+  const q = $("q").value.trim().toLowerCase();
+  const out = $("results");
+  if (!TRIALS || q.length < 2) { out.innerHTML = ""; return; }
+  const words = q.split(/\s+/);
+  const hits = [];
+  for (const t of TRIALS) {
+    const hay = (t.nct + " " + t.title + " " + t.sponsor).toLowerCase();
+    if (words.every(w => hay.includes(w))) { hits.push(t); if (hits.length >= 15) break; }
+  }
+  out.innerHTML = hits.length ? hits.map(t => `<li><button data-nct="${esc(t.nct)}"><code>${esc(t.nct)}</code><span class="t">${esc(t.title)}</span>${verdictPill(t)}</button></li>`).join("")
+    : '<li class="muted small" style="padding:8px 4px">No trial matches. To check a trial outside the corpus, use “Check a new trial”.</li>';
+  out.querySelectorAll("button").forEach(b => b.onclick = () => openTrial(b.dataset.nct));
+});
+$("q").addEventListener("keydown", e => {
+  const v = $("q").value.trim().toUpperCase();
+  if (e.key === "Enter" && /^NCT\d{8}$/.test(v)) openTrial(v);
+});
+
+// word diff
+const tok = s => String(s || "").split(/\s+/).filter(Boolean);
+function lcs(a, b) {
+  const m = a.length, n = b.length, dp = Array.from({ length: m + 1 }, () => new Uint16Array(n + 1));
+  for (let i = m - 1; i >= 0; i--) for (let j = n - 1; j >= 0; j--)
+    dp[i][j] = a[i].toLowerCase() === b[j].toLowerCase() ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+  return dp;
+}
+function similarity(x, y) {
+  const a = tok(x), b = tok(y);
+  if (!a.length || !b.length || a.length * b.length > 40000) return 0;
+  return 2 * lcs(a, b)[0][0] / (a.length + b.length);
+}
+function diffHTML(oldS, newS) {
+  const a = tok(oldS), b = tok(newS);
+  if (a.length * b.length > 40000) return esc(newS);
+  const dp = lcs(a, b), out = [];
+  let i = 0, j = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i].toLowerCase() === b[j].toLowerCase()) { out.push(esc(b[j])); i++; j++; }
+    else if (dp[i + 1][j] >= dp[i][j + 1]) { out.push(`<del>${esc(a[i])}</del>`); i++; }
+    else { out.push(`<ins>${esc(b[j])}</ins>`); j++; }
+  }
+  while (i < a.length) out.push(`<del>${esc(a[i++])}</del>`);
+  while (j < b.length) out.push(`<ins>${esc(b[j++])}</ins>`);
+  return out.join(" ").replace(/<\/del> <del>/g, " ").replace(/<\/ins> <ins>/g, " ");
+}
+function comparison(item) {
+  const reg = item.registered, dep = item.deposited;
+  const used = new Set();
+  const posted = dep.map(d => {
+    let best = -1, score = 0;
+    reg.forEach((r, k) => { const s = similarity(r.measure, d.measure); if (s > score) { score = s; best = k; } });
+    if (best >= 0 && score >= 0.5) {
+      used.add(best);
+      const r = reg[best];
+      return `<div class="oc dep"><div>${diffHTML(r.measure, d.measure)} <span class="tf">[${diffHTML(r.timeFrame, d.timeFrame)}]</span></div>${d.description ? `<div class="d">${esc(d.description)}</div>` : ""}</div>`;
+    }
+    return `<div class="oc dep"><div><ins>${esc(d.measure)}</ins> <span class="tf">[${esc(d.timeFrame)}]</span></div>${d.description ? `<div class="d">${esc(d.description)}</div>` : ""}<div class="tf">No close match among registered primary outcomes</div></div>`;
+  });
+  const registered = reg.map((r, k) => `<div class="oc reg${used.has(k) ? "" : " gone"}"><div>${used.has(k) ? esc(r.measure) : `<del>${esc(r.measure)}</del>`} <span class="tf">[${esc(r.timeFrame)}]</span></div>${r.description ? `<div class="d">${esc(r.description)}</div>` : ""}${used.has(k) ? "" : '<div class="tf">Not among posted primary outcomes</div>'}</div>`);
+  const sec = item.deposited_secondary_titles || [];
+  return `<div class="card"><h2>Registered vs posted primary outcomes</h2>
+    <p class="legend-diff">Wording compared word by word: <ins>added</ins> <del>removed</del>. Text differences alone are not changes — 88 % of trials reword their outcomes; the verdict above is what counts.</p>
+    <div class="cols"><div><h3>Registered before the trial started</h3>${registered.join("") || '<p class="muted">None</p>'}</div>
+    <div><h3>Posted with the results</h3>${posted.join("") || '<p class="muted">None</p>'}</div></div>
+    ${sec.length ? `<details><summary>Posted secondary outcomes (${sec.length}) — used to detect demotions</summary><ul class="small">${sec.map(s => `<li>${esc(s)}</li>`).join("")}</ul></details>` : ""}</div>`;
+}
+
+// trial view
+function labelBlock(who, cls, l, extra) {
+  const v = l.verdict === "changement"
+    ? `${GRAV[l.gravite] ? GRAV[l.gravite][0].toUpperCase() + GRAV[l.gravite].slice(1) + " " : ""}change`
+    : VERDICT[l.verdict] || l.verdict;
+  const types = (l.types || []).map(t => `<span class="pill">${esc(TYPE[t] || t)}</span>`).join(" ");
+  const note = l.note_en ? `${esc(l.note_en)}${cls === "human" ? '<span class="lang">machine-translated</span>' : ""}` : `${esc(l.note)}<span class="lang">FR</span>`;
+  return `<div class="verdict ${cls}"><div class="who">${who}</div><div class="v">${esc(v)}</div>${types ? `<div>${types}</div>` : ""}
+    ${l.note ? `<p class="note small">${note}</p>` : ""}${extra ? `<div class="small muted" style="margin-top:6px">${extra}</div>` : ""}</div>`;
+}
+function trialHTML(p) {
+  const t = p.trial;
+  const blocks = [];
+  if (t.human) {
+    const h = t.human;
+    const how = h.source === "arbitrage" ? `two annotators (${esc((h.annotators || []).join(", "))}) disagreed; settled by an independent arbiter`
+      : `two independent annotators agreed (${esc((h.annotators || []).join(", "))})`;
+    blocks.push(labelBlock("Human-validated label", "human", h, how));
+  }
+  if (t.ai) blocks.push(labelBlock(`AI label · ${esc(t.ai.model || (STATS && STATS.ai_model) || "LLM")}`, "", t.ai,
+    t.human ? "Shown for comparison with the human label." : `Exploratory: AI agreement with human labels is kappa ${STATS ? STATS.ai.kappa_change.toFixed(2) : "?"} on “change or not”.`));
+  if (t.auto) blocks.push(`<div class="verdict human"><div class="who">Automatic</div><div class="v">Identical</div><p class="note small">Registered and posted primary outcomes are identical after normalisation (case, punctuation).</p></div>`);
+  const srcTag = p.source === "live" ? '<span class="pill">Checked live</span>' : '<span class="pill">Corpus</span>';
+  return `<div class="card trial-head">${srcTag}
+      <h2><a href="https://clinicaltrials.gov/study/${esc(t.nct)}" target="_blank" rel="noopener">${esc(t.nct)}</a> — ${esc(t.title)}</h2>
+      <div class="meta"><span>Sponsor: ${esc(t.sponsor)} (${t.sponsor_class === "INDUSTRY" ? "industry" : "non-industry"})</span>
+        <span>Start: ${esc(t.start_year || "?")}</span><span>Primary completion: ${esc(t.primary_completion || "?")}</span>
+        <span>${t.retrospective ? "Registered after the trial started" : "Registered before the trial started"}</span></div>
+      <div class="verdicts">${blocks.join("")}</div>
+      <div class="disclaimer">A discrepancy is not misconduct: a change can be justified and reported in the publication.</div>
+    </div>
+    ${comparison(p.item)}
+    <div class="card hist"><h2>Registry history</h2><p class="muted small">Every archived version in which the primary outcomes changed.</p>
+      <button class="btn ghost" data-hist="${esc(t.nct)}">Load version history</button><div class="hist-body"></div></div>`;
+}
+function wireHistory(root) {
+  const b = root.querySelector("[data-hist]");
+  if (!b) return;
+  b.onclick = async () => {
+    const body = root.querySelector(".hist-body");
+    b.disabled = true;
+    body.innerHTML = '<p class="status"><span class="spinner"></span>Fetching archived versions (first time can take ~15 s)…</p>';
+    try {
+      const h = await getJSON("/api/history/" + b.dataset.hist);
+      b.remove();
+      body.innerHTML = `<p class="muted small">${h.n_versions} archived versions; ${h.versions.length} shown.</p>` +
+        h.versions.map(v => `<div class="ver${v.is_reference ? " ref" : ""}"><div class="tag">Version ${v.version} · ${esc(v.date)} · ${esc(v.status)} · ${esc(PHASE[v.phase])}${v.is_reference ? " · <b>reference version</b>" : ""}</div>${v.html}</div>`).join("") +
+        (h.posted_vs_reference ? `<div class="ver final"><div class="tag">Posted with the results, compared with the reference version</div>${h.posted_vs_reference}</div>` : "");
+    } catch (e) {
+      b.disabled = false;
+      body.innerHTML = `<div class="error">${esc(e.message)}</div>`;
+    }
+  };
+}
+async function openTrial(nct) {
+  showTab("explore");
+  const view = $("explore-view");
+  view.innerHTML = '<div class="card status"><span class="spinner"></span>Loading…</div>';
+  try {
+    const p = await getJSON("/api/trial/" + nct);
+    view.innerHTML = trialHTML(p);
+    wireHistory(view);
+    view.scrollIntoView({ behavior: "smooth", block: "start" });
+  } catch (e) {
+    view.innerHTML = `<div class="card"><div class="error">${esc(e.message)}</div>${e.code === "not_found" ? '<p class="small muted">Try “Check a new trial” to classify it live.</p>' : ""}</div>`;
+  }
+}
+
+// live
+async function refreshStatus() {
+  try {
+    const s = await getJSON("/api/status");
+    $("live-go").disabled = !s.live;
+    if (!s.live) $("live-status").innerHTML = '<span class="error" style="display:inline-block;margin:0">Live classification is off: start the server with OPENROUTER_API_KEY.</span>';
+    else $("live-status").textContent = `Model: ${s.model} · ${s.live_left} live checks left this session.`;
+  } catch (e) { $("live-status").textContent = "Server unreachable."; }
+}
+$("live-form").addEventListener("submit", async e => {
+  e.preventDefault();
+  const nct = $("live-id").value.trim().toUpperCase();
+  const view = $("live-view");
+  if (!/^NCT\d{8}$/.test(nct)) { $("live-status").textContent = "An NCT number looks like NCT01234567."; return; }
+  $("live-go").disabled = true;
+  const t0 = Date.now();
+  const steps = ["Fetching the current record from ClinicalTrials.gov", "Recovering the registered version from the Internet Archive", "Asking the AI model"];
+  const tick = setInterval(() => {
+    const s = Math.round((Date.now() - t0) / 1000);
+    $("live-status").innerHTML = `<span class="spinner"></span>${steps[Math.min(2, Math.floor(s / 12))]}… ${s} s`;
+  }, 250);
+  view.innerHTML = "";
+  try {
+    const p = await getJSON("/api/classify/" + nct, { method: "POST" });
+    view.innerHTML = trialHTML(p);
+    wireHistory(view);
+  } catch (err) {
+    view.innerHTML = `<div class="card"><div class="error">${esc(err.message)}</div></div>`;
+  } finally {
+    clearInterval(tick);
+    refreshStatus();
+  }
+});
+
+// dashboard
+const tip = $("tip");
+function showTip(ev, html) {
+  tip.innerHTML = html; tip.hidden = false;
+  const r = ev.target.getBoundingClientRect ? ev.target.getBoundingClientRect() : null;
+  const x = ev.clientX ?? (r ? r.right : 0), y = ev.clientY ?? (r ? r.top : 0);
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  tip.style.left = Math.min(window.innerWidth - w - 8, x + 12) + "px";
+  tip.style.top = Math.max(8, y - h - 10) + "px";
+}
+const hideTip = () => tip.hidden = true;
+const fmtN = n => n.toLocaleString("en-US");
+
+/* Stacked horizontal bars: major (slot 1) + minor (slot 2) = substantive change. */
+function stackedBars(rows, { width = 520 } = {}) {
+  const labelW = 170, valueW = 52, barH = 20, gap = 14, top = 6;
+  const plotW = width - labelW - valueW;
+  const max = Math.max(0.5, ...rows.map(r => r.change));
+  const x = v => plotW * v / max;
+  const h = top + rows.length * (barH + gap);
+  let s = `<svg viewBox="0 0 ${width} ${h + 18}" width="100%" role="img" aria-label="Share of trials with a substantive change">`;
+  for (const t of [0, 0.1, 0.2, 0.3, 0.4, 0.5].filter(t => t <= max + 1e-9)) {
+    s += `<line class="grid" x1="${labelW + x(t)}" x2="${labelW + x(t)}" y1="0" y2="${h}"/><text x="${labelW + x(t)}" y="${h + 14}" text-anchor="middle">${t * 100}%</text>`;
+  }
+  rows.forEach((r, i) => {
+    const y = top + i * (barH + gap), wMaj = x(r.major), wMin = x(r.change - r.major);
+    const tipHTML = `<strong>${pct(r.change)}</strong> substantive change<br><span class="k" style="background:var(--series-1)"></span><strong>${pct(r.major)}</strong> major<br><span class="k" style="background:var(--series-2)"></span><strong>${pct(r.change - r.major)}</strong> minor<br><span class="muted">${esc(r.label)} · n = ${fmtN(r.n)}</span>`;
+    s += `<g class="bar" tabindex="0" data-tip="${esc(tipHTML)}">
+      <text x="${labelW - 8}" y="${y + barH / 2 + 4}" text-anchor="end">${esc(r.label)}</text>
+      ${wMin > 0 ? `<rect class="b bar-major" x="${labelW}" y="${y}" width="${Math.max(0, wMaj - 1)}" height="${barH}"/>`
+        : `<path class="b bar-major" d="${roundEnd(labelW, y, Math.max(1, wMaj), barH)}"/>`}
+      ${wMin > 0 ? `<path class="b bar-minor" d="${roundEnd(labelW + wMaj + 1, y, Math.max(0, wMin - 1), barH)}"/>` : ""}
+      <text class="val" x="${labelW + x(r.change) + 6}" y="${y + barH / 2 + 4}">${pct(r.change)}</text>
+      <rect class="hit" x="0" y="${y - gap / 2}" width="${width}" height="${barH + gap}"/></g>`;
+  });
+  return s + "</svg>";
+}
+/* Bar with a 4px rounded data end, square at the baseline side. */
+function roundEnd(x, y, w, h) {
+  const r = Math.min(4, w, h / 2);
+  return `M${x},${y} H${x + w - r} Q${x + w},${y} ${x + w},${y + r} V${y + h - r} Q${x + w},${y + h} ${x + w - r},${y + h} H${x} Z`;
+}
+function singleBars(rows, { width = 520 } = {}) {
+  const labelW = 170, barH = 18, gap = 12, top = 6, valueW = 52;
+  const plotW = width - labelW - valueW, max = Math.max(...rows.map(r => r.p), 0.01);
+  const h = top + rows.length * (barH + gap);
+  let s = `<svg viewBox="0 0 ${width} ${h}" width="100%" role="img" aria-label="Frequency of change types">`;
+  rows.forEach((r, i) => {
+    const y = top + i * (barH + gap), w = plotW * r.p / max;
+    s += `<g class="bar" tabindex="0" data-tip="${esc(`<strong>${pct(r.p, 1)}</strong> of trials<br><span class="muted">${esc(r.label)} · ${fmtN(r.k)} of ${fmtN(r.n)}</span>`)}">
+      <text x="${labelW - 8}" y="${y + barH / 2 + 4}" text-anchor="end">${esc(r.label)}</text>
+      <path class="b bar-one" d="${roundEnd(labelW, y, Math.max(1, w), barH)}"/>
+      <text class="val" x="${labelW + w + 6}" y="${y + barH / 2 + 4}">${pct(r.p)}</text>
+      <rect class="hit" x="0" y="${y - gap / 2}" width="${width}" height="${barH + gap}"/></g>`;
+  });
+  return s + "</svg>";
+}
+function wireTips(root) {
+  root.querySelectorAll("g.bar").forEach(g => {
+    const html = g.getAttribute("data-tip");
+    g.addEventListener("pointermove", ev => showTip(ev, html));
+    g.addEventListener("pointerleave", hideTip);
+    g.addEventListener("focus", () => { const r = g.getBoundingClientRect(); showTip({ clientX: r.left + r.width / 2, clientY: r.top }, html); });
+    g.addEventListener("blur", hideTip);
+  });
+}
+function groupRows(obj, order) {
+  const keys = order || Object.keys(obj);
+  return keys.filter(k => obj[k]).map(k => ({ label: k, n: obj[k].change.n, change: obj[k].change.p, major: obj[k].major.p }));
+}
+function tableOf(rows) {
+  return `<details><summary>Show as table</summary><div class="scroll"><table><thead><tr><th>Group</th><th class="num">Trials</th><th class="num">Substantive change</th><th class="num">Major</th></tr></thead><tbody>${rows.map(r => `<tr><td>${esc(r.label)}</td><td class="num">${fmtN(r.n)}</td><td class="num">${pct(r.change, 1)}</td><td class="num">${pct(r.major, 1)}</td></tr>`).join("")}</tbody></table></div></details>`;
+}
+let dashDone = false;
+function renderDashboard() {
+  if (dashDone || !STATS) return;
+  dashDone = true;
+  const S = STATS, H = S.human, A = S.ai;
+  const ci = a => `95 % CI ${pct(a[1])}–${pct(a[2])}`;
+  const legend = '<div class="legend"><span><i style="background:var(--series-1)"></i>Major change</span><span><i style="background:var(--series-2)"></i>Minor change</span></div>';
+  const years = Object.keys(A.by_start_year).sort((a, b) => (a === "≤2005" ? -1 : b === "≤2005" ? 1 : a.localeCompare(b)));
+  const yearRows = groupRows(A.by_start_year, years).filter(r => r.n >= 30);
+  const sections = [
+    ["By sponsor", groupRows(A.by_sponsor, ["Industry", "Non-industry"])],
+    ["By registration timing", groupRows(A.by_registration, ["Registered before start", "Registered after start"])],
+    ["Before / after the FDAAA Final Rule", groupRows(A.by_final_rule, ["Before Final Rule (2017)", "After Final Rule (2017)"])],
+    ["By trial start year (groups of 30+ trials)", yearRows],
+  ];
+  const typeRows = ["retrograde", "supprime", "ajoute", "remplace", "delai", "metrique", "mesure"]
+    .map(k => ({ label: TYPE[k], ...A.types[k] })).sort((a, b) => b.p - a.p);
+  const ag = S.agreement.map(r => `<tr><td>${esc(r.model)}${r.model === S.ai_model ? " <span class=\"pill\">used</span>" : ""}</td>
+      <td class="num">${pct(r.change.accuracy)} (${r.change.kappa.toFixed(2)})</td><td class="num">${pct(r.verdict.accuracy)} (${r.verdict.kappa.toFixed(2)})</td>
+      <td class="num">${pct(r.major.accuracy)} (${r.major.kappa.toFixed(2)})</td><td class="num">${r.n_change} / ${r.n}</td></tr>`).join("");
+  $("dash").innerHTML = `
+    <div class="tiles">
+      <div class="tile hero"><div class="label">Trials whose primary outcome changed in substance · human-validated</div>
+        <div class="value">${pct(H.changement.non_identical[0])}</div><div class="sub">${ci(H.changement.non_identical)} · among non-identical trials · 95 trials, double-annotated</div></div>
+      <div class="tile"><div class="label">Major changes · human-validated</div><div class="value">${pct(H.majeur.non_identical[0])}</div>
+        <div class="sub">${ci(H.majeur.non_identical)}</div></div>
+      <div class="tile"><div class="label">Substantive change · AI on ${fmtN(A.change.n)} trials</div><div class="value">${pct(A.change.p)}</div>
+        <div class="sub">major ${pct(A.major.p)} · all non-identical trials, incl. the ${fmtN(S.counts.human_labelled)} human-labelled ones · exploratory, see bias below</div></div>
+      <div class="tile"><div class="label">Cost to classify the corpus</div><div class="value">US$${A.cost_usd.toFixed(2)}</div>
+        <div class="sub">${fmtN(A.change.n - S.counts.human_labelled)} trials · ${esc(S.ai_model)}</div></div>
+    </div>
+    <div class="card"><h2>Where do changes happen? <span class="muted small">AI labels, ${fmtN(A.change.n)} non-identical trials</span></h2>
+      <p class="muted small">Share of trials with a substantive change in their primary outcome, split into major and minor. Hover or focus a bar for the exact values. None of these differences implies causation.</p>
+      ${legend}
+      <div class="grid2">${sections.map(([title, rows], i) => `<div${i === sections.length - 1 ? ' class="wide"' : ""}><h3>${esc(title)}</h3><div class="chart">${stackedBars(rows)}</div>${tableOf(rows)}</div>`).join("")}</div>
+    </div>
+    <div class="card"><h2>What kind of change? <span class="muted small">share of all ${fmtN(A.change.n)} trials; a trial can have several</span></h2>
+      <div class="chart" style="max-width:640px">${singleBars(typeRows)}</div>
+      <details><summary>Show as table</summary><table><thead><tr><th>Type</th><th class="num">Trials</th><th class="num">Share</th></tr></thead><tbody>${typeRows.map(r => `<tr><td>${esc(r.label)}</td><td class="num">${fmtN(r.k)}</td><td class="num">${pct(r.p, 1)}</td></tr>`).join("")}</tbody></table></details>
+    </div>
+    <div class="card"><h2>Can the AI be trusted? <span class="muted small">agreement with the 95 human labels</span></h2>
+      <p class="muted small">Accuracy (Cohen's kappa). For reference, the two human annotators agreed 73 % (kappa 0.44) on “change or not” before arbitration.
+        Humans found ${S.human_n_change} changes among the 95 trials.</p>
+      <div class="scroll"><table><thead><tr><th>Model</th><th class="num">Change or not</th><th class="num">Verdict (4 classes)</th><th class="num">Major or not</th><th class="num">“Change” found</th></tr></thead><tbody>${ag}</tbody></table></div>
+      <p class="small" style="margin-top:10px"><b>Known bias.</b> On the human sample (survey-weighted), the model finds ${pct(S.bias.change.ai)} substantive changes vs ${pct(S.bias.change.human)} for humans, and ${pct(S.bias.major.ai)} major vs ${pct(S.bias.major.human)}.
+        AI figures above probably overstate substantive changes and understate major ones. Agreement was measured on the same 95 trials used to choose the model, so it is probably optimistic.</p>
+    </div>`;
+  wireTips($("dash"));
+}
+
+loadData().then(() => {
+  const m = location.hash.match(/^#(NCT\d{8})$/i);
+  if (m) openTrial(m[1].toUpperCase());
+}).catch(e => { $("explore-view").innerHTML = `<div class="card"><div class="error">Could not load data: ${esc(e.message)}. Run python demo/build_data.py.</div></div>`; });
+</script>
+</body>
+</html>

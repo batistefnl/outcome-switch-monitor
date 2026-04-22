@@ -1,0 +1,274 @@
+{
+ "annotator": "TJ",
+ "labels": [
+  {
+   "nct": "NCT01188551",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "L'échelle OPS a été abandonnée, et le point de mesure passe de 60 à 30 min après l'opération."
+  },
+  {
+   "nct": "NCT01249872",
+   "verdict": "changement",
+   "types": [
+    "retrograde"
+   ],
+   "gravite": "majeur",
+   "note": "La variation des valeurs spirométriques, enregistrée en principal, a été déposée en secondaire."
+  },
+  {
+   "nct": "NCT01474109",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "Le nombre cumulé d'ulcères devient un taux d'incidence."
+  },
+  {
+   "nct": "NCT02322775",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Pré-dose et pré-bronchodilatateur reviennent au même ici. Le délai reste S12."
+  },
+  {
+   "nct": "NCT01489254",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère. T1 est simplement précisé."
+  },
+  {
+   "nct": "NCT02668692",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Une métrique a été ajoutée (nombre de sujets). La définition est identique."
+  },
+  {
+   "nct": "NCT01913353",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères. Les sigles sont développés."
+  },
+  {
+   "nct": "NCT02338193",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "Le % de variation du poids, enregistré en principal, est passé en secondaire. Le principal est maintenant la variation absolue."
+  },
+  {
+   "nct": "NCT02105948",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "La fréquence devient un taux d'exacerbations. Les analyses sont faites par strate et en mITT, ce qui change seulement la population d'analyse."
+  },
+  {
+   "nct": "NCT02722278",
+   "verdict": "changement",
+   "types": [
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "La fourchette eugonadique passe de 300–1000 à 252–907 ng/dL."
+  },
+  {
+   "nct": "NCT03168334",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "« Lésions inflammatoires » devient « lesion counts ». La description couvre aussi les lésions non inflammatoires ; il faut vérifier si elles ont été ajoutées."
+  },
+  {
+   "nct": "NCT03504423",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "L'ORR et la SSP sont passées en secondaire. La SG devient le critère principal."
+  },
+  {
+   "nct": "NCT02950155",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère. Le sigle QMG est simplement développé."
+  },
+  {
+   "nct": "NCT05045144",
+   "verdict": "changement",
+   "types": [
+    "mesure",
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Les titres HI portent sur 3 souches au lieu de 4. Une fenêtre EIG J1–J181 a été ajoutée (tolérance)."
+  },
+  {
+   "nct": "NCT00545532",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le délai de résolution des symptômes est passé en secondaire. La tolérance, la résistance et le rejet de greffe deviennent les critères principaux."
+  },
+  {
+   "nct": "NCT03337308",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même % de variation du LDL-C à S12."
+  },
+  {
+   "nct": "NCT03840148",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même composite TOC en microITT."
+  },
+  {
+   "nct": "NCT02320721",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même variation de l'HbA1c à S26."
+  },
+  {
+   "nct": "NCT01665144",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai jusqu'à progression devient un % de patients avec progression confirmée à 3 mois. L'horizon passe aussi de 60 à environ 36 mois."
+  },
+  {
+   "nct": "NCT01967940",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Simple passage de proportion à pourcentage."
+  },
+  {
+   "nct": "NCT01968707",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "La tolérance cutanée et les EI, enregistrés en principal, sont passés en secondaire. Les deux critères d'efficacité ont été fusionnés en un taux de répondeurs."
+  },
+  {
+   "nct": "NCT01560624",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le 6MWD est passé en secondaire, et l'horizon passe de 2,5 à environ 4 ans."
+  },
+  {
+   "nct": "NCT02006732",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Les trois mêmes critères. Le SGRQ est déposé en analyse individuelle et poolée, comme prévu à l'enregistrement."
+  },
+  {
+   "nct": "NCT03836807",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même AUC0–6h, sur les populations ITT et PP."
+  },
+  {
+   "nct": "NCT02635386",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même indice de disposition à 24 semaines."
+  },
+  {
+   "nct": "NCT01439360",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La grippe confirmée d'intensité modérée à sévère a été ajoutée comme critère principal, à côté de la grippe toutes sévérités confondues."
+  },
+  {
+   "nct": "NCT00458393",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Les EI sont détaillés en toxicités, avec des grades précis."
+  },
+  {
+   "nct": "NCT01725308",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même variation du MADRS à S8. La période I est précisée."
+  },
+  {
+   "nct": "NCT00784225",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "« Visuellement significatif » est précisé : MAVC ≤ 20/30."
+  },
+  {
+   "nct": "NCT03430856",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "L'analyse de la partie II a disparu. Il ne reste que la partie I."
+  },
+  {
+   "nct": "NCT02611687",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "supprime",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "Le PDSS et la cataplexie sont passés en secondaire, et la tolérance a été supprimée. Le principal est maintenant le score UNS."
+  },
+  {
+   "nct": "NCT01863186",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "L'AUC de la SOWS et la moyenne globale reviennent au même : elles sont proportionnelles puisque les jours sont équidistants."
+  },
+  {
+   "nct": "NCT01313767",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "Titre identique, à la casse et aux espaces près."
+  }
+ ]
+}

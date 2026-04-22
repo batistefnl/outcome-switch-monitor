@@ -1,0 +1,246 @@
+{
+ "annotator": "BF",
+ "labels": [
+  {
+   "nct": "NCT02635204",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal de tolérance est supprimé du dépôt principal ; le succès thérapeutique à J15 est conservé."
+  },
+  {
+   "nct": "NCT03335566",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise le calcul en pourcentage, sans contredire l'amélioration de précision diagnostique."
+  },
+  {
+   "nct": "NCT02770807",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère mICARS passe d'une évaluation à 3, 6, 9, 12 mois à une évaluation à 6 mois."
+  },
+  {
+   "nct": "NCT01451203",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'inhibition de la progression radiographique est précisée en changement du mTSS à S52."
+  },
+  {
+   "nct": "NCT00283686",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Étude A : même critère de volume rénal total, exprimé en pourcentage annuel de changement."
+  },
+  {
+   "nct": "NCT02292784",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères de morbidité néonatale et développementale, formulés en nombre d'infants."
+  },
+  {
+   "nct": "NCT02226198",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère LDL-C, dupliqué en mg/dL et mmol/L."
+  },
+  {
+   "nct": "NCT02612337",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère du nombre de jours de vertige à S12."
+  },
+  {
+   "nct": "NCT01857622",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Seul le critère de saignements adjudiqués est déposé ; les événements indésirables, réactions et concentrations plasmatiques enregistrés disparaissent."
+  },
+  {
+   "nct": "NCT01675635",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la mesure EVA au repos à 6 h, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT03040999",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise les composantes de l'EFS (progression, récidive, décès) sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01144338",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère composite cardiovasculaire est déposé à la fois comme critère d'efficacité et de tolérance principaux."
+  },
+  {
+   "nct": "NCT01227265",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère du temps « off » à S12, moyenné par jour."
+  },
+  {
+   "nct": "NCT03735121",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la Cmin sérique en fin de cycle 1 pour les deux parties."
+  },
+  {
+   "nct": "NCT03257267",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la définition de l'OS et la censure, et ajoute une analyse dans la population SCC."
+  },
+  {
+   "nct": "NCT01552343",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères psychométriques du journal NI, formulés avec les coefficients de corrélation et tailles d'effet."
+  },
+  {
+   "nct": "NCT02072824",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "La réduction en pourcentage devient un taux de crises log-transformé sur 24 h."
+  },
+  {
+   "nct": "NCT03165617",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères d'efficacité vaccinale absolue (2-<18 ans et co-primaire 3-<18 ans), formulés en analyse temps-jusqu'à-événement."
+  },
+  {
+   "nct": "NCT02451358",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères immunogéniques (GMT et séroprotection/séroconversion), formulés en nombre de participants."
+  },
+  {
+   "nct": "NCT02686658",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le changement de BCVA à 24 mois est remplacé par le changement d'atrophie géographique à 12 mois."
+  },
+  {
+   "nct": "NCT02276274",
+   "verdict": "changement",
+   "types": [
+    "ajoute",
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "La description pharmacocinétique globale est remplacée par une liste détaillée de paramètres PK comme critères principaux."
+  },
+  {
+   "nct": "NCT02431806",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise le modèle MMRM et la direction du changement, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01808612",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "La fenêtre passe de « environ deux mois » à « 6 semaines » pour le score total HAMD21."
+  },
+  {
+   "nct": "NCT01861522",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même changement du score total des trois symptômes nasaux majeurs à S2."
+  },
+  {
+   "nct": "NCT01391546",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères GMT et GMFR VZV, formulés avec la technique gpELISA."
+  },
+  {
+   "nct": "NCT04447469",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Cohorte 1 : le critère J15 (vivant sans insuffisance respiratoire) devient J29 (sans ventilation mécanique) ; cohorte 2 : la mortalité à J15 devient à J29."
+  },
+  {
+   "nct": "NCT01586819",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même objectif principal sur le peeling chimique, formulé en changement pré/post sur l'échelle FWSS."
+  },
+  {
+   "nct": "NCT03345342",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la définition de la rechute et la fenêtre (jusqu'à 12 mois), sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01959243",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Les événements indésirables enregistrés sont déposés en nombre de participants avec TEAE jusqu'à J29."
+  },
+  {
+   "nct": "NCT02062463",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "Les erreurs critiques totales et l'adhérence enregistrées sont remplacées par la maîtrise de l'appareil (étapes 1 et 2)."
+  },
+  {
+   "nct": "NCT05047601",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise l'inclusion des tests antigéniques rapides en plus du RT-PCR, sans contredire l'enregistrement."
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "annotator": "CM",
+ "labels": [
+  {
+   "nct": "NCT01188551",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "La douleur passe de 60 min post-op à 30 min post-op, et l'échelle FLACC est explicite."
+  },
+  {
+   "nct": "NCT01249872",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise l'échelle EVA et les moments, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01474109",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "Le nombre cumulé d'ulcères devient un taux d'incidence de nouveaux ulcères jusqu'à S16."
+  },
+  {
+   "nct": "NCT02322775",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la méthode MMRM et l'unité (L) pour le VEMS pré-bronchodilatateur à S12."
+  },
+  {
+   "nct": "NCT01489254",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère du nombre de lésions rehaussées par gadolinium aux mois 7-9."
+  },
+  {
+   "nct": "NCT02668692",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère d'amélioration globale de la lésion du cuir chevelu à S4, formulé en nombre de sujets."
+  },
+  {
+   "nct": "NCT01913353",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères PRNT GMT et MLA après scarification, formulés avec les visites de pic."
+  },
+  {
+   "nct": "NCT02338193",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère principal passe du pourcentage de changement de poids au changement absolu de poids."
+  },
+  {
+   "nct": "NCT02105948",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La fréquence des exacerbations modérées/sévères est déposée en deux strates (haut stratum et mITT)."
+  },
+  {
+   "nct": "NCT02722278",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "La plage eugonadique passe de 300-1000 ng/dL à 252-907 ng/dL à J105."
+  },
+  {
+   "nct": "NCT03168334",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères (changement absolu des lésions et réduction de 2 grades à l'EGSS), formulés différemment."
+  },
+  {
+   "nct": "NCT03504423",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "L'ORR et la PFS enregistrées comme principaux sont remplacées par l'OS comme critère principal."
+  },
+  {
+   "nct": "NCT02950155",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère QMG ≤ 4 et prednisolone ≤ 10 mg à S16."
+  },
+  {
+   "nct": "NCT05045144",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères de réactogénicité et d'immunogénicité, avec groupes poolés."
+  },
+  {
+   "nct": "NCT00545532",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "Le temps de disparition des symptômes grippaux est remplacé par des critères de tolérance et de résistance virale comme principaux."
+  },
+  {
+   "nct": "NCT03337308",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère de variation en pourcentage du LDL-C à S12."
+  },
+  {
+   "nct": "NCT03840148",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise les populations microITT et les seuils d'éradication, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT02320721",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même changement d'HbA1c de la baseline à S26."
+  },
+  {
+   "nct": "NCT01665144",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai de progression du handicap devient un pourcentage de participants avec progression confirmée à 3 mois (EDSS)."
+  },
+  {
+   "nct": "NCT01967940",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même proportion de participants avec baisse >0,5 log10 de l'ARN VIH-1 à J10."
+  },
+  {
+   "nct": "NCT01968707",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise le calcul du taux de réponse à partir des réductions bactériennes, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01560624",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le changement de distance au test de marche de 6 minutes (critère principal enregistré) disparaît du dépôt principal."
+  },
+  {
+   "nct": "NCT02006732",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère SGRQ est conservé mais analysé sur un jeu de données combiné ; les réponses FEV1 et trough sont précisées."
+  },
+  {
+   "nct": "NCT03836807",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même AUC0-6 h de la douleur, déclinée en populations ITT et PP."
+  },
+  {
+   "nct": "NCT02635386",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même indice de disposition orale (sensibilité-sécrétion), formulé avec la méthode OGTT."
+  },
+  {
+   "nct": "NCT01439360",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal (première grippe confirmée par RT-PCR) est déposé en deux critères séparés (modérée à sévère et toute sévérité)."
+  },
+  {
+   "nct": "NCT00458393",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La séroconversion VIH et les événements indésirables cliniques/biologiques enregistrés sont remplacés par des toxicités biologiques spécifiques et la séroconversion VIH."
+  },
+  {
+   "nct": "NCT01725308",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même changement du score total MADRS de la baseline à S8."
+  },
+  {
+   "nct": "NCT00784225",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères ophtalmologiques (DMLA et cataracte visuellement significatives), formulés en nombre de participants."
+  },
+  {
+   "nct": "NCT03430856",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même changement d'HbA1c à S24 (Partie 1)."
+  },
+  {
+   "nct": "NCT02611687",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère PDSS enregistré est remplacé par l'échelle UNS comme critère principal déposé ; les critères de sécurité disparaissent du principal."
+  },
+  {
+   "nct": "NCT01863186",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "L'AUC du score SOWS-Gossop est remplacée par la différence des moyennes globales des scores SOWS-Gossop."
+  },
+  {
+   "nct": "NCT01313767",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise le changement depuis la baseline à S4 pour le score MAS du fléchisseur du poignet."
+  }
+ ]
+}

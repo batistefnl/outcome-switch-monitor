@@ -1,0 +1,258 @@
+{
+ "annotator": "BF",
+ "labels": [
+  {
+   "nct": "NCT03700320",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère reste le même, mais la fenêtre d'évaluation dépasse maintenant les 52 semaines de traitement (4 semaines de suivi en plus)."
+  },
+  {
+   "nct": "NCT03083665",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "La variation en % de la fréquence des crises passe en secondaire. Le principal devient la fréquence des crises sur 28 jours, et trois critères de tolérance ont été ajoutés."
+  },
+  {
+   "nct": "NCT01429272",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le registre ne donnait pas de métrique, seulement l'échelle MADRS. Le dépôt précise qu'il s'agit d'une réponse, définie par une baisse de plus de 50 % du MADRS."
+  },
+  {
+   "nct": "NCT02278341",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère enregistré (version EU) est conservé. Un second critère principal a été ajouté pour la FDA, sur S28-52, sans tenir compte du recours au traitement de secours."
+  },
+  {
+   "nct": "NCT02371759",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "mesure",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Les variations depuis la baseline sont remplacées par des valeurs brutes, et le point à 5 min par la baseline. L'intensité est aussi mesurée autrement : au pin-prick (>0) au lieu de l'EVA pendant l'extraction."
+  },
+  {
+   "nct": "NCT02229383",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère (variation de l'HbA1c à S28). Seul le libellé a été raccourci."
+  },
+  {
+   "nct": "NCT02101359",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La réponse est précisée : sans traitement mydriatique supplémentaire."
+  },
+  {
+   "nct": "NCT01062763",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La « baisse de la PA » est déclinée dans le dépôt en PAS et PAD séparément."
+  },
+  {
+   "nct": "NCT04051463",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Une métrique a été ajoutée (variation). La mesure et le délai restent les mêmes."
+  },
+  {
+   "nct": "NCT00939900",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "mesure",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "On passe d'un % d'effondrement à un nombre de patients avec effondrement. La profondeur du dôme n'est plus mesurée, et il y a moins de points de mesure."
+  },
+  {
+   "nct": "NCT01297517",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La PIO moyenne à M3 est détaillée par horaire de mesure."
+  },
+  {
+   "nct": "NCT02943564",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "La variation du MADRS était enregistrée à J1. Elle est déposée en fin d'étude (3 semaines)."
+  },
+  {
+   "nct": "NCT04668950",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Une métrique a été ajoutée (nombre de participants). La définition ne change pas."
+  },
+  {
+   "nct": "NCT03474107",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "Le titre est identique. La fenêtre est exprimée par une date de gel, sans contradiction."
+  },
+  {
+   "nct": "NCT01473589",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La consolidation à 24 mois est remplacée par l'absence de réintervention à 12 mois. La consolidation se retrouve en secondaire."
+  },
+  {
+   "nct": "NCT02706873",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "L'ACR50 passe de S24 à S12, et le S24 est relégué en secondaire. L'ACR20 à S12 et le mTSS à S24 sont ajoutés comme critères principaux (pour le Japon)."
+  },
+  {
+   "nct": "NCT01686633",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Une métrique a été ajoutée (variation depuis la baseline). Elle porte toujours sur le même VEMS pondéré à S12."
+  },
+  {
+   "nct": "NCT01108731",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Une métrique a été ajoutée (variation entre la baseline et M2). La méthode SRM reste la même."
+  },
+  {
+   "nct": "NCT04739306",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La « réponse clinique », assez vague à l'enregistrement, est précisée : variation moyenne de la MAVC (ETDRS) à S8."
+  },
+  {
+   "nct": "NCT04066023",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Simple passage de proportion à pourcentage."
+  },
+  {
+   "nct": "NCT01235234",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Des métriques ont été ajoutées (nombre de sujets). Les définitions et les délais sont identiques."
+  },
+  {
+   "nct": "NCT02281318",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère. Seul le sigle BL a été ajouté."
+  },
+  {
+   "nct": "NCT01346592",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère enregistré portait surtout sur la tolérance, avec l'immunogénicité à J29, J50 et J209. Au dépôt, le principal devient la non-infériorité immunogénique à J50, et la tolérance passe en secondaire."
+  },
+  {
+   "nct": "NCT04870606",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "L'hospitalisation, enregistrée comme critère principal, a été déposée en secondaire. Le principal est maintenant un composite hospitalisation / oxygène / décès."
+  },
+  {
+   "nct": "NCT01492101",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même survie globale à 36 mois. Le dépôt précise seulement la méthode (Kaplan-Meier) et la population (ITT)."
+  },
+  {
+   "nct": "NCT03620162",
+   "verdict": "changement",
+   "types": [
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "Les IgG sont limitées aux 13 sérotypes communs au lieu des 15 de V114. Les autres critères ne changent pas."
+  },
+  {
+   "nct": "NCT03280537",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Les deux mêmes critères, dans l'ordre inverse. « to Week 24 » devient « at Week 24 »."
+  },
+  {
+   "nct": "NCT02289352",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "La proportion de succès thérapeutique à J7 devient un pourcentage, avec la même définition."
+  },
+  {
+   "nct": "NCT01533428",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère. La fenêtre S2–S8 figurait déjà dans la description enregistrée."
+  },
+  {
+   "nct": "NCT01475071",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Le % de lésions en réponse complète revient à peu près au % de variation du nombre de lésions. Pour la douleur, la mention « maximale par côté » a disparu (à vérifier)."
+  },
+  {
+   "nct": "NCT01887600",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La réponse Hb est précisée. Surtout, la variation de l'Hb entre S28 et S52 est ajoutée comme critère principal pour la FDA, et c'est un critère d'efficacité à part entière."
+  }
+ ]
+}

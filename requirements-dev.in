@@ -1,0 +1,4 @@
+# Outils de test et de capture. Versions figées dans requirements-dev.txt :
+#   uv pip compile requirements-dev.in --python-version 3.12 --exclude-newer 2026-04-01T00:00:00Z -o requirements-dev.txt
+pytest
+playwright

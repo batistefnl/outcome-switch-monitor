@@ -1,0 +1,691 @@
+### NCT03700320
+ENR: Percentage of Participants with at Least 1 Treatment Emergent Adverse Event [Across the 52-week treatment period]
+DEP: Percentage of Participants With at Least 1 Treatment Emergent Adverse Event (TEAE) [From first dose up to the end of study (median treatment of 52 weeks) + 4 weeks follow-up] — An adverse event (AE) is any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product and which does
+SEC: Percentage of Participants With Clinically Significant Laboratory Values as; Percentage of Participants With Clinically Significant Electrocardiogram (E; Percentage of Participants With Clinically Significant Vital Sign Measureme; Number of Participants With Most Severe Columbia-Suicide Severity Rating Sc
+
+### NCT03083665
+ENR: Percent change in partial seizure frequency during the 12-week Treatment Period [From baseline to 12-weeks Treatment period] — <p>Calculated as (seizure frequency Baseline - seizure frequency Treatment) *100/ (seizure frequency Baseline).</p><p>The higher the values for percent change i
+DEP: Percentage of Participants With Treatment-Emergent Adverse Events (TEAEs) [From start of the Treatment Period (Week 0) until Safety Visit (up to Week 18); only for OLTP- From last visit of Transition Period to beginning of MAP (up to 4 Years 10 Months)] — An AE is any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product that does not necessarily have
+DEP: Percentage of Participants With Treatment-Emergent AEs (TEAEs) Leading to Study Withdrawal [From start of the Treatment Period (Week 0) until Safety Visit (up to Week 18); only for OLTP- From last visit of Transition Period to beginning of MAP (up to 4 Years 10 Months)] — An AE is any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product that does not necessarily have
+DEP: Percentage of Participants With Treatment-Emergent Serious Adverse Events (SAEs) [From start of the Treatment Period (Week 0) until Safety Visit (up to Week 18); only for OLTP- From last visit of Transition Period to beginning of MAP (up to 4 Years 10 Months)] — Serious Adverse event (SAE) was defined as any events which: • results in death, • is life-threatening threatening (note that this did not include a reaction th
+DEP: Partial Seizure Frequency Per 28 Days During the 12-week Treatment Period [From Baseline to 12-week Treatment Period] — According to International League Against Epilepsy (ILAE) classification (1981), seizures were classified as type IA (IA1, IA2, IA3, and IA4), IB, IC, II (IIA, 
+SEC: 50% Responder Rate Based on Percent Change in Partial Seizure Frequency Per; Percent Change in Partial Seizure Frequency Per 28 Days From Baseline to th; Percentage of Participants With Categorized Percent Change in Partial Seizu; All Seizure Frequency (Partial, Generalized, and Unclassified Epileptic Sei; Percentage of Participants Who Are Seizure Free (Partial, All Epileptic Sei; Time to 1st Partial Seizure During the 12-week Treatment Period; Time to 5th Partial Seizure During the 12-week Treatment Period; Time to 10th Partial Seizure During the 12-week Treatment Period; Brivaracetam Plasma Concentration
+
+### NCT01429272
+ENR: Montgomery-Asberg Depression Rating Scale [6 weeks] — Depression symptom severity rating scale
+DEP: Treatment Response [Six weeks] — Response to treatment defined as a \>50% decrease in Montgomery-Asberg Depression Rating Scale scores for the final two consecutive visits.
+SEC: Remission Rate
+
+### NCT02278341
+ENR: Hemoglobin (Hb) change from baseline to the average Hb of weeks 28 to 36 without having received rescue therapy [Baseline and Weeks 28 to 36]
+DEP: Change From Baseline (BL) to the Average Hemoglobin (Hb) in Weeks 28-36 Without Rescue Therapy [EU (EMA)] [Baseline and weeks 28 to 36] — Baseline Hb was defined as the mean of four central laboratory Hb values; four latest Hb values prior or on the same date as the first study drug intake. For pa
+DEP: Change From BL to the Average Hb in Weeks 28 to 52 Regardless of Rescue Therapy [US (FDA)] [Baseline and weeks 28 to 52] — Baseline Hb was defined as the mean of four central laboratory Hb values: four latest Hb values prior or on the same date as first study drug intake. Change fro
+SEC: Percentage of Participants With Hb Response During Weeks 28 to 36; Change From BL in Low Density Lipoprotein Cholesterol (LDL-C) to the Averag; Mean Monthly Intravenous (IV) Iron Use; Change From BL in Short Form-36 (SF-36) Health Survey Physical Functioning ; Change From BL in SF-36 Vitality (VT) Sub-score to the Average of Weeks 12 ; Change From BL in Mean Arterial Pressure (MAP) to the Average of Weeks 20 t; Time to First Occurrence of an Increase in Blood Pressure; Change From BL in Mean Arterial Pressure (MAP) to the Average MAP Value of ; Time to First Occurrence of an Increase in Blood Pressure; Percentage of Participants With a Hb Response During Weeks 28 and 36 Regard; Change From BL in Hb to Each Postdosing Time Point; Hb Level Averaged Over Weeks 28 to 36, 44 to 52, and 96 to 104 Without Use 
+
+### NCT02371759
+ENR: Duration of intraoral local anesthesia [Up to 6 hours after local anesthesia injection] — Time until cessation in soft tissue numbness
+ENR: Intensity of intraoral local anesthesia [Up to 10 minutes after local anesthesia injection] — Pain assessment by Visual Analogue Scale (VAS) and Numerical Rating Scale (NRS) during tooth extraction
+ENR: Change from baseline in systolic blood pressure at 5 minutes [baseline, 5 minutes] — Clinically significant changes in systolic blood pressure at the time of local anesthesia injection
+ENR: Change from baseline in systolic blood pressure at 10 minutes [baseline, 10 minutes] — Clinically significant changes in systolic blood pressure 5 minutes after local anesthesia injection
+ENR: Change from baseline in systolic blood pressure at 15 minutes [baseline, 15 minutes] — Clinically significant changes in systolic blood pressure 10 minutes after local anesthesia injection
+ENR: Change from baseline in systolic blood pressure at 20 minutes [baseline, 20 minutes] — Clinically significant changes in systolic blood pressure 15 minutes after local anesthesia injection
+ENR: Change from baseline in systolic blood pressure at 35 minutes [baseline, 35 minutes] — Clinically significant changes in systolic blood pressure 30 minutes after local anesthesia injection
+ENR: Change from baseline in diastolic blood pressure at 5 minutes [baseline, 5 minutes] — Clinically significant changes in diastolic blood pressure at the time of local anesthesia injection
+ENR: Change from baseline in diastolic blood pressure at 10 minutes [baseline, 10 minutes] — Clinically significant changes in diastolic blood pressure 5 minutes after local anesthesia injection
+ENR: Change from baseline in diastolic blood pressure at 15 minutes [baseline,15 minutes] — Clinically significant changes in diastolic blood pressure 10 minutes after local anesthesia injection
+ENR: Change from baseline in diastolic blood pressure at 20 minutes [baseline, 20 minutes] — Clinically significant changes in diastolic blood pressure 15 minutes after local anesthesia injection
+ENR: Change from baseline in diastolic blood pressure at 35 minutes [baseline, 35 minutes] — Clinically significant changes in diastolic blood pressure 30 minutes after local anesthesia injection
+ENR: Change from baseline in heart rate at 5 minutes [baseline, 5 minutes] — Clinically significant changes in heart rate at the time of local anesthesia injection
+ENR: Change from baseline in heart rate at 10 minutes [baseline, 10 minutes] — Clinically significant changes in heart rate 5 minutes after local anesthesia injection
+ENR: Change from baseline in heart rate at 15 minutes [baseline, 15 minutes] — Clinically significant changes in heart rate 10 minutes after local anesthesia injection
+ENR: Change from baseline in heart rate at 20 minutes [baseline, 20 minutes] — Clinically significant changes in heart rate 15 minutes after local anesthesia injection
+ENR: Change from baseline in heart rate at 35 minutes [baseline, 35 minutes] — Clinically significant changes in heart rate 30 minutes after local anesthesia injection
+ENR: Change from baseline in electrocardiogram at 5 minutes [baseline, 5 minutes] — Clinically significant changes in ECG at the time of local anesthesia injection
+ENR: Change from baseline in electrocardiogram at 10 minutes [baseline, 10 minutes] — Clinically significant changes in ECG 5 minutes after local anesthesia injection
+ENR: Change from baseline in electrocardiogram at 15 minutes [baseline, 15 minutes] — Clinically significant changes in ECG 10 minutes after local anesthesia injection
+ENR: Change from baseline in electrocardiogram at 20 minutes [baseline, 20 minutes] — Clinically significant changes in ECG 15 minutes after local anesthesia injection
+DEP: Duration of Intraoral Local Anesthesia [Up to 6 hours after local anesthesia injection] — Time until cessation in soft tissue numbness
+DEP: Intensity of Intraoral Local Anesthesia [Up to 10 minutes after local anesthesia injection] — Number of participants who reported values \> 0 after pin-prick testing, using Visual Analogue Scale (VAS) and Numerical Rating Scale (NRS). VAS is represented 
+DEP: Baseline Systolic Blood Pressure [Baseline, 0 minutes]
+DEP: Systolic Blood Pressure at 10 Minutes [10th minute] — Systolic blood pressure values 5 minutes after local anesthesia injection
+DEP: Systolic Blood Pressure at 15 Minutes [15th minute] — Systolic blood pressure values 10 minutes after local anesthesia injection
+DEP: Systolic Blood Pressure at 20 Minutes [20th minute] — Systolic blood pressure values 15 minutes after local anesthesia injection
+DEP: Systolic Blood Pressure at 35 Minutes [35th minute] — Systolic blood pressure values 30 minutes after local anesthesia injection
+DEP: Baseline Diastolic Blood Pressure [baseline, 0 minutes]
+DEP: Diastolic Blood Pressure at 10 Minutes [10th minute] — Diastolic blood pressure values 5 minutes after local anesthesia injection
+DEP: Diastolic Blood Pressure at 15 Minutes [15th minute] — Diastolic blood pressure values 10 minutes after local anesthesia injection
+DEP: Diastolic Blood Pressure at 20 Minutes [20th minute] — Diastolic blood pressure values 15 minutes after local anesthesia injection
+DEP: Diastolic Blood Pressure at 35 Minutes [35th minute] — Diastolic blood pressure values 30 minutes after local anesthesia injection
+DEP: Baseline Values of Heart Rate [baseline, 0 minutes]
+DEP: Heart Rate at 10 Minutes [10th minute] — Heart rate 5 minutes after local anesthesia injection, 10 minutes after baseline measurement
+DEP: Heart Rate at 15 Minutes [15th minute] — Heart rate 10 minutes after local anesthesia injection, 15 minutes after baseline measurement
+DEP: Heart Rate at 20 Minutes [20th minute] — Heart rate 15 minutes after local anesthesia injection, 20 minutes after baseline measurement
+DEP: Ceart Rate at 35 Minutes [35th minute] — Heart rate 30 minutes after local anesthesia injection, 35 minutes after baseline measurement
+DEP: Baseline Electrocardiogram [baseline, 0 minutes]
+DEP: Electrocardiogram at 10 Minutes [10th minute] — ECG 5 minutes after local anesthesia injection, 10 minutes after baseline measurement
+DEP: Electrocardiogram at 15 Minutes [15th minute] — ECG 10 minutes after local anesthesia injection, 15 minutes after baseline measurement
+DEP: Electrocardiogram at 20 Minutes [20th minute] — ECG 15 minutes after local anesthesia injection, 20 minutes after baseline measurement
+SEC: Onset of Intraoral Local Anesthesia; Width of Anesthetic Field After Maxillary Infiltration Anesthesia; Postoperative Analgesia; Local Postoperative Complications
+
+### NCT02229383
+ENR: Efficacy of exenatide in terms of change in Glycosylated hemoglobin (HbA1c) [baseline to week 28] — To compare the change from baseline in HbA1c achieved with exenatide once weekly added to titrated basal insulin glargine, with or without metformin, to placebo
+DEP: Change in HbA1c From Baseline to Week 28 [Baseline to Week 28] — To compare the change from baseline in HbA1c achieved with exenatide once weekly (EQW) added to titrated basal insulin glargine to placebo added to titrated bas
+SEC: Change in Body Weight From Baseline to Week 28; Change From Baseline to Week 28 in 2-hour Postprandial Glucose After a Stan; Percentage of Participants Achieving HbA1c <7.0% at Week 28; Change From Baseline to Week 28 in Daily Insulin Dose; Percentage of Participants Achieving HbA1c <7.0% at Week 28, No Weight Gain; Change in Seated Systolic Blood Pressure From Baseline to Week 28
+
+### NCT02101359
+ENR: The primary efficacy variable is response based on the realisation of the capsulorhexis. [Day 0]
+DEP: The Primary Efficacy Variable is Response Based on the Realisation of the Capsulorhexis Without Use of Any Additive Mydriatic Treatment. [Day 0]
+SEC: 
+
+### NCT01062763
+ENR: Blood pressure reduction [4 months]
+DEP: Change of of Systolic Blood Pressure [4 months] — Change of systolic blood pressure from baseline to study end at four months.
+DEP: Change of Diastolic Blood Pressure [4 months] — Change of diastolic blood pressure from baseline to study end at four months.
+SEC: Adverse Effects
+
+### NCT04051463
+ENR: Central corneal thickness [1 month] — Central corneal thickness
+DEP: Change in Central Corneal Thickness [1 month] — Central corneal thickness at 1 month after randomization minus central corneal thickness at baseline
+SEC: Change in Corrected Distance Visual Acuity (CDVA)
+
+### NCT00939900
+ENR: We will evaluate percent of collapse of femoral head measured by X-ray and CT and/or MRI (pelvis AP, frog leg lateral, hip axial), and degree of dome depression over 24 months [Measurement will be done at 0m, 3m, 6m, 9m, 12m, 18m, 24m)]
+DEP: Number of Participants With Femoral Head Collapse Within 24 Months [Measurements were done at 6, 12, 24 months]
+SEC: Collpase Rate of Femoral Head; Change of HHS (Harris Hip Scores), WOMAC Score, SF-36; Time to Collapse of Femoral Head; Time to Total Arthroplasty or Joint Preserving Surgery
+
+### NCT01297517
+ENR: Efficacy: mean Intraocular Pressure (IOP) [3 months]
+DEP: Mean IOP at Month 3 for Each Assessment Timepoint (8 AM, + 2 h, + 7 h, and + 9 h) [Month 3] — At the Month 3 (Exit) visit, the 8 am IOP measurement was taken before instillation of study drug. The study drug was instilled approximately 15 minutes after t
+SEC: 
+
+### NCT02943564
+ENR: Change from Baseline in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score [Baseline and 1 Day] — The MADRS is a clinician-rated scale to assess depressive symptomatology during the preceding week. Participants are rated on 10 items (feelings of sadness, las
+DEP: Change From Baseline in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score at the End of Study [Baseline and 3 Weeks] — The MADRS is a clinician-rated scale to assess depressive symptomatology during the preceding week. Participants are rated on 10 items (feelings of sadness, las
+SEC: Change From Baseline in MADRS Total Score
+
+### NCT04668950
+ENR: Clinical deterioration [RCT-approximately 15 days] — Defined as both of the following: 1)Presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, 2)) decrease in O2 saturation (<92% on room
+DEP: Number of Participants With Clinical Deterioration [RCT-approximately 15 days] — Defined as the number of participants who experienced the following: both of the following: 1)Presence of dyspnea and/or hospitalization for shortness of breath
+SEC: 
+
+### NCT03474107
+ENR: Overall Survival (OS) [Up to 36 months] — OS is defined as the time from randomization to the date of death.
+DEP: Overall Survival (OS) [From randomization until the analysis cut-off date of 15-Jul-2020 (median OS follow-up was 11.10 months)] — OS was defined as the time from the date of randomization until the documented date of death from any cause. OS was analyzed using Kaplan-Meier estimates. Parti
+SEC: Progression Free Survival on Study Therapy (PFS1) as Per Response Evaluatio; Overall Response Rate (ORR) as Per RECIST V1.1; Disease Control Rate (DCR) as Per RECIST V1.1; Duration of Response (DOR) as Per RECIST V1.1; Change From Baseline to Week 12 in European Organisation for Research and T; Change From Baseline to Week 12 in EuroQOL 5-dimension 5-level Questionnair; Number of Participants With Treatment Emergent Adverse Events; Number of Participants With ECOG Performance Status
+
+### NCT01473589
+ENR: Percentage of participants with successful femoral neck fracture healing at 24 months [24 months]
+DEP: Percentage of Participants With No Revision Surgery at 12 Months After Internal Fixation of a Low-Trauma Femoral Neck Fracture [12 months] — Revision surgery (re-operation) was defined as any additional surgical intervention performed or recommended at the site of the index procedure, except those th
+SEC: Percentage of Participants With Radiographic Evidence of Healing; Percentage of Participants With Pain Control During Ambulation; Percentage of Participants Without Severe Fracture-Site Pain During 24 Hour; Percentage of Participants Without Severe Fracture-Site Pain During Weight ; Percentage of Participants With Functional Evidence of Healing; Percentage of Participants Able to Ambulate; Percentage of Participants Who Regain Their Prefracture Ambulatory Status; Mean Change From Baseline to 6 Months in Worst Fracture-Site Pain; Mean Change From Baseline to 6 Months in Gait Speed; Time to Revision Surgery; Mean Change From Baseline to 6 Months on Short Form-12 (SF-12) Physical (PC; Mean Change From Baseline to 6 Months on Western Ontario McMaster Osteoarth
+
+### NCT02706873
+ENR: Proportion of participants achieving American College Rheumatology (ACR) 50 response [At week 24] — ACR criteria measure improvements in tender and swollen joint counts, patient assessments of pain, global disease activity and physical function, physician glob
+ENR: Clinical remission (CR) (DAS28 [CRP] < 2.6) [At Week 24] — CR based on DAS28 (CRP) response rate is defined as DAS28 (CRP) less than 2.6
+DEP: Percentage of Participants With an American College of Rheumatology 50% (ACR50) Response at Week 12 - Global Analysis [Baseline and Week 12] — The primary endpoint for United States (US)/Food and Drug Administration (FDA) regulatory purposes was ACR 50% response (ACR50) at Week 12. Participants who met
+DEP: Percentage of Participants Achieving Clinical Remission (CR) Based on DAS28(CRP) at Week 24 - Global Analysis [Week 24] — The primary endpoint for European Union (EU)/European Medicines Agency (EMA) regulatory purposes was clinical remission, based on a Disease Activity Score 28 (D
+DEP: Percentage of Participants With an American College of Rheumatology 20% (ACR20) Response at Week 12 - Global Analysis [Baseline and Week 12] — The primary endpoint for Japan/Pharmaceuticals and Medical Devices Agency (PMDA) regulatory purposes was ACR 20% response (ACR20) at Week 12. Participants who m
+DEP: Change From Baseline in Modified Total Sharp Score (mTSS) at Week 24 - Global Analysis [Baseline to Week 24] — The second primary endpoint for Japan/PMDA regulatory purposes was change from baseline in mTSS at Week 24. The mTSS measures the level of joint damage from rad
+SEC: Change From Baseline in DAS28 (CRP) at Week 12 - Global Analysis; Change From Baseline in Health Assessment Questionnaire Disability Index (H; Percentage of Participants Achieving Low Disease Activity (LDA) Based on DA; Change From Baseline in Short-Form 36 (SF-36) Physical Component Score (PCS; Change From Baseline in DAS28 (CRP) at Week 24 - Global Analysis; Change From Baseline in Health Assessment Questionnaire Disability Index (H; Percentage of Participants With an ACR50 Response at Week 24 - Global Analy; Percentage of Participants Achieving Low Disease Activity (LDA) Based on DA; Change From Baseline in Short-Form 36 (SF-36) Physical Component Score (PCS; Percentage of Participants With No Radiographic Progression at Week 24 - Gl; Percentage of Participants With an American College of Rheumatology 70% (AC; Percentage of Participants With an ACR20 Response at Week 24 - Global Analy
+
+### NCT01686633
+ENR: Weighted mean serial forced expiratory volume in one second (FEV1) [Week 12] — Weighted mean of serial FEV1 will be assessed over 0-24 hours post-dose at the end of the 12-week treatment period.
+DEP: Change From Baseline in Weighted Mean Forced Expiratory Volume in One Second (FEV1) Over 0 to 24 Hours Post-dose at the End of the 12-week Treatment Period [Baseline and Week 12] — Pulmonary function was measured by FEV1, defined as the maximal amount of air that can be forcefully exhaled in one second. The weighted mean was calculated fro
+SEC: Change From Baseline in Clinic Visit Trough FEV1 at the End of the 12-week ; Change From Baseline in the Percentage of Rescue-free 24-hour (hr) Periods ; Change From Baseline in the Percentage of Symptom-free 24-hour (hr) Periods; Change From Baseline in Daily Morning (AM) Peak Expiratory Flow (PEF) Avera; Change From Baseline in Daily Evening (PM) PEF Averaged Over the 12-week Tr
+
+### NCT01108731
+ENR: Ventricular lactate levels in the brain will be measured via magnetic resonance spectroscopy(MRS) [2 months] — Study participants will be reimbursed for their time.
+DEP: Change in Ventricular Lactate Levels in the Brain [Baseline and 2 months] — Ventricular lactate levels will be assessed before and at the end of the trial using a scanning method known as magnetic resonance spectroscopy (MRS), which is 
+SEC: Change in Cognitive Function Assessed by the no Cue Condition of the Attent; Change in Widespread Pain
+
+### NCT04739306
+ENR: Clinical response [Week 8] — Clinical response in Best Corrected Visual Acuity using Early Treatment of Diabetic Retinopathy Study chart
+DEP: Mean Change From Baseline in Best Corrected Visual Acuity (BCVA) at Week 8 [Baseline and Week 8] — Mean change from baseline in BCVA as assessed by Early Treatment Diabetic Retinopathy Study (ETDRS) letters at week 8. Subjects with a BCVA ETDRS letter score o
+SEC: Mean Change From Baseline in BCVA at Week 52; Proportion of Subjects Who Gained ≥15 Letters in BCVA as Measured by ETDRS ; Proportion of Subjects With a ≥2-step Improvement From Baseline in the ETDR; Change From Baseline in Central Subfield Thickness (CST) at Week 52 as Asse
+
+### NCT04066023
+ENR: Proportion of subjects who achieve pain relief [15 minutes] — Pain relief is defined by a decrease in pain from severe to mild or none without the use of acute rescue medication.
+ENR: Proportion of subjects who achieve sustained pain relief [15 minutes to 60 minutes] — Sustained pain relief requires a pain rating of mild or none at each timepoint from 15 minutes to 60 minutes without the use of acute rescue medication.
+DEP: Percentage of Subjects Who Achieve Pain Relief [15 minutes] — Pain relief is defined by a decrease in pain from severe to mild or none without the use of acute rescue medication.
+DEP: Percentage of Subjects Who Achieve Sustained Pain Relief [15 minutes to 60 minutes] — Sustained pain relief requires a pain rating of mild or none at each timepoint from 15 minutes to 60 minutes without the use of acute rescue medication.
+SEC: Percentage of Subjects That Achieve Pain Relief; Percentage of Subjects That Achieve Sustained Pain Relief; Percentage of Subjects That Achieve Pain Freedom; Percentage of Subjects That Achieve Sustained Pain Freedom; Percentage of Subjects Able to Perform Their Usual Daily Activities as Asse; Percentage of Subjects That Achieve Pain Relief; Percentage of Subjects That Achieve Pain Relief; Percentage of Subjects That Achieve Sustained Pain Relief; Percentage of Subjects That Achieve Pain Freedom
+
+### NCT01235234
+ENR: Complete clearing of corneal staining by fluorescein staining [24 weeks]
+ENR: Nature and frequency of adverse events [24 weeks]
+DEP: Number of Subjects Who Achieved Complete Clearing of Corneal Staining (i.e., Total Corneal FS Score = 0) at Week 24 [24 weeks] — Complete clearing of corneal staining by fluorescein staining (FS). The primary efficacy analysis was performed for 1eye (target eye), defined as the eye with t
+DEP: Number of Subjects With Adverse Events [24 weeks] — Determine the safety of oral CF 101 in this subject population. Adverse Events (AEs) and changes in vital signs, physical examination, clinical laboratory tests
+SEC: Number of Subjects Who Achieve an Increase in Schirmer Test Tearing by >9mm; Ocular Surface Disease Index
+
+### NCT02281318
+ENR: Mean change from baseline in St. George's Respiratory Questionnaire (SGRQ) score at Week 24 [Baseline and Week 24] — SGRQ is a well established instrument, comprising of 50 questions designed to measure Quality of Life in participants with diseases of airway obstruction, measu
+DEP: Mean Change From Baseline (BL) in St. George's Respiratory Questionnaire (SGRQ) Score at Week 24 [Baseline and Week 24] — SGRQ consisted of 50 questions (scored from 0 to 100 where 0 indicates best and 100 indicates worst health) designed to measure Quality of Life in par. with dis
+SEC: Mean Change From Baseline in Clinic Pre-bronchodilator Forced Expiratory Vo; Percentage of Participants Achieving a 4 Point or Greater Reduction From Ba; Mean Change From Baseline in Asthma Control Questionnaire (ACQ-5) Score at 
+
+### NCT01346592
+ENR: [1] Serious adverse events and other significant medical occurrences from Day 1 through Day 394; [394 days] — [2] Solicited local and systemic reaction 7 days following each vaccination; [3] All unsolicited adverse events from Day 1 to Day 50; [4] Immunogenicity assessm
+DEP: Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Terms of Geometric Mean Titers (GMTs) Against Homologous Strains [Day 1, Day 50] — The non-inferiority of Hemagglutination Inhibition (HI) antibody responses of aTIV compared to TIV and comparator TIV assessed in terms of post vaccination GMTs
+DEP: Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Terms of Percentage of Subjects Achieving Seroconversion or ≥4-fold Increase in HI Titers Against Homologous Strains [Day 50] — The non-inferiority of HI antibody responses of aTIV compared to TIV and comparator TIV assessed in terms of percentage of subjects achieving seroconversion or 
+DEP: Comparison of Antibody Responses of TIV Versus Comparator TIV in Terms of Geometric Mean Titers (GMTs) Against Homologous Strains (6 to <36 Months) [Day 1, Day 50] — The non-inferiority of HI antibody responses of TIV to that of comparator TIV, in subjects aged 6 to \<36 Months, assessed in terms of post vaccination GMTs at 
+DEP: Comparison of Antibody Responses of TIV Versus Comparator TIV in Terms of Percentage of Subjects Achieving Seroconversion or ≥4-fold Increase in HI Titer Against Homologous Strains in Subjects 6 to <36 Months of Age [Day 50] — The non-inferiority of HI antibody responses of TIV to that of the licensed comparator TIV assessed in terms of percentage of subjects achieving seroconversion 
+SEC: Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter; Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter; Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter; Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter; The HI GMTs Against Homologous Strains, by Vaccine Group; Geometric Mean Ratio (GMR) of Post- Versus Pre-vaccination HI Titers Agains; Percentage of Subjects With HI Titers ≥40 Against Homologous Strains, by Va; Percentage of Subjects Achieving Seroconversion or ≥4 Fold Increase in HI T; Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter; Comparison of Antibody Responses of aTIV Versus Comparator TIV and TIV in T; Comparison of Antibody Responses of TIV Versus Comparator TIV in Terms of P; Comparison of Antibody Responses of aTIV With TIV and Comparator TIV in Ter
+
+### NCT04870606
+ENR: Efficacy of Proxalutamide [28 days] — percentage of hospitalization
+DEP: Efficacy in Terms of Clinical Status Following Treatment With Pruxelutamide (GT0918) Compared to Placebo [28 days] — In mITT (administrated at least one dose)，percentage of subjects who do not experience any of the following events due to all causes by Day 28: * Hospitalizatio
+DEP: Sensitivity Analysis to Evaluate Efficacy in Terms of Clinical Status Following Treatment With Pruxelutamide (GT0918) Compared to Placebo [28 days] — In mITT (treatment period \>7 days) , percentage of subjects who do not experience any of the following events due to all causes by Day 28: * Hospitalization fo
+SEC: Proportion of Subjects With Hospitalization by Day 28; Viral Load
+
+### NCT01492101
+ENR: Overall Survival [36 Months] — To compare overall survival (OS) of patients who received NKTR-102 given once every 21 days (q21d) to patients who received Treatment of Physicians Choice (TPC)
+DEP: Kaplan-Meier Estimate of Overall Survival: Intention to Treat (ITT) Population [36 Months] — Duration of OS was defined as the time from the date of randomisation to the date of death due to any cause. Subjects were followed until their date of death, l
+SEC: Kaplan-Meier Estimate of Progression-Free Survival (PFS): ITT Population; Clinical Benefit Rate (CBR): ITT Population; Duration of Response (DOR): Efficacy Evaluable Population; Incidence of Dose Reductions: Safety Population; Quality of Life Questionnaire-Core 30 (QLQ-C30) Individual Scale, Overall S; QLQ-C30 Individual Scale, Change Over Time: ITT Population; Quality of Life Questionnaire-breast Cancer-specific Module (BR23) Score Va; BR23 Score Change Over Time: ITT Population; Population Mean ± Standard Deviation (SD) Area Under the Concentration-Time; Population Mean ± SD Maximum Plasma Concentration (Cmax) for NKTR-102 and M; Population Mean ± SD Elimination Half-life (t½) for NKTR-102 After Multiple; Objective Response Rate (ORR): Efficacy Evaluable Population
+
+### NCT03620162
+ENR: Percentage of Participants with a Solicited Injection-site Adverse Event [Up to 14 days after each Prevnar 13™ and V114 vaccination] — An adverse event (AE) is defined as any unfavourable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product or proto
+ENR: Percentage of Participants with a Solicited Systemic Adverse Event [Up to 14 days after each Prevnar 13™ and V114 vaccination] — An AE is defined as any unfavourable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product or protocol-specified pr
+ENR: Percentage of Participants with a Vaccine-related Serious Adverse Event [Up to 6 months after Dose 4 (Study Month 19)] — A serious adverse event (SAE) is an AE that is life-threatening, requires or prolongs an existing hospitalization, results in persistent or significant disabili
+ENR: Geometric Mean Concentration of Immunoglobulin G (IgG) Serotypes Contained in V114: Groups 2, 3, and 4 versus Group 1 [1 month after Dose 4 (approximately Study Month 11-14)] — Immunoglobulin G for the 15 serotypes contained in V114 vaccine will be determined using an electrochemiluminescence assay. This Outcome Measure will compare im
+DEP: Percentage of Participants With a Solicited Injection-site Adverse Event (AE) [Up to ~14 days after each vaccination] — An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered re
+DEP: Percentage of Participants With a Solicited Systemic AE [Up to ~14 days after each vaccination] — An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered re
+DEP: Percentage of Participants With a Vaccine-related Serious Adverse Event (SAE) [Up to ~6 months after Vaccination 4 (up to ~19 months)] — An SAE is any untoward medical occurrence that results in death, is life-threatening, requires or prolongs existing hospitalization, results in persistent or si
+DEP: Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4 [30 Days after Vaccination 4 (Months 11-14)] — The GMC of anti-PnP serotype-specific IgG for 13 shared serotypes contained in V114 and Prevnar 13™ (1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F) was ass
+SEC: Group 5 Versus Group 1 + Group 2: Percentage of Participants With Anti-Hepa; Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavi; GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vacc; Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for ; Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contain
+
+### NCT03280537
+ENR: Change From Baseline in Average Daily Nasal Congestion Score (NCS) at Week 24 [Baseline, Week 24]
+ENR: Change From Baseline in Nasal Polyp Score (NPS) to Week 24 [Baseline, Week 24]
+DEP: Change From Baseline in Nasal Polyp Score (NPS) at Week 24 [Baseline, Week 24] — Total NPS ranges from 0 to 8 (sum of 0-4 for left and right nasal passage scores per the following criteria), with a lower score indicating smaller-sized nasal 
+DEP: Change From Baseline in Average Daily Nasal Congestion Score (NCS) at Week 24 [Baseline, Week 24 (Study Days 155 to 186)] — The Nasal Congestion Score (NCS) was assessed daily by the participant via an electronic diary as the response to the following question: Is your nose blocked? 
+SEC: Change From Baseline in Average Daily Sense of Smell Score at Week 24; Change From Baseline in Average Daily Posterior Rhinorrhea Score at Week 24; Change From Baseline in Nasal Polyp Score (NPS) at Week 16; Change From Baseline in Average Daily Nasal Congestion Score at Week 16; Change From Baseline in Participant Reported Health-Related Quality of Life; Change From Baseline in Average Daily Anterior Rhinorrhea Score at Week 24; Number of Participants Requiring Rescue Medication (Systemic Corticosteroid; Number of Participants Having Had Surgery for Nasal Polyps Through Week 24; Number of Participants With a Change From Baseline at Week 24 in Asthma Qua; Number of Participants Requiring Rescue Treatment (Systemic Corticosteroids; Number of Participants With Reduction in the Need for Surgery for Nasal Pol; Change From Baseline in Average Daily Total Nasal Symptom Score (TNSS) at W
+
+### NCT02289352
+ENR: rosacea improvement or treatment success [7 days] — Proportion of patients with a clinical response of treatment success on Day 7 (± 1). Treatment success is defined as at least a 2-grade improvement on both CEA 
+DEP: Primary: Percentage of Treatment Success on Day 7 [7 days] — Percentage of patients with a clinical response of treatment success on Day 7 (± 1). Treatment success is defined as at least a 2-grade improvement on both CEA 
+SEC: Percentage of Patients With a Clinical Response of Treatment Success on Day
+
+### NCT01533428
+ENR: Percent change in the average daily pain score through week 8 [Baseline & week 8] — Question 5 of the Brief Pain Inventory-Diabetic Neuropathy (BPI-DN) from the average assessed during the baseline run-in period to the average daily pain score 
+DEP: Percent Change in the Average Daily Pain Score From Baseline to Between Weeks 2 and 8 [Baseline to between Weeks 2 to 8] — Percent change in the average daily pain score from baseline to between Weeks 2 and 8, measured using Question 5 of the Brief Pain Inventory-Diabetic Neuropathy
+SEC: Percent Change in the Average Daily Pain Score From Baseline to Between Wee; Weekly Percent Change From Baseline in Average Daily Pain Score; Weekly Average of Average Daily Pain at Baseline and Every Week After Basel; Percentage of Participants With 30% Reduction in Average Daily Pain Score.; Percentage of Participants With 50% Reduction in Average Daily Pain Score.; Overall Participant Status Assessed Using Patient Global Impression of Chan; Overall Participant Status Assessed Using Patient Global Impression of Chan; Overall Participant Status Assessed Using Patient Global Impression of Chan; Change From Baseline in the European Quality Of Life (QOL) Questionnaire in; Change in Hospital Anxiety and Depression Scale (HADS) Anxiety Scale From B; Change in Hospital Anxiety and Depression Scale (HADS) Depression Scale Fro; Treatment Satisfaction Assessment Based on Self-Assessment of Treatment (SA
+
+### NCT01475071
+ENR: Percent change from baseline in total number of treated mild lesions per side at week 12. [Baseline and week 12] — <p>At baseline, mild lesions will be mapped on each side.</p><p>At week 12 each mild lesion response will be assessed per side as:</p><ul><li>Complete response 
+ENR: Subject assessment of maximal pain per side at baseline [baseline] — Subject assessment of maximal pain on a scale from 0 (no pain ) to 10 (extreme pain) per side at baseline
+DEP: Lesion Response [Week12] — Percent of lesions treated at Baseline, in complete response at Week 12
+DEP: Pain Score [Baseline (during procedure), assessed after procedure] — Subject self assessment of pain on a scale from 0 (no pain ) to 10 (extreme pain)
+SEC: 
+
+### NCT01887600
+ENR: Hemoglobin (Hb) response to treatment with FG-4592 treatment with FG-4592 [Day 1 to Week 24]
+DEP: Percentage of Participants With a Hemoglobin (Hb) Response to Treatment at Two Consecutive Visits During the First 24 Weeks of Treatment Without Rescue Therapy Prior to Hb Response [Baseline to week 24] — Hemoglobin (Hb) response was measured as Yes or No. Response Yes (responders) was defined as: Hb ≥11.0 g/dL and Hb increase from baseline by ≥ 1.0 g/dL, for par
+DEP: Hb Change From Baseline (BL) to the Average Hb in Weeks 28-52 Regardless of Rescue Therapy [Baseline and weeks 28 to 52] — The change from baseline to the average Hb values across weeks 28 to 52 without having received rescue therapy. The Hb values from visit windows at weeks 28, 32
+SEC: Hb Change From BL to the Average Hb in Weeks 28-36 Without Having Received ; Change From BL in Low-Density Lipoprotein (LDL) Cholesterol (Regardless of ; Time to First Use of Rescue Therapy (Composite of Red Blood Cell (RBC) Tran; Change From BL in Short Form (SF)-36 Vitality (VT) Sub-score to the Average; Change From BL in SF-36 Physical Functioning (PF) Sub-score to the Average ; Change From BL in Mean Arterial Pressure (MAP) to the Average MAP of Weeks ; Time to First Occurrence of Hypertension; Rate of Progression of CKD Measured by Annualized Estimated Glomerular Filt; Average Level of Hb Over Weeks 28 to 36 Without Use of Rescue Therapy Withi; Average Level of Hb Over Weeks 44 to 52 Without Use of Rescue Therapy Withi; Average Level of Hb Over Weeks 96 to 104 Without Use of Rescue Therapy With; Time to Achieve the First Hb Response Without Rescue Therapy, as Defined by
+
+### NCT02635204
+ENR: Safety Assessments including Vital Signs, Local Cutaneous safety evaluation of the Treated Skin, and Adverse Events. [Safety assessments will be performed from Screening to Day 15.]
+ENR: Efficacy (proportion of subjects with treatment success (defined as IGA = 0 or 1 and at least a 2 grade reduction from Baseline) [Day 15 Visit]
+DEP: Percentage of Subjects With Treatment Success at Day 15 [Day 15 Visit] — The percentage of subjects with treatment success (defined as IGA = 0 or 1 and at least a 2-grade reduction from baseline) at the Day 15 visit. Primary analysis
+SEC: Percent Change From Baseline in Body Surface Area at Day 15; Percent of Subjects With Treatment Success at Day 8 Visit
+
+### NCT03335566
+ENR: Accuracy Improvement with Post-Contrast Versus Pre-Contrast Ultrasound (US) Examination for Diagnosis of the Target Lesion as Malignant or Benign Against the Reference Diagnosis (RD)/Standard of Truth [Pre-administration up to 15 minutes post-administration] — Accuracy improvement is calculated by the number of participants with improved diagnoses from the pre-contrast diagnosis to the post-contrast diagnosis divided 
+DEP: Percentage of Participants With Accuracy Improvement in Post-Contrast Versus Pre-Contrast Ultrasound (US) Examination for Diagnosis of the Target Lesion as Malignant or Benign Against the Reference Diagnosis (RD)/Standard of Truth [Pre-administration up to 15 minutes post-administration] — Accuracy improvement was calculated by the number of participants with improved diagnoses from the pre-contrast diagnosis to the post-contrast diagnosis divided
+SEC: Number of Lesions Detected by Post-Contrast US Relative to Number of Lesion; Number of Participants With Diagnostic Confidence (Evaluated by Blinded Rea; Percentage of Participants With Accuracy Improvement in Post-contrast Versu
+
+### NCT02770807
+ENR: Modified International Cooperative Ataxia Rating Scale (mICARS) [3 months, 6 months, 9 months, 12 months] — Change from baseline analyzed using a Mixed Model Repeated Measures (MMRM) approach
+DEP: Change From Baseline in Modified International Cooperative Ataxia Rating Scale (mICARS) [to Month 6 (Visit 9)] — The International Cooperative Ataxia Rating Scale (ICARS) was an assessment of the degree of impairment in patients with cerebellar ataxia and was administered 
+SEC: Number of Patients With Improving, Stable or Worsening Score Using a Clinic; Number of Patients With None to Severe (0 to 4) Scores in Clinical Global I; Change From Baseline of Vineland Adaptive Behavior Scale (VABS-II) Scores -; Number of Patients With at Least One Treatment-Emergent Adverse Event (TEAE; Number of Patients With at Least One Treatment-Emergent Adverse Event (TEAE
+
+### NCT01451203
+ENR: Inhibition of radiographic progression [week 52]
+DEP: Change From Baseline in Modified Total Sharp Score (mTSS) at Week 52 [Baseline and Week 52] — Radiographs/X-rays of hands and feet (posteroanterior views of both hands and dorsoplantar views of both feet) were independently assessed by two radiographic r
+SEC: Change From Baseline in mTSS at Week 24; Clinical Remission Rate: Percentage of Participants Meeting the Disease Act; Clinical Remission Rate: Percentage of Participants Meeting the American Co; Percentage of Participants Meeting the American College of Rheumatology/Eur
+
+### NCT00283686
+ENR: - Study A: Change in total kidney volume, as assessed by abdominal MR at baseline, 2 years, and 4 years follow-up. []
+ENR: - Study B: Time to the 50% reduction of baseline eGFR, ESRD (initiation of dialysis or preemptive transplant), or death. []
+DEP: Study A: Percent Annual Change in Total Kidney Volume [Baseline and 2-, 4- and 5-year follow-up] — Annual percentage change in total kidney volume as assessed by abdominal magnetic resonance imaging (MRI) at baseline, 2 years, 4 years, and 5 years follow-up.
+SEC: Kidney Function (eGFR); Albuminuria; Aldosterone; Left Ventricular Mass Index; Renal Blood Flow; All-Cause Hospitalizations; Quality of Life Physical Component Summary; Quality of Life Mental Component Summary
+
+### NCT02292784
+ENR: Number of infants with newly diagnosed (after 28 days post estimated date of delivery) chronic medical conditions [Up to 27 months] — Chronic medical conditions will include: respiratory (chronic lung disease, reactive airway disease, vocal cord paralysis, airway obstruction), neurological (ce
+ENR: Number of infants with newly diagnosed congenital anomalies [Up to 27 months]
+ENR: Number of neonatal and infant deaths [Up to 27 months] — Number of neonatal and infant deaths that occur after 28 days post estimated date of delivery (EDD) and until the end of the study (up to 24 months corrected ag
+ENR: Proportion of infants with an Ages and Stages Questionnaire-3[ASQ-3] score in the black zone for any domain, for gross motor skills, for fine motor skills, for communication, for problem solving and for personal-social skills [At 9, 18 and 24 months, corrected for prematurity, up to 24 months] — The parent/legal guardian will be asked to complete standardized developmental screening of the infant through completion of the ASQ-3. The ASQ-3 includes a ser
+ENR: Proportion of infants referred for developmental evaluation (using Bayley Scales of Infant Development, third edition (BSID III) [Up to 27 months] — Any child who scores in the black zone (=<2 standard deviation [SD] below the mean) in any of the 5 domains of the ASQ-3 will be referred to a qualified assesso
+ENR: Proportion of infants with a BSID-III score <2 SD below the mean score for the cognitive scale (<70), for the gross motor scale (<70), for the fine motor scale (<70) and for the language scale (<70) [Up to 27 months]
+ENR: Proportion of infants referred for behavioral assessment using Child Behavior Checklist for Ages 1.5 to 5 (CBCL/1.5-5) and Modified Checklist for Autism in Toddlers-Revised with Follow-Up (M-CHAT-R/F) [Up to 27 months] — The Child Behavior Checklist for Ages 1.5 to 5 (CBCL/1.5-5) questionnaire is a parent-completed questionnaire used for assessing behavioral problems and social 
+ENR: Proportion of infants with a CBCL/1.5-5 score at or above the 97th percentile for a subset of prespecified questions that relate to attention and hyperactivity problems [Up to 27 months]
+ENR: Proportion of infants indicated as needing further evaluation after completion of the M-CHAT-R/F [Up to 27 months]
+ENR: Proportion of infants referred for neurological evaluation to determine diagnosis of cerebral palsy [Up to 27 months] — Cerebral palsy, defined as a chronic, nonprogressive neurologic disorder encompassing impaired motor function affecting movement, posture, balance muscle contro
+ENR: Proportion of infants with at least 1 of the indicators of neurodevelopmental impairment at the end of the study [Up to 27 months] — The indicators of neurodevelopmental impairment are: 1) Hearing impaired, uncorrected even with aids 2) Blindness in 1 or both eyes, or sees light only, 3) Cere
+ENR: Parental productivity loss related to a sick child and infant resource utilization in terms of number of hospital admissions [Up to 27 months] — Number of hospital admissions, proportion of infants with any hospital admission, post-birth hospitalization discharge, by principal and secondary discharge dia
+ENR: Parental productivity loss related to a sick child and infant resource utilization in terms of combined length of hospital stay for all hospital admissions [Up to 27 months] — Combined length of hospital stay in days for all hospital admissions (for infants discharged from the delivery hospitalization and for babies who were never dis
+ENR: Parental productivity loss related to a sick child and infant resource utilization in terms of number of emergency room/urgent care (ER/UC) visits and number of subjects with any ER/UC visit after 28 days post EDD [Up to 27 months] — Number of emergency room/urgent care (ER/UC) visits and number of subjects with any ER/UC visit after 28 days post EDD
+ENR: Parental productivity loss related to a sick child and infant resource utilization in terms of number of surgical procedures [Up to 27 months] — This outcome will be assessed by the type of procedure and whether performed on an inpatient basis or at an outpatient/surgical center) after 28 days post EDD
+ENR: Parental productivity loss related to a sick child and infant resource utilization in terms of number of speciality care or therapy visits and number of subjects referred for speciality care or therapy [Up to 27 months] — This outcome will be assessed by the type of speciality care or therapy after 28 days post EDD
+DEP: Number of Infants and Children With Newly Diagnosed Chronic Medical Conditions (After 28 Days Post Estimated Date of Delivery) [From 28 days post estimated date of delivery up to 24 months] — The parents of the infants filled in an online child health inventory (CHI) questionnaire, which asked them about each condition. If they reported anything, it 
+DEP: Number of Infants and Children With Newly Diagnosed Congenital Anomalies (After 28 Days Post Estimated Date of Delivery) [From 28 days post estimated date of delivery up to 24 months] — A congenital anomaly is a condition present at birth that results from malformation, deformation, or disruption in 1 or more parts of the body, a chromosomal ab
+DEP: Number of Infant and Child Death (After 28 Days Post Estimated Date of Delivery) [From 28 days post estimated date of delivery up to 24 months] — Number of infant and child death that occurred after 28 days post estimated date of delivery and up to 24 months are presented.
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Any Domain at 9 Months [At 9 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Any Domain at 18 Months [At 18 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Any Domain at 24 Months [At 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Gross Motor Skills [9, 18 and 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Fine Motor Skills [9, 18 and 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Communication Skills [9, 18 and 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Problem Solving Skills [9, 18 and 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants With Ages and Stages Questionnaire-3 (ASQ-3) Score in the Black Zone for Personal Social Skills [9, 18 and 24 months] — The ASQ-3 included 6 questions in each area, designed to assess 5 areas of development: communication skills, gross motor skills, fine motor skills, problem sol
+DEP: Number of Infants Referred for Developmental Evaluation Using Bayley Scales of Infant Development, Third Edition (BSID-III) [9, 18 and 24 months] — Any infant who scored below the cut-off i.e., a score greater than or equal to 2 Standard Deviations (SDs) below the mean score (i.e., black zone in the score c
+DEP: Number of Infants With Bayley Scales of Infant Development, Third Edition Score Greater Than 2 Standard Deviation Below the Mean Score for the Cognitive Scale (Less Than 4) [9, 18 and 24 months] — Any infant who scored below the cut-off i.e., a score greater than or equal to 2 SDs below the mean score (i.e., black zone in the score chart) in any of the 5 
+DEP: Number of Infants With Bayley Scales of Infant Development, Third Edition Score Greater Than 2 Standard Deviation Below the Mean Score for the Gross Motor Scale (Less Than 4) [9, 18 and 24 months] — Any infant who scored below the cut-off i.e., a score greater than or equal to 2 SDs below the mean score (i.e., black zone in the score chart) in any of the 5 
+DEP: Number of Infants With Bayley Scales of Infant Development, Third Edition Score Greater Than 2 Standard Deviation Below the Mean Score for the Fine Motor Scale (Less Than 4) [9, 18 and 24 months] — Any infant who scored below the cut-off i.e., a score greater than or equal to 2 SDs below the mean score (i.e., black zone in the score chart) in any of the 5 
+DEP: Number of Infants With Bayley Scales of Infant Development, Third Edition Score Greater Than 2 Standard Deviation Below the Mean Score for the Language Scale (Less Than 70) [9, 18 and 24 months] — Any infant who scored below the cut-off i.e., a score greater than or equal to 2 SDs below the mean score (i.e., black zone in the score chart) in any of the 5 
+DEP: Number of Infants With a Child Behavior Checklist for Ages 1.5 to 5 Years (CBCL/1.5 to 5) Score Above the 97th Percentile for a Subset of Prespecified Questions That Relate to Attention and Hyperactivity Problems [At 24 months] — The CBCL/1.5 to 5 questionnaire is a parent-completed questionnaire used for assessing behavioral problems and social competencies. It included approximately 10
+DEP: Number of Infants Indicated as Needing Further Evaluation After Completion of the Modified Checklist for Autism in Toddlers- Revised With Follow-up (M-CHAT-R/F) [18 and 24 months] — The M-CHAT-R/F is a parent-reported autism screening tool designed to identify children 16 to 30 months of age who received a more thorough assessment for possi
+DEP: Number of Infants Referred for Neurological Evaluation to Determine Diagnosis of Cerebral Palsy [At 24 months] — Parents reported in CHI questionnaire if their infant had cerebral palsy. If the infant was not diagnosed with cerebral palsy, then this was detected as part of
+DEP: Number of Infants With the Indicators of Neurodevelopmental Impairment [Up to 24 months] — The indicators of neurodevelopmental impairment were 'hearing impaired, uncorrected even with aids'; 'blindness in 1 or both eyes, or sees light only'; 'cerebra
+SEC: 
+
+### NCT02226198
+ENR: Change in low density lipoprotein cholesterol (LDL C) following 6 weeks of rosuvastatin 20 mg compared to 6 weeks of placebo treatment [Samples taken on Day 42 (week 6) and on day 84 (week 12)]
+DEP: LDL-Cholesterol (mg/dL) [Samples taken on Day 42 (week 6) and on day 84 (week 12)] — Change in low density lipoprotein cholesterol (LDL C) following 6 weeks of rosuvastatin 20 mg compared to 6 weeks of placebo treatment
+DEP: LDL-Cholesterol (mmol/L) [Samples taken on Day 42 (week 6) and on day 84 (week 12)] — Change in low density lipoprotein cholesterol (LDL C) following 6 weeks of rosuvastatin 20 mg compared to 6 weeks of placebo treatment
+SEC: TC (mg/dL); TC (mmol/L); Non-HDL C (mg/dL); Non-HDL C (mmol/L); ApoB (mg/dL); ApoB (g/L); HDL-C (mg/dL); HDL-C (mmol/L); LDL-C, Not on Apheresis (mg/dL); LDL-C, Not on Apheresis (mmol/L); LDL-C From End of Placebo (mg/dL); LDL-C From End of Placebo (mmol/L)
+
+### NCT02612337
+ENR: Reduction in number of definitive vertigo days compared to placebo [3 months]
+DEP: The Number of DVD at Week 12 (Defined as the 4-week [28 Days] Interval From Week 9 Through Week 12). [Week 12 (3 months)] — The number of DVDs at Week 12 (defined as the 4-week \[28 days\] interval from Week 9 through Week 12) was compared between OTO-104 and placebo. Week 12 = 12 we
+SEC: Effect of Vertigo on Daily Activities - Number of Days Sick at Home or Bedr; Otoscopic Examination - Tympanic Membrane Perforation at Week 12 (Month 3); Audiometry - Shift in Air-Bone Gap at 500 Hz From Baseline to Week 12 (Mont; Audiometry - Shift in Air-Bone Gap at 1000 Hz From Baseline to Week 12 (Mon; Audiometry - Shift in Air-Bone Gap at 2000 Hz From Baseline to Week 12 (Mon
+
+### NCT01857622
+ENR: Incidence of any adjudicated bleeding events [3 months] — Incidence of any adjudicated bleeding events (including major bleeding, clinically relevant non-major bleeding, and minor bleeding)
+ENR: Incidence of adverse events [3 months] — Incidence of adverse events
+ENR: Incidence of adverse drug reactions [3 months] — Incidence of adverse drug reactions
+ENR: Plasma concentration of DU-176b [3 months] — Plasma concentration of DU-176b
+ENR: Plasma concentration of D21-2393 [3 months] — Plasma concentration of D21-2393
+DEP: Incidence of Any Adjudicated Bleeding Events [3 months] — Incidence of any adjudicated bleeding events (including major bleeding, clinically relevant non-major bleeding, and minor bleeding)
+SEC: 
+
+### NCT01675635
+ENR: Measuring VAS from 6h after first administration [6h] — Measuring resting and coughing VAS at 0h, 6h, 12h, 18h and 24h after first administration, assessing the intensity of pain.
+DEP: Visual Analogue Scale (VAS) in Resting Stage at 6hour (6hour±20 Minutes After Administration of First Dose) [Baseline and 6h (±20min)] — To measure resting VAS at 6h(±20min) after administration of first dose, assessing the intensity of pain, and to conduct inter-group comparison Visual Analogue 
+SEC: VAS in Both Resting and Coughing Stage at 0.5h, 2h and 24h After Administra; The Use of Rescue Analgesics During the 24-hour Observation Period; VAS in Coughing Stage at 6h (6h±20min After Administration of First Dose); Sleeping Quality Assessment; Satisfaction With Pain Control; Comparison of the Total Amount of Study Drugs Used During the 24 Hours
+
+### NCT03040999
+ENR: Event-free Survival (EFS) [Up to 5 years] — EFS is the time from the date of randomization to the date of first record of disease progression per Response Evaluation Criteria in Solid Tumors Version 1.1 (
+DEP: Event-free Survival (EFS) [Up to approximately 62 months] — EFS was defined as the time from date of randomization to the date of first record of any of the following events: death due to any cause; progression per Respo
+SEC: Overall Survival (OS); Number of Participants Who Experienced an Adverse Event (AE); Number of Participants Who Discontinued Study Drug Due to an AE; Change From Baseline in European Organisation for the Research and Treatmen; Change From Baseline in European Organisation for the Research and Treatmen; Change From Baseline in European Organisation for the Research and Treatmen; Change From Baseline in European Organisation for the Research and Treatmen; Change From Baseline in European Organisation for the Research and Treatmen
+
+### NCT01144338
+ENR: Time to first confirmed cardiovascular event in the primary composite cardiovascular endpoint. [5.5 years (average)]
+DEP: Primary Efficacy Outcome MACE Events [Time to first event. Information collected during study period (anticipated to be up to 7.5 years).] — The primary efficacy outcome variable is defined as the composite endpoint of cardiovascular death, nonfatal MI, or nonfatal stroke. The number of participants 
+DEP: Primary Safety Outcome MACE Events [Time to first event. Information collected during study period (anticipated to be up to 7.5 years).] — The primary safety outcome variable is defined as the composite endpoint of cardiovascular death, nonfatal MI, or nonfatal stroke. The number of participants wh
+SEC: Secondary Efficacy Outcome All-Cause Mortality; Secondary Efficacy Outcome CV Death; Secondary Efficacy Outcome MI; Secondary Efficacy Outcome Stroke; Secondary Efficacy Outcome Hospitalization for ACS; Secondary Efficacy Outcome Hospitalization for HF
+
+### NCT01227265
+ENR: Change from Baseline to Week 12 in mean "off" time in hours per day [12 weeks (Week 12 is End of Treatment)]
+DEP: Change From Baseline in Average "Off" Time (Hours Per Day) at Week 12 [Baseline and Week 12] — The "on" state is defined as the period of time during which a patient's symptoms of PD improve or disappear following treatment with L-dopa or dopamine agonist
+DEP: Number of Participants With Systolic Blood Pressure (SBP) ≥180 mmHg and 20 mmHg Increase [Up to Week 14] — The number of participants with Systolic Blood Pressure (SBP) ≥180 mmHg and 20 mmHg increase was reported. Participants lie supine at rest for 5 minutes, then h
+DEP: Number of Participants With Diastolic Blood Pressure (DBP) ≥105 mmHg and 15 mmHg Increase [Up to Week 14] — The number of participants with Diastolic Blood Pressure (DBP) ≥105 mmHg and 15 mmHg increase was reported. Participants lie supine at rest for 5 minutes, then 
+DEP: Percentage of Participants With Suicidality [Up to Week 12] — The percentage of participants with suicidality using the Columbia - Suicide Severity Rating Scale (C-SSRS) was reported. The C-SSR was used in this study only 
+DEP: Change From Baseline in Total Epworth Sleepiness Scale (ESS) at Week 12 [Baseline and Week 12] — The ESS is a self-administered questionnaire providing a measure of a person's general level of daytime sleepiness, or their average sleep propensity in daily l
+SEC: Percentage of Participants With >30% Change (Reduction) From Baseline at We; Change From Baseline in Average "On" Time (Hours Per Day) Without Troubleso
+
+### NCT03735121
+ENR: Observed Concentration of Atezolizumab in Serum at Cycle 1 in Part 1 [Predose of Cycle 2. Cycle length is 21 days.]
+ENR: Observed Concentration of Atezolizumab in Serum at Cycle 1 in Part 2 [Predose of Cycle 2. Cycle length is 21 days.]
+DEP: Part 1: Serum Trough Concentration (Ctrough) of Atezolizumab at Cycle 1 [Pre-dose on Day 1 of Cycle 2 (Cycle length=21 days for cohorts 1 and 3 and 14 days for cohort 2)]
+DEP: Part 2: Observed Serum Ctrough of Atezolizumab at Cycle 1 [Predose on Day 1 of Cycle 2 (Cycle length =21 days)]
+DEP: Part 2: Area Under the Concentration-Time Curve From Time Zero to 21 Days (AUC 0-21 d) at Cycle 1 [From start of dosing up to Day 21 in Cycle 1 (Cycle length = 21 days)]
+SEC: Part 1: Maximum Observed Serum Concentration (Cmax) of Atezolizumab; Part 1: Time to Maximum Serum Concentration (Tmax) of Atezolizumab; Part 1: Area Under the Concentration-time Curve (AUClast) of Atezolizumab; Part 1: Serum Atezolizumab Concentration at Specified Timepoint During SC A; Part 1: Percentage of Participants With Adverse Events (AEs); Part 2: Percentage of Participants With AEs; Part 2: Model Predicted Ctrough of Atezolizumab at Cycle 1; Part 2: Model Predicted Ctrough at Steady State (Ctrough,ss) of Atezolizuma; Part 2: Model Predicted AUC at Steady State (AUCss) of Atezolizumab; Part 2: Objective Response Rate (ORR); Part 2: Progression-free Survival (PFS); Part 2: Overall Survival (OS)
+
+### NCT03257267
+ENR: Overall survival (OS) [Time from randomization up to approximately 32 months]
+DEP: Overall Survival (OS) [From first dose up to 90 following last dose (~42 months)] — Overall survival was defined as the time from randomization to the date of death due to any cause. A participant who had not died was censored at the last known
+DEP: Overall Survival (OS) in the SCC Population [From first dose up to 90 following last dose (~42 months)] — Overall survival was defined as the time from randomization to the date of death due to any cause. A participant who had not died was censored at the last known
+SEC: Progression-free Survival (PFS) Assessed by Investigator Using Response Eva; Objective Response Rate (ORR) Assessed by Investigator Using RECIST 1.1; Duration of Response (DOR) Assessed Per RECIST 1.1; Quality of Life (QoL): Change From Baseline in European Organization for th; Number of Participants With Treatment Emergent Adverse Events (TEAEs), Seri; Number of Participants With New or Worsened Laboratory Results by National 
+
+### NCT01552343
+ENR: Correlation coefficients will be estimated between change from Baseline to Month 1 in nocturnal voids and NI total score [1 month]
+ENR: Difference in mean change in NI total score in 33% responders [1 month]
+ENR: Effect size/NI diary responsiveness [1 month] — Responsiveness of the NI diary, measured with Cohen´s D.
+ENR: Internal Consistency and Intra-and-Inter-subject Reliability [1 month] — Internal consistency reliability, assessed by the Cronbach´s alpha for the NI total score: A repeated measures ANOVA will be applied to estimate between-and wit
+ENR: Construct Validity [1 month] — T-tests will be applied to explore the construct validity of the NI diary.
+DEP: The Pearson Correlation Coefficient Between Change From Baseline to Month 1 in Number of Nocturnal Voids and Change From Baseline to Month 1 in Nocturia Impact (NI) Diary Total Score [Day 1 (Baseline), Month 1] — This outcome is a measure of sensitivity of the NI Diary to change in nocturia. The NI Diary is a 12-item instrument consisting of 11 core items and an overall 
+DEP: Difference in Mean Change From Baseline to Month 1 in Nocturia Impact (NI) Total Scores and Overall Impact Question for Responders and Non-Responders [Day 1 (Baseline), Month 1] — This outcome is a measure of sensitivity of the NI Diary to change in nocturia. The NI Diary is a 12-item instrument consisting of 11 core items and an overall 
+DEP: Cohen's D Effect Size in Responsiveness in the Nocturia Impact (NI) Total Scores and Overall Impact Question as Measured From Baseline (Day 1) to Month 1 [Day 1 (Baseline), Month 1] — The responsiveness of the NI Diary was measured with Cohen's D effect size. The effect size was calculated for active treatment versus placebo, based on change 
+SEC: Internal Consistency of the Nocturia Impact (NI) Total Score for Each Day N; Construct Validity For the Nocturia Impact (NI) Total Scores and Overall Im; Change From Baseline to Month 1 on Nocturia Impact (NI) Total Score; Minimum Post-Treatment Serum Sodium Levels; Summary of Participants With Treatment-Emergent Adverse Events (TEAEs)
+
+### NCT02072824
+ENR: Percent reduction of 24 hour seizure rate for all partial onset seizures relative to placebo during the double-blind assessment phase. [Video-EEG recordings for a target minimum of 48 hours] — Percent reduction of partial onset seizures during the double-blind assessment phase, collected by video-EEG recording.
+DEP: Log Transformed 24-Hour Seizure Rate for All Partial Onset Seizures During the Double-Blind Treatment Phase [Day 1 up to Day 14] — All partial onset seizures experienced during treatment phase were recorded by central reader during the 48 to 72 hour video-electroencephalogram (EEG). Double 
+SEC: Responder Rate: Percentage of Participants With at Least 50 Percent (%) or 
+
+### NCT03165617
+ENR: Efficacy: Absolute vaccine efficacy of QIVc by first occurrence Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) or culture confirmed influenza, due to any influenza Type A and B strain in subjects ≥3 years to <18 years of age [Day 14 to Day 180 or until the end of the influenza season, whichever is longer]
+ENR: Efficacy: Absolute vaccine efficacy of QIVc by first occurrence RT-PCR or culture confirmed influenza, due to any influenza Type A and B strain in subjects ≥2 years to <18 years of age [Day 14 to Day 180 or until the end of the influenza season, whichever is longer]
+DEP: Primary Efficacy: First Occurrence of Either RT-PCR- or Culture-confirmed Influenza (Time-to-event Analyses) Due to Any Influenza Type A or B Strain Regardless of Antigenic Match to the Strains Selected for the Seasonal Vaccine in Subjects ≥2 to <18 Years [Day 14 to Day 180 or until the end of the influenza season, whichever is longer] — The primary efficacy endpoint was defined as the time from the last study vaccination to the onset of the first occurrence of either RT-PCR- or culture-confirme
+DEP: Co-Primary: First Occurrence of Either RT-PCR- or Culture-confirmed Influenza (Time-to-event Analyses) Due to Any Influenza Type A or B Strain Regardless of Antigenic Match to the Strains Selected for the Seasonal Vaccine in Subjects ≥3 to <18 Years [Day 14 to Day 180 or until the end of the influenza season, whichever is longer] — The co-primary efficacy endpoint: was defined as the time from the last study vaccination to the onset of the first occurrence of either RT-PCR- or culture-conf
+SEC: Secondary Efficacy #1: First Occurrence of Either RT-PCR- or Culture-confir; Secondary Efficacy #2: First Occurrence of RT-PCR-confirmed Influenza Due t; Secondary Efficacy #3: First Occurrence of Culture-confirmed Influenza Due ; Secondary Efficacy #4: First Occurrence of Culture-confirmed Influenza Due ; Secondary Immunogenicity: Geometric Mean Titers for 4 Influenza Strains (HI; ISecondary Immunogenicity: Percentage of Subjects Achieving Seroconversion ; Secondary Immunogenicity: Geometric Mean Ratio for 4 Influenza Strains (HI ; Secondary Immunogenicity: Percentage of Subjects With HI Titer ≥1:40 for Al; Safety: Percentage of Subjects With Solicited Local and Systemic Adverse Ev; Safety: Percentage of Subjects With Unsolicited AEs for 21 Days After Vacci; Safety: Subjects With SAEs, AEs Leading to Withdrawal From Vaccination and/
+
+### NCT02451358
+ENR: Geometric mean titers of antibodies to vaccine antigens pre- and post-vaccination with Fluzone Quadrivalent vaccine [Day 28 post-vaccination] — Immunogenicity will be evaluated prior to vaccination and at 28 days after vaccination using the hemagglutination inhibition (HAI) technique. For each vaccine s
+ENR: Seroprotection and seroconversion to vaccine antigens following vaccination with Quadrivalent Inactivated Influenza Vaccine [Day 28 post-vaccination] — Seroprotection is defined as: A titer ≥ 40 (l/dil) at pre-vaccination and at Day 28 after the final vaccination. Seroconversion is defined as: Either a pre-vacc
+DEP: Geometric Mean Titers (GMTs) of Influenza Vaccine Antibodies [Day 0 (pre-vaccination) and 28 days post-final vaccination (post-vaccination)] — Anti-influenza antibodies were measured using hemagglutination inhibition (HAI) assay for 4 strains: H1N1, H3N2, B Victoria, B Yamagata.
+DEP: Number of Participants With Seroprotection to Influenza Vaccine Antigens [Day 0 (pre-vaccination) and 28 days post-final vaccination (post-vaccination)] — Anti-influenza antibodies were measured using HAI assay for 4 strains: H1N1, H3N2, B Victoria and B Yamagata. Seroprotection was defined as an antibody titer \>
+DEP: Number of Participants With Seroconversion or Significant Increase to Influenza Vaccine Antigens [28 days post-final vaccination (post-vaccination)] — Anti-influenza antibodies were measured using HAI assay for 4 strains: H1N1, H3N2, B Victoria and B Yamagata. Seroconversion was defined as pre-vaccination tite
+SEC: Number of Participants Reporting Solicited Injection Site and Systemic Reac
+
+### NCT02686658
+ENR: The mean change in best corrected visual acuity (Early Treatment Diabetic Retinopathy Study [ETDRS] letters) from Baseline to Month 24 [24 months]
+DEP: Change From Baseline in Geographic Atrophy as Measured by Fundus Autofluorescence [Baseline and 12 months] — The least squares mean change in geographic atrophy (GA) from baseline to Month 12 was measured by fundus autofluorescence (FAF). The square root of the GA area
+SEC: Change From Baseline in Best Corrected Visual Acuity Using Early Treatment ; Change From Baseline in Low Luminance BCVA Using Early Treatment Diabetic R
+
+### NCT02276274
+ENR: Plasma concentration and urinary excretion rate of unchanged SYR-322(SYR-322Z) and its main metabolites (M-I and M-II) Plasma concentration and urinary excretion rate of metformin [21 Days] — Pharmacokinetics of unchanged SYR-322(SYR-322Z) and its main metabolites (M-I and M-II) Pharmacokinetics of metformin
+DEP: AUC (0-72): Area Under the Plasma Concentration-time Curve From Time 0 to 72 Hours Postdose for Unchanged SYR-322 (SYR-322Z) [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-72) is measure of area under the curve from time 0 to 72 hours post dose.
+DEP: AUC (0-tlqc): Area Under the Plasma Concentration-time Curve From Time 0 to the Time of the Last Quantifiable Concentration for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-tlqc) is a measure of total plasma exposure to the drug from Time 0 to Time of the Last Quantifiable Concentration (AUC \[0-tlqc\]).
+DEP: Cmax: Maximum Observed Plasma Concentration for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Maximum observed plasma concentration (Cmax) is the peak plasma concentration of a drug after administration, obtained directly from the plasma concentration-ti
+DEP: Tmax: Time to Reach the Maximum Plasma Concentration (Cmax) for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Tmax: Time to reach the maximum plasma concentration (Cmax), equal to time (hours) to Cmax.
+DEP: AUC (0-inf): Area Under the Plasma Concentration-time Curve From Time 0 to Infinity for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-inf) is a measure of total plasma exposure to the drug from time zero extrapolated to infinity.
+DEP: Apparent Terminal Elimination Rate Constant (λz) for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Terminal elimination rate constant, calculated as the negative of the slope of the log-linear regression of the natural logarithm concentration-time curve durin
+DEP: Terminal Phase Elimination Half-life (T1/2) for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Terminal phase elimination half-life (T1/2) is the time required for half of the drug to be eliminated from the plasma.
+DEP: Apparent Clearance After Extra Vascular Administration (CL/F) for SYR-322Z [3 hours prior to administration, and at 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48 and 72 hours after administration] — CL/F is apparent clearance of the drug from the plasma, calculated as the drug dose divided AUC (0-inf), expressed in liter/hour (L/hr).
+DEP: Mean Residence Time (MRT) for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Mean residence time (MRT) calculated as area under the first moment plasma concentration-time curve (AUMC \[0-inf\]) divided by AUC (0-inf). (AUMC \[0-inf\]) is
+DEP: MRT (0-tlqc): Mean Residence Time From Time 0 to Time of the Last Quantifiable Concentration (Tlqc) for SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — MRT (0-tlqc) is a measure of the mean residence time from time 0 to time of the last quantifiable concentration (tlqc) calculated as MRT (0-tlqc) =AUMC (0-tlqc)
+DEP: AUC (0-72): Area Under the Plasma Concentration-time Curve From Time 0 to 72 Hours Post Dose for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-72) is measure of area under the curve from time 0 to 72 hours post dose.
+DEP: AUC (0-tlqc): Area Under the Plasma Concentration-time Curve From Time 0 to the Time of the Last Quantifiable Concentration for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-tlqc) is a measure of total plasma exposure to the drug from Time 0 to Time of the Last Quantifiable Concentration (AUC \[0-tlqc\]).
+DEP: MRT (0-tlqc): Mean Residence Time From Time 0 to Time of the Last Quantifiable Concentration (Tlqc) for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — MRT (0-tlqc) is a measure of the mean residence time from time 0 to time of the last quantifiable concentration (tlqc) calculated as MRT (0-tlqc) =AUMC (0-tlqc)
+DEP: Cmax: Maximum Observed Plasma Concentration for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Maximum observed plasma concentration (Cmax) is the peak plasma concentration of a drug after administration, obtained directly from the plasma concentration-ti
+DEP: Tmax: Time to Reach the Maximum Plasma Concentration (Cmax) for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Tmax: Time to reach the maximum plasma concentration (Cmax), equal to time (hours) to Cmax.
+DEP: AUC (0-inf): Area Under the Plasma Concentration-time Curve From Time 0 to Infinity for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — AUC (0-inf) is a measure of total plasma exposure to the drug from time zero extrapolated to infinity.
+DEP: Apparent Terminal Elimination Rate Constant (λz) for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Terminal elimination rate constant, calculated as the negative of the slope of the log-linear regression of the natural logarithm concentration-time curve durin
+DEP: Terminal Phase Elimination Half-life (T1/2) for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Terminal phase elimination half-life (T1/2) is the time required for half of the drug to be eliminated from the plasma.
+DEP: Mean Residence Time (MRT) for SYR-322 Metabolites M-I and M-II [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — Mean residence time (MRT) calculated as area under the first moment plasma concentration-time curve (AUMC \[0-inf\]) divided by AUC (0-inf). AUMC (0-inf) is the
+DEP: AUC (0-48): Area Under the Plasma Concentration-time Curve From Time 0 to 48 Hours Postdose for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — AUC (0-48) is measure of area under the curve from time 0 to 48 hours post dose.
+DEP: AUC (0-tlqc): Area Under the Plasma Concentration-Time Curve From Time 0 to the Time of the Last Quantifiable Concentration for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — AUC (0-tlqc) is a measure of total plasma exposure to the drug from Time 0 to Time of the Last Quantifiable Concentration (AUC \[0-tlqc\]).
+DEP: MRT (0-tlqc): Mean Residence Time From Time 0 to Time of the Last Quantifiable Concentration (Tlqc) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — MRT (0-tlqc) is a measure of the mean residence time from time 0 to time of the last quantifiable concentration (tlqc) calculated as MRT (0-tlqc) =AUMC (0-tlqc)
+DEP: Cmax: Maximum Observed Plasma Concentration for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — Maximum observed plasma concentration (Cmax) is the peak plasma concentration of a drug after administration, obtained directly from the plasma concentration-ti
+DEP: Tmax: Time to Reach the Maximum Plasma Concentration (Cmax) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — Tmax: Time to reach the maximum plasma concentration (Cmax), equal to time (hours) to Cmax.
+DEP: AUC (0-inf): Area Under the Plasma Concentration-time Curve From Time 0 to Infinity for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — AUC (0-inf) is a measure of total plasma exposure to the drug from time zero extrapolated to infinity.
+DEP: Apparent Terminal Elimination Rate Constant (λz) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — Terminal elimination rate constant, calculated as the negative of the slope of the log-linear regression of the natural logarithm concentration-time curve durin
+DEP: Terminal Phase Elimination Half-life (T1/2) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — Terminal phase elimination half-life (T1/2) is the time required for half of the drug to be eliminated from the plasma.
+DEP: Apparent Clearance After Extra Vascular Administration (CL/F) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — CL/F is apparent clearance of the drug from the plasma, calculated as the drug dose divided AUC (0-inf), expressed in L/hr.
+DEP: Mean Residence Time (MRT) for Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — Mean residence time (MRT) calculated as area under the first moment plasma concentration-time curve (AUMC \[0-inf\]) divided by AUC (0-inf). AUMC (0-inf) is the
+DEP: Urinary Excretion Ratio of SYR-322Z From 0 to 12 Hours Postdose [0 to 12 hours postdose] — Cumulative urinary excretion ratio of unchanged SYR-322 was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322Z From 0 to 24 Hours Postdose [0 to 24 hours postdose] — Cumulative urinary excretion ratio of unchanged SYR-322 was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322Z From 0 to 48 Hours Postdose [0 to 48 hours postdose] — Cumulative urinary excretion ratio of unchanged SYR-322 was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322Z From 0 to 72 Hours Postdose [0 to 72 hours postdose] — Cumulative urinary excretion ratio of unchanged SYR-322 was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322 Metabolites M-I and M-II From 0 to 12 Hours Postdose [0 to 12 hours postdose] — Cumulative urinary excretion ratio of SYR-322 metabolites M-I and M-II was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322 Metabolites M-I and M-II From 0 to 24 Hours Postdose [0 to 24 hours post dose] — Cumulative urinary excretion ratio of SYR-322 metabolites M-I and M-II was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322 Metabolites M-I and M-II From 0 to 48 Hours Postdose [0 to 48 hours postdose] — Cumulative urinary excretion ratio of SYR-322 metabolites M-I and M-II was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of SYR-322 Metabolites M-I and M-II From 0 to 72 Hours Postdose [0 to 72 hours postdose] — Cumulative urinary excretion ratio of SYR-322 metabolites M-I and M-II was calculated as the percentage of SYR-322 dose.
+DEP: Urinary Excretion Ratio of Metformin From Time 0 to 12 Hours Postdose [0 to 12 hours postdose] — Cumulative urinary excretion ratio of metformin was calculated as the percentage of metformin dose.
+DEP: Urinary Excretion Ratio of Metformin From 0 to 24 Hours Postdose [0 to 24 hours postdose] — Cumulative urinary excretion ratio of metformin was calculated as the percentage of metformin dose.
+DEP: Urinary Excretion Ratio of Metformin From 0 to 48 Hours Postdose [0 to 48 hours postdose] — Cumulative urinary excretion ratio of metformin was calculated as the percentage of metformin dose.
+DEP: CLr: Renal Clearance of SYR-322Z [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, and 72 hours postdose] — CLr is a measure of apparent clearance of the drug from the urine. The clearance is the rate at which waste substances are cleared from the blood.
+DEP: CLr: Renal Clearance of Metformin [3 hours prior to administration (predose) and 0.25, 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 16, 24, 36, and 48 hours postdose] — CLr is a measure of apparent clearance of the drug from the urine.
+SEC: Inhibition Rate of Dipeptidyl-peptidase-4 (DPP-4) Activity; DPP-4 Activity; AUC (0-24): Area Under the Inhibition Rate of Plasma DPP-4 Activity-time Cu; Emax: Maximum Inhibition Rate of Plasma DPP-4 Activity; Tmax: Time to Reach Emax; Number of Participants Reporting 1 or More Treatment-emergent Adverse Event; Number of Participants With Clinically Significant Change From Baseline in ; Number of Participants With Clinically Significant Change From Baseline in ; Number of Participants With Significant Change From Baseline in Electrocard; Number of Participants With Laboratory-related Treatment Emergent Adverse E
+
+### NCT02431806
+ENR: Change in Children's Depression Rating Scale-Revised (CDRS-R) total score [From Baseline to end of Week 8] — The CDRS-R is a semi-structured, clinician-rated instrument designed for use with children and adolescents between the ages of 6-17 years and contains 17 items 
+DEP: Change From Baseline in Children's Depression Rating Scale-Revised (CDRS-R) Total Score [Baseline (Week 0) to Week 8] — CDRS-R is a 17-item scale measuring presence and severity of symptoms commonly associated with childhood depression and is scored on a 1-to-5- or 1-to-7-point s
+SEC: Change From Baseline in Clinical Global Impression-Severity (CGI-S) Scale
+
+### NCT01808612
+ENR: Mean Change from Baseline to Approximately Two Months on the 21-Item Hamilton Depression Rating Scale (HAMD21) Total Score [Baseline, Approximately Two Months]
+DEP: Mean Change From Baseline to 6-Week Endpoint on the 21-Item Hamilton Depression Rating Scale (HAMD21) Total Score [Baseline, 6 weeks] — HAMD21 is a 21-item assessment used to measure depression severity. Items were rated on a scale from 0 (symptoms not present) to a maximum of 2 to 4 (symptom ex
+SEC: Mean Change From Baseline to 6-Week Endpoint on the HAMD21 Subscale Scores; Percentage of Participants Achieving a Response at 6-Week Endpoint; Percentage of Participants Achieving a Remission at 6-Week Endpoint; Mean Change From Baseline to 6-Week Endpoint on the Clinical Global Impress; Mean Change From Baseline to 6-Week Endpoint in Sheehan Disability Scale (S; Number of Participants With Suicidal Behaviors and Ideations Collected by C
+
+### NCT01861522
+ENR: Change from baseline in total score for the three major nasal symptoms [sneezing, rhinorrhea, and nasal congestion] (at final evaluation) [baseline and Week 2]
+DEP: Change From Baseline in Total Score for the Three Major Nasal Symptoms [Sneezing, Rhinorrhea, and Nasal Congestion] [Baseline and Week 2] — Total score for the three major nasal symptoms (sneezing, rhinorrhea, and nasal congestion) were rated on 5-point scale ranging from 0 (no symptoms) to 4 (very 
+SEC: Change From Baseline in Total Score for the Three Major Nasal Symptoms [Sne; Change From Baseline in Individual Nasal Symptom Scores (Sneezing, Rhinorrh; Change From Baseline in Individual Scores for Local Nasal Findings (Rhinosc; Change From Baseline in Severity Score for Symptoms of Allergic Rhinitis; Adverse Events and Adverse Drug Reactions
+
+### NCT01391546
+ENR: VZV gpELISA antibody GMT [4 week post-vaccination]
+ENR: VZV gpELISA antibody GMFR in the intramuscular arm [Pre-vaccination (Day 0) and 4 week post-vaccination]
+DEP: Geometric Mean Titre (GMT) of Varicella Zoster Virus (VZV) Antibodies 4 Weeks Post-vaccination [4 week post-vaccination] — Blood samples taken at 4 weeks post vaccination to determine the geometric mean titre (GMT) of VZV antibodies via Glycoprotein Enzyme Linked Immunosorbent Assay
+DEP: Geometric Mean Fold Rise (GMFR) in VZV Antibody Titre: IM Route [Pre-vaccination (Day 0) and 4 week post-vaccination] — Blood sample taken at predose (Day 0) and 4 weeks post vaccination to determine the geometric mean titre (GMT) of VZV antibodies via gpELISA. The GMFR was calcu
+SEC: Geometric Mean Fold Rise (GMFR) in VZV Antibody Titre: SC Route; Geometric Mean Count (GMCs) of VZV Interferon Gamma ((IFN-γ) Enzyme-Linked ; Geometric Mean Fold Rise (GMFR) of IFN-γ ELISPOT Antibodies; Percentage of Participants Who Report at Least 1 Injection-site Adverse Rea; Percentage of Participants Who Report at Least 1 Systemic Adverse Event; Percentage of Participants Who Report at Least 1 Serious Adverse Event
+
+### NCT04447469
+ENR: Cohort 1: Proportion of Participants Alive and Without Respiratory Failure at Day 15 [Day 15] — Respiratory failure is defined as the need for high flow oxygen (HFO), non-invasive ventilation (NIV), invasive mechanical ventilation (IMV), or extracorporeal 
+ENR: Cohort 2: Mortality Rate at Day 15 [Day 15] — Mortality rate is defined as the proportion of participants who die.
+DEP: Cohort 1, Phase 2: Percentage of Participants Alive and Free of Mechanical Ventilation at Day 29 [Day 29] — Mechanical ventilation is defined as invasive mechanical ventilation (IMV) or extracorporeal membrane oxygenation (ECMO). Mechanical ventilation status was eval
+DEP: Cohort 1, Phase 3: Percentage of Participants Alive and Free of Mechanical Ventilation at Day 29 [Day 29] — Mechanical ventilation is defined as invasive mechanical ventilation (IMV) or extracorporeal membrane oxygenation (ECMO). Mechanical ventilation status was eval
+DEP: Cohort 2, Phase 2: Percentage of Participants Who Died by Day 29 [Day 29] — Defined as the proportion of subjects with mechanical ventilation who have died by Day 29.
+DEP: Cohort 2, Phase 3: Percentage of Participants Who Died by Day 29 [Day 29] — Defined as the proportion of subjects with mechanical ventilation who have died by Day 29.
+SEC: Cohort 1, Phase 2: Time to 2-point Clinical Improvement by Day 29; Phase 2, Cohort 1: Time to Return to Room Air or Discharge by Day 29; Phase 2, Cohort 1: Percentage of Participants Who Die by Day 29; Phase 2, Cohort 2: Time to 1-Point Clinical Improvement by Day 29; Phase 3, Cohort 1: Percentage of Participants Who Died at Day 29; Phase 3, Cohort 1: Ventilation-Free Survival (Time to Ventilation or Death); Phase 3, Cohort 1: Overall Survival by Day 29; Phase 3, Cohort 2: Time to 1-point Clinical Improvement by Day 29
+
+### NCT01586819
+ENR: Change in outcome of chemical peel if Botox A is added as pre-treatment [Baseline and 12 weeks] — The primary objective of this study is to determine if pre-treating the orbicularis oculi muscles with botulinum toxin A improves the results of medium depth ch
+DEP: Posttreament Results of Chemical Peel if Botox A is Added as Pre-treatment [Baseline and 12 weeks] — The primary objective of this study is to determine if pre-treating the orbicularis oculi muscles with botulinum toxin A improves the results of medium depth ch
+DEP: Change From Pre- to Post-treatment Scores of Chemical Peel if Botox A is Added as Pre-treatment [Baseline and 12 weeks] — The primary objective of this study is to determine if there is a significant difference between the change from pre- to post-treatment scores on the facial wri
+SEC: 
+
+### NCT03345342
+ENR: Time to Relapse During the Double-Blind (DB) Phase [Up to Month 12] — Time to relapse:Time between participant randomization in DB Phase and first documentation of a relapse event by the end of Month 12 of the DB phase. Relapse:Ps
+DEP: Time to Relapse During the Double-Blind (DB) Phase [Up to 12 months of DB Phase] — Time to relapse is time between participant randomization in DB Phase and first documentation of relapse event by end of Month 12 of DB phase. Relapse is define
+SEC: Change From Baseline in the Positive and Negative Syndrome Scale (PANSS) To; Change From Baseline in the Clinical Global Impression - Severity (CGI-S) S; Change From Baseline in the Personal and Social Performance (PSP) Scale Tot; Percentage of Participants With Symptomatic Remission Based on PANSS Score ; Change From Baseline in the Satisfaction With Participants in Social Roles ; Change From Baseline in the Treatment Satisfaction Questionnaire for Medica; Change From Baseline in the Simpson-Angus Rating Scale (SAS) Total Score; Number of Participants With Symptoms of Akathisia Assessed Using Barnes Aka; Change From Baseline in the Abnormal Involuntary Movement Scale (AIMS) Tota; Number of Participants Based on Columbia Suicide Severity Rating Scale (C-S; Number of Participants With Treatment-emergent Abnormal Electrocardiogram (; Change From Baseline in the Body Mass Index (BMI) During DB Phase
+
+### NCT01959243
+ENR: Adverse Events [Overall visits to Visit 4 (Day 36)] — Comparison of adverse events in the treated group vs vehicle group
+DEP: Number of Participants With Treatment Emergent Adverse Events (TEAEs) [Baseline up to Day 29] — TEAE is defined as any untoward medical occurrence or undesirable event(s) that begins or worsens following administration of the study drug, whether or not con
+SEC: Drop Comfort Assessment as Assessed by the Participant; Number of Participants Who Were Fully Alert as Assessed by the Investigator
+
+### NCT02062463
+ENR: Total observed critical errors (technology and handling) [12 Weeks]
+ENR: Treatment Adherence according to 6 step standardized device training [4 months]
+DEP: Stage 1: Percentage of Participants Achieving Device Mastery [Baseline (Day 1)] — Device mastery was defined as absence of healthcare professional (HCP)-observed errors by the end of Step 3 of a 6-step standardized device training protocol fo
+DEP: Stage 2: Percentage of Participants Maintaining Device Mastery [Baseline up to Week 12] — Maintenance of device mastery was defined as absence of HCP-observed errors after 12 weeks of device use.
+SEC: Stage 1: Percentage of Participants Achieving Device Mastery by Step 1; Stage 1: Percentage of Participants Achieving Device Mastery by Step 2; Stage 1: Number of Steps Taken to Achieve Device Mastery; Stage 1: Number of Nurse-Observed Errors; Stage 1: Patient Satisfaction and Preference Questionnaire (PASAPQ) Total S; Composite Endpoint: Stage 2: Total Number of Observed Errors (Nurse and Tec; Stage 2: Number of Technology-Observed Errors (Vitalograph Pneumotrac Spiro; Stage 2: Total Number of Handling Errors; Stage 2: Change in Handling Errors From Stage 1 to Stage 2; Stage 2: Number of Participants In Pre-specified Treatment Adherence Catego; Stage 2: Change From Baseline in 6-Item Asthma Control Questionnaire (ACQ) ; Stage 2: Change From Baseline in 7-Item ACQ
+
+### NCT05047601
+ENR: Proportion of participants who have a negative reverse transcription polymerase chain reaction (RT-PCR) result at baseline who develop a symptomatic, RT-PCR confirmed SARS-CoV-2 infection. [Day 1 through Day 14]
+DEP: Percentage of Participants Who Developed Symptomatic RT-PCR or RAT Confirmed SARS-CoV-2 Infection Through Day 14: Among Participants With Negative RT-PCR at Baseline [From Day 1 to Day 14] — Percentage of participants who developed symptomatic Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) or Rapid Antigen Test (RAT) confirmed SARS-Cov-2 i
+SEC: Number of Participants With Treatment Emergent Adverse Events (TEAEs), Seri; Percentage of Participants Who Developed Symptomatic RT-PCR or RAT Confirme; Percentage of Participants With COVID-19 Related Hospitalization or Death F; Percentage of Participants With Asymptomatic RT-PCR or RAT Confirmed SARS-C; Time to RT-PCR or RAT Confirmed SARS-CoV-2 Infection Through Day 14: Among ; Percentage of Participants With Symptomatic RT-PCR or RAT Confirmed SARS-Co; Percentage of Participants With Symptomatic RT-PCR or RAT Confirmed SARS-Co; Percentage of Participants With no, Mild, Moderate, or Severe Signs and Sym; Number of Days of Symptomatic RT-PCR or RAT Confirmed SARS-CoV- 2 Infection; Plasma Concentration Versus Time Summary of Nirmatrelvir (PF-07321332); Percentage of Participants With Death Event Through Day 38: Among Participa; Viral Load in Nasal Samples Over Time: Among Participants With Negative RT-
+
+### NCT01188551
+ENR: Pain [60 mins. post-op] — FLACC Behavioral Pain Assessment Scale, Objective Pain Scale (OPS) of Hanallah et al for Postoperative Pain Assesment
+DEP: FLACC Behavioral Pain Assessment Scale Scores [30 mins. post-op] — FLACC Behavioral Pain Assessment Scale: each of the five categories (F) Face, (L) Legs, (A) Activity, (C) Cry, (C) Consolability is scored from 0-2, which resul
+SEC: Recovery From General Anesthesia
+
+### NCT01249872
+ENR: Effectiveness of different morphine-levobupivacaine regimens on how postoperative pain (VAS)alter within the first 48 postoperatively and on the change from baseline in lung functions values (FEV1, FVC, FEV1/FVC) within 48 hours [VAS, FEV1, FVC, FEV1/FVC at 1h, 24h, 48h postoperatively]
+DEP: Change From Baseline in Pain Scores (Visual Analogue Scale) [up to 48 h postoperatively] — Pain scores at rest and on cough using a 10cm Visual Analogue Scale(0=no pain, 10=worst possible pain) were assessed up to 48h postoperatively.
+SEC: Time to Postoperative Bowel Recovery; Time to First Postoperative Ambulation; Consumption of Levobupivacaine at 24h and 48 h Postoperatively; Cumulative Consumption of Epidural Morphine at 24h and 48h Postoperatively; Change From Baseline of Spirometric Values
+
+### NCT01474109
+ENR: cumulative number of digital ulcers up to week 16 [Period1: baseline (visit 2) to week 16. Period2: week 16 to end of study (which will occur when the last randomized patient, not prematurely withdrawn, has completed Period 1 and a 30 day safety follow-up period)]
+DEP: Incidence Rate of New Digital Ulcers (DUs) up to Week 16 [Baseline to week 16] — DUs were assessed at each visit starting with the screening visit. Only DUs from the proximal interphalangeal joint (PIP) distally (both on the dorsal and volar
+SEC: Percentage of Participants Without a New DU Up To Week 16; Percentage of Participants With at Least One DU Complication; Change in Hand Functionality Health Assessment Questionnaire - Disability I; Health Assessment Questionnaire - Disability Index (HAQ-DI) Overall Score F; Change in Hand Functionality - Hand Disability in Systemic Sclerosis - Digi
+
+### NCT02322775
+ENR: The effect of benralizumab on pulmonary function in terms of change from baseline in pre-dose forced expiratory volume in 1 second (FEV1) at Week 12 [up to week 12]
+DEP: Change From Baseline in Pre-bronchodilator Forced Expiratory Volume in 1 Second (FEV1) (L) at Week 12 [Baseline, Week 4, Week 8 and Week 12] — The FEV1 (L) change from baseline are compared between benralizumab 30 mg Q4W and placebo by using the mixed-effect repeated measures (MMRM) analysis with basel
+SEC: Change From Baseline in Morning Peak Expiratory Flow (PEF) (L/Min) at Home ; Change From Baseline in Evening Peak Expiratory Flow (PEF) (L/Min) at Home ; Change From Baseline in Total Asthma Symptom Score at Week 12; Change From Baseline in Total Asthma Rescue Medication Use (Puffs) at Week ; Change From Baseline in Proportion of Nights With Nocturnal Awakenings at W; Change From Baseline in Mean ACQ-6 Score at Week 12; Asthma Exacerbations; Change From Baseline in AQLQ(S)+12 Total and Domain Scores at Week 12; Serum Concentrations (ng/mL); Peripheral Blood Eosinophil Levels
+
+### NCT01489254
+ENR: The number of Gadolinium enhancing lesions during months 7-9 [9 months]
+DEP: The Number of T1-Gadolinium Enhancing Lesions During Months 7-9 [9 months] — The primary endpoint was the total number of gadolinium enhancing lesions (i.e., the cumulative number of new and persisting gadolinium enhancing lesions) durin
+SEC: 
+
+### NCT02668692
+ENR: 'overall improvement' for the target lesion on the scalp, defined as 'substantial resolution' of clinical signs and/or at least 'moderately improved' in the general change in the lesion [end of week 4] — 'Substantial resolution' is defined as a clinical score for thickness and scaliness of 0 and a clinical score for redness of 1 or less in the severity of clinic
+DEP: Number of Subjects With 'Overall Improvement' for the Target Lesion on the Scalp [End of Week 4] — 'Overall improvement' for the target lesion on the scalp, defined as 'substantial resolution' of clinical signs and/or at least 'moderately improved' in the gen
+SEC: Number of Subjects With 'Overall Improvement' for the Target Lesion on the ; The Change in the Sum of the Scores (Total Sign Score) for the Severity of 
+
+### NCT01913353
+ENR: PRNT GMT at the Peak Visits [Day 42 for Group 1 and Day 28 for Group 2] — To demonstrate the efficacy of MVA-BN® by assessing non-inferiority of MVA-BN® compared to ACAM2000® in terms of vaccinia-specific PRNT antibody response at the
+ENR: Maximum Lesion Area (MLA) in mm² after scarification with ACAM2000® [Day 6-8, 13-15 after 3rd Vaccination for Group 1 and Day 6-8, 13-15 after first vaccination for Group 2] — To demonstrate the efficacy of MVA-BN® by assessing non-inferiority of MVA-BN® compared to ACAM2000® in terms of showing that vaccination with MVA-BN® prior to 
+DEP: Plaque Reduction Neutralization Test (PRNT) Geometric Mean Titer (GMT) at the Peak Visits [Day 42 for Group 1 and Day 28 for Group 2] — GMT based on vaccinia-specific PRNT. Titers below the detection limit are included with a value of 1.
+DEP: Maximum Lesion Area (MLA) in mm2 After Scarification With ACAM2000® [Day 6-8, 13-15 after 3rd Vaccination for Group 1 and Day 6-8, 13-15 after 1st vaccination for Group 2] — The MLA was defined as the maximum of two measurements: the lesion area measured on Day 6-8 (after scarification) or the lesion area measured on Day 13-15 (afte
+SEC: Investigator-measured Maximum Lesion Diameter (MLD) in mm After Scarificati; Investigator-measured Lesion Diameter in mm at Day 6-8 After Scarification ; Investigator-measured Lesion Diameter in mm at Day 13-15 After Scarificatio; Individual Take as Classified by a Blinded Independent Take Review Committe; Lesion Area in mm2 at Day 6-8 After Scarification With ACAM2000; Lesion Area in mm2 at Day 13-15 After Scarification With ACAM2000; Relationship to Vaccine of Any Serious Adverse Event (SAE); Intensity of Any Serious Adverse Event (SAE); Incidence of Any Cardiac Sign or Symptom Indicating a Case of Myo-/Pericard; Related Grade >=3 Adverse Events; Relationship to Vaccine of Any Non-serious AEs; Intensity of Any Non-serious AEs
+
+### NCT02338193
+ENR: Percent change in body weight [Change from baseline (time 0) to study end (24 weeks)] — Change in percent body weight with combination therapy compared to monotherapy from baseline to week 24
+DEP: Change in Body Weight [Change from baseline (time 0) to study end (24 weeks)] — Change in absolute body weight with combination therapy compared to monotherapy from baseline to week 24
+SEC: Change in Percent Body Weight; Body Mass Index (BMI); Waist Circumference (WC); Waist- to -Hip Ratio (WHR; Measure of Central Adiposity); Waist-to-height Ratio (WHtR); Diastolic Blood Pressure (DBP); Systolic Blood Pressure (SBP); Liver Enzymes; Total Cholesterol Levels (CHOL); Triglyceride (TRG) Levels; Fasting Blood Glucose (FBG); Mean Blood Glucose (MBG) During an OGTT
+
+### NCT02105948
+ENR: Frequency of moderate/severe exacerbations [Up to Week 52] — Severe exacerbations are the COPD exacerbations requiring hospitalization or result in death. Moderate exacerbations are the COPD exacerbations that require eit
+DEP: Rate of Moderate or Severe Exacerbations in Participants in the High Stratum [From randomization to Week 52] — Moderate exacerbations are defined as clinically significant exacerbations that require treatment with oral/systemic corticosteroids and/or antibiotics. Severe 
+DEP: Rate of Moderate or Severe Exacerbations in the mITT Population [From randomization to Week 52] — Moderate and severe exacerbations occurring from the start of IP up to the Week 52 visit, including exacerbations reported after early discontinuation from IP b
+SEC: Time to First Moderate/Severe Exacerbation in Participants in the High Stra; Rate of COPD Exacerbations Requiring an Emergency Department (ED) Visit and; Change From Baseline in Mean Total St. George's Respiratory Questionnaire (; Change From Baseline in Mean COPD Assessment Test (CAT) Score in Participan; Time to First Moderate/Severe Exacerbation in the mITT Population; Rate of COPD Exacerbations Requiring ED Visit and/or Hosp in the mITT Popul; Change From Baseline in Mean Total SGRQ Score in the mITT Population; Change From Baseline in Mean CAT Score in the mITT Population
+
+### NCT02722278
+ENR: The proportion of oral TU treated subjects who have a total T Cavg in the eugonadal range of 300 to 1000 ng/dL at Visit 7 [Day 105]
+DEP: Number of Oral TU Treated Subjects Who Have a Total T Cavg in the Eugonadal Range of 252 to 907 ng/dL at Visit 7 [Day 105]
+SEC: 
+
+### NCT03168334
+ENR: Superiority in absolute change in mean inflammatory lesion counts [Baseline to 12 Weeks] — Superiority in absolute change from Baseline to Week 12 in mean inflammatory lesion counts
+ENR: Percent of subjects who achieve at least a two-grade reduction from baseline in the Evaluator's Global Severity Score. [Baseline to Week 12] — Percent of subjects who achieve at least a two-grade reduction from baseline and are Clear or Almost Clear at Week 12 in the Evaluator's Global Severity Score. 
+DEP: Absolute Change in Mean Lesion Counts at Week 12 [Baseline to Week 12] — For noninflammatory facial lesions, open comedones (blackheads) and closed comedones (whiteheads) were recorded as a single count. For inflammatory facial lesio
+DEP: Percentage of Subjects Who Had at Least a 2-grade Reduction From Baseline at Week 12 in the Evaluator's Global Severity Score (EGSS) and Had an EGSS at Week 12 That Equated to "Clear" or "Almost Clear" [Baseline to Week 12] — Evaluator's Global Severity Score (EGSS) was determined based on evaluator-blinded evaluations of the signs and symptoms of acne vulgaris. Evaluations were scor
+SEC: Percentage Change in Mean Lesion Counts at Week 12; Percentage of Subjects Who Had at Least a 2-grade Reduction From Baseline a; Percentage Change in Mean Lesion Counts at Week 8; Percentage Change in Mean Lesion Counts at Week 4
+
+### NCT03504423
+ENR: Overall Response Rate (ORR) [At least 6 months] — Defined as the rate of Complete Response (CR) plus Partial Response (PR)
+ENR: Progression Free Survival (PFS) [At least 10 months] — Defined as the duration from the date of randomization to the date of progressive defined as the duration from the date of randomization to the date of progress
+DEP: Overall Survival (OS) [38 months] — Defined as the duration from the date of randomization to the date of death from any cause
+SEC: Progression Free Survival (PFS); Overall Response Rate (ORR)
+
+### NCT02950155
+ENR: Percentage of patients with QMG score ≤ 4 and a daily Prednisolondos ≤ 10mg at 16 weeks after treatment. [16 weeks]
+DEP: Percentage of Patients With Quantitative MG Score (QMG) Score ≤ 4 and a Daily Prednisolon Dose of ≤ 10mg at 16 Weeks After Administration of Study Drug/Placebo. [16 weeks] — The Quantitative Myasthenia Gravis (QMG) score is a physician rated disease activity score that ranges from 0 to 39, where lower indicates better outcome. QMG w
+SEC: Change in QMG Score From Week 0 to Week 24 After Administration of Study Dr; Change in Myasthenia Gravis Activities of Daily Living (MG-ADL) Score From ; Change in Myasthenia Gravis Quality of Life (QoL) Score From Week 0 to Week
+
+### NCT05045144
+ENR: Percentage of participants reporting solicited administration site events in all study groups [From Day 1 to Day 7 included] — Assessed solicited administration site events include pain, redness and swelling.
+ENR: Percentage of participants reporting solicited systemic events in all study groups [From Day 1 to Day 7 included] — Assessed solicited systemic events include fever, headache, gastrointestinal (GI) symptoms (nausea, vomiting, diarrhea, abdominal pain) and fatigue. The preferr
+ENR: Percentage of participants reporting unsolicited adverse events (AEs) in all study groups [From Day 1 to Day 30 included] — Any AE reported in addition to those solicited during the clinical study. Also, any 'solicited' symptom with onset outside the specified period of follow-up for
+ENR: Percentage of participants reporting serious adverse events (SAEs) in all study groups [From Day 1 to Day 30 included] — An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, resu
+ENR: RSV MAT immunoglobulin G (IgG) concentrations for participants in RSV1, RSV2 and RSV3 groups at Day 31 [At Day 31] — Serological assays for the determination of IgG antibodies against RSV MAT are performed by Enzyme-Linked Immunosorbent Assay (ELISA). RSV MAT IgG concentration
+ENR: Flu D-QIV haemagglutinin inhibition (HI) antibody titers against 4 influenza strains for participants in Flu+P group and RSV+Flu pooled group at Day 31 [At Day 31] — Flu D-QIV HI antibody titers against 4 influenza strains (A/H1N1, A/H3N2, B/Victoria lineage and B/Yamagata lineage) are expressed as geometric mean titers (GMT
+DEP: Percentage of Participants Reporting Solicited Administration Site Events in RSV Pooled Group, RSV+Flu Pooled Group and Flu+Placebo Group [From Day 1 to Day 7 (including Day 7)] — Assessed solicited administration site events include pain, erythema and swelling. This objective analyzed the safety and reactogenicity of RSV MAT vaccine when
+DEP: Percentage of Participants Reporting Solicited Systemic Events in RSV Pooled Group, RSV+Flu Pooled Group and Flu+Placebo Group [From Day 1 to Day 7 (including Day 7)] — Assessed solicited systemic events include fatigue, headache, gastrointestinal (GI) symptoms (nausea, vomiting, diarrhea, abdominal pain) and fever. The preferr
+DEP: Percentage of Participants Reporting Unsolicited Adverse Events (AEs) in RSV Pooled Group, RSV+Flu Pooled Group and Flu+Placebo Group [From Day 1 to Day 30 (including Day 30)] — An unsolicited AE is any AE reported in addition to those solicited during the clinical study. Also, any 'solicited' symptom with onset outside the specified pe
+DEP: Percentage of Participants Reporting Serious Adverse Events (SAEs) in RSV Pooled Group, RSV+Flu Pooled Group and Flu+Placebo Group [From Day 1 to Day 30 (including Day 30)] — An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, resu
+DEP: Percentage of Participants Reporting SAEs in RSV Pooled Group, RSV+Flu Pooled Group and Flu+Placebo Group [From first vaccination up to study end (Day 1 to Day 181)] — An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, resu
+DEP: RSV MAT Immunoglobulin G (IgG) Enzyme-Linked Immunosorbent Assay (ELISA) Concentrations for Participants in RSV lot1, RSV lot2 and RSV lot3 Groups at Day 31 [At Day 31] — Serological assays for the determination of IgG antibodies against RSV MAT were performed by ELISA. RSV MAT IgG concentrations were expressed as geometric mean 
+DEP: Flu D-QIV Haemagglutinin Inhibition (HI) Antibody Titers Against 3 Influenza Strains for Participants in Flu+Placebo Group and RSV+Flu Pooled Group at Day 31 [At Day 31] — Flu D-QIV HI antibody titers against 3 influenza strains (A/Tasmania/503/2020 (H3N2) IVR-221; B/Washington/02/2019; B/Phuket/3073/2013) were expressed as geomet
+SEC: RSV A Neutralizing Antibody Titers for Participants in RSV Pooled Group and; Seroconversion Rate (SCR) to Flu D-QIV HI Antibody Titers Against 3 Influen; RSV B Neutralizing Antibody Titers for Participants in RSV Pooled Group and; RSV MAT IgG Concentrations for Participants in RSV Pooled Group and RSV+Flu; Flu D-QIV HI Antibody Titers Against 3 Influenza Strains for Participants i; Seroprotection Rate (SPR) to Flu D-QIV HI Antibody Titers for Participants ; RSV A Neutralizing Antibody Titers for Participants in RSV lot1, RSV lot2 a; RSV B Neutralizing Antibody Titers for Participants in RSV lot1, RSV lot2 a; RSV MAT IgG Concentrations for Participants in RSV lot1, RSV lot2 and RSV l
+
+### NCT00545532
+ENR: Time to alleviation of all clinical influenza symptoms [Event driven]
+DEP: Percentage of Participants With Adverse Events [Baseline up to Day 40] — An adverse event is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal 
+DEP: Percentage of Participants Who Developed Viral Resistance to Oseltamivir [Baseline up to Day 40] — Resistance was defined as the presence of oseltamivir resistance mutations in viruses isolated from nasopharyngeal swab samples, identified by sequencing of the
+DEP: Percentage of Participants With Tissue Rejection or Graft Versus Host Disease (GVHD) [Baseline up to Day 40] — The percentage of transplant patients in the safety population who experienced tissue rejection and/or GvHD is reported.
+SEC: Time to Resolution (TTR) of All Clinical Influenza Symptoms; Total Symptom Score Area Under the Efficacy Curve (AUE); Time to Resolution of Fever; Change From Baseline in Viral Load Assessed by Culture; Percentage of Participants With Viral Shedding Assessed by Culture Over Tim; Time to Cessation of Viral Shedding by Cell Culture; Change From Baseline in Viral Load Assessed by Reverse Transcription Polyme; Percentage of Participants With Viral Shedding Assessed by RT-PCR Over Time; Time to Cessation of Viral Shedding by RT-PCR; Percentage of Participants With Persistent Viral Shedding; Percentage of Participants Who Developed Secondary Illness; Percentage of Participants Who Initiated Antibiotic Treatment
+
+### NCT03337308
+ENR: Percent change in low-density lipoprotein cholesterol (LDL-C) [Baseline through 12 weeks]
+DEP: Percent Change From Baseline to Week 12 in Low-density Lipoprotein Cholesterol (LDL-C) [Baseline; Week 12] — Blood samples were drawn after a minimum 10-hour fast (water was allowed) at pre-specified intervals. Samples were collected and analyzed for LDL-C. Baseline wa
+SEC: Percent Change From Baseline to Week 12 in High-sensitivity C-reactive Prot; Percent Change From Baseline to Week 12 in Non-high-density Lipoprotein Cho; Percent Change From Baseline to Week 12 in Total Cholesterol (TC); Percent Change From Baseline to Week 12 in Apolipoprotein B (Apo B); Percent Change From Baseline to Week 12 in High-density Lipoprotein Cholest; Percent Change From Baseline to Week 12 in Triglycerides (TGs)
+
+### NCT03840148
+ENR: Composite of microbiological eradication and symptomatic clinical success in the microbiological intent-to-treat (microITT) population at test of cure (TOC) [Days 19-23] — Microbiologic eradication is defined as demonstration that the bacterial pathogen found at study entry (≥10^5 CFU/mL) is eradicated to <10^3 CFU/mL. Symptomatic
+DEP: Composite Success at Test of Cure (TOC) in the Microbiological Intent-to-treat (microITT) Population [Assessed at Test of Cure visit (occurred once per participant between Study Days 19 to 23)] — Microbiologic success is eradication defined as demonstration that any gram-negative bacterial pathogen found at study entry (≥10\^5 CFU/mL) is eradicated to \<
+SEC: Microbiologic Success at Test of Cure (TOC) in the microITT Population; Clinical Success at Test of Cure (TOC) in the microITT Population; Composite Success at Test of Cure (TOC) in the Extended Microbiological Int; Composite Success at End of Treatment (EOT) in the microITT Population; Microbiological Success at End of Treatment (EOT) in the microITT Populatio; Clinical Success at End of Treatment (EOT) in the microITT Population; Composite Success at Late Follow Up (LFU) in the microITT Population; Microbiological Success at Late Follow Up (LFU) in the microITT Population; Clinical Success at Late Follow Up (LFU) in the microITT Population; Investigator Opinion of Clinical Success at Test of Cure (TOC) in the micro; Composite Success in Patients With Cefepime-Resistant Pathogens at End of T; Microbiologic Success in Patients With Cefepime-Resistant Pathogens at End 
+
+### NCT02320721
+ENR: Change in HbA1c from baseline [baseline, week 26]
+DEP: Change in HbA1c From Baseline to Week 26 [Baseline, Week 26] — Adjusted least square (LS) means were obtained from analysis of covariance (ANCOVA) after multiple imputation of missing data including post baseline HbA1c data
+SEC: Percentage of Participants With At Least One Severe and/ or Confirmed (≤3.9; Percentage of Participants With At Least One Severe and/ or Confirmed (≤3.9; Percentage of Participants With At Least One Severe and/ or Confirmed (≤3.9; Percentage of Participants With HbA1c <7.5% or HbA1c <7% During 26-Week Ran; Percentage of Participants With HbA1c <7.5% or <7.0% at Week 26 and No Seve; Change in Fasting Plasma Glucose (FPG) From Baseline to Week 26; Change in World Health Organization-5 (WHO-5) Well-Being Questionnaire Perc; Percentage of Participants Requiring Rescue Therapy Over the 26 Weeks of Tr
+
+### NCT01665144
+ENR: The delay in time to confirmed disability progression as measured by EDSS. [Baseline, every 3 month up to the maximum of 60 months] — Confirmed disability is defined as an Increase of score of 1 point in patients with baseline score of 3.0 to 5.0 and 0.5 point increase with baseline score of 5
+DEP: Percentage of Participants With 3-month Confirmed Disability Progression (CDP) Events as Measured by the Expanded Disability Status Scale (EDSS) [Baseline, every 3 month up to the maximum of approximately 3 years] — The EDSS uses an ordinal scale to assess neurologic impairment in MS based on a neurological examination. Scores in each of 7 functional systems (Visual, Brain 
+SEC: Percentage of Participants With 3-month Confirmed Worsening in T25W of at L; Change From Baseline in T2 Lesion Volume; Percentage of Participants With 6-month Confirmed Disability Progression (C; Annualized Relapse Rate (ARR) for Confirmed Relapses; Percentage of Participants With First Relapse Events as Measured by Time to; Percentage of Patients With Relapse (Confirmed Relapse and Any Relapse); Change From Baseline in MSWS-12 Converted Score; Number of T1 Gd-enhancing Lesions Per Patient Per Scan; Number of New or Enlarging T2 Lesions Per Patient Per Year; Percent Brain Volume Change (PBVC) Relative to Baseline; Number of Participants With 3-month CDP Events as Measured by EDSS in the S; Number of Participants With 3-month CDP Events as Measured by EDSS in the S
+
+### NCT01967940
+ENR: Proportion of participants with plasma HIV-1 RNA decreases from baseline exceeding 0.5 log10 copies/mL at Day 10 (Part 1) [Day 10]
+DEP: Part 1: Percentage of Participants With Plasma HIV-1 RNA Decreases From Baseline Exceeding 0.5 log10 at Day 10 [Day 10]
+SEC: Part 1: Change From Baseline in Plasma log10 HIV-1 RNA (Copies/mL) at Day 1; Part 2: Safety of E/C/F/TAF STR Plus ATV in Participants Who Switched From ; Part 2: Safety of E/C/F/TAF STR Plus ATV in Participants Who Switched From ; Part 2: Safety of E/C/F/TAF STR Plus ATV in Participants Who Switched From ; Part 2: Safety of E/C/F/TAF STR Plus ATV in Participants Who Switched From ; Part 2: Percentage of Participants With Plasma HIV-1 RNA < 50 Copies/mL as ; Part 2: Percentage of Participants With Plasma HIV-1 RNA < 50 Copies/mL as ; Part 2: Percentage of Participants With Plasma HIV-1 RNA < 400 Copies/mL as; Part 2: Percentage of Participants With Plasma HIV-1 RNA < 400 Copies/mL as; Part 2: Change From Baseline in Plasma log10 HIV-1 RNA (Copies/mL) at Week ; Part 2: Change From Baseline in Plasma log10 HIV-1 RNA (Copies/mL) at Week ; Part 2: Change From Baseline in CD4+ Cell Count at Week 24
+
+### NCT01968707
+ENR: A 2-log per cm2 bacterial reduction on the abdomen and a 3-log per cm2 bacterial reduction on the inguinal region. [10 minutes post-product application]
+ENR: Skin flora does not return to baseline on the abdomen and inguinal region. [6 hours post-product application]
+ENR: Safety as assessed by Skin Irritation score and Adverse Events [10 minute to 6 hour post-product application]
+DEP: Responder Rate [baseline, 10 minutes post-product application and 6 hour post-product application] — On the abdominal region a responder was a subject with a 2 log10/cm2 bacterial reduction at 10 minutes and for whom the skin flora did not return to baseline. O
+SEC: Reduction of Skin Flora 6 Hours Post-treatment; Reduction of Skin Flora 10 Minutes Post-treatment; Skin Flora Recovery 6-hours Post-treatment; Skin Flora Recovery 10 Minutes Post-treatment; Skin Flora Baseline for the Abdominal and Inguinal Region.; Safety as Assessed by Skin Irritation (Dryness, Edema, Erythema, Rash) Rati
+
+### NCT01560624
+ENR: Time to First Clinical Worsening event [participants will be followed every 12 weeks, at minimum, to assess for signs of clinical worsening for up to 2.5 years]
+ENR: Change in 6 minute walk distance [From Baseline to Week 24]
+DEP: Time to First Clinical Worsening Event [From randomization to approximately 4 years] — Clinical worsening was assessed continuously from randomization until the subject's last study visit. Clinical worsening events were defined as death (all cause
+SEC: Change in 6-Minute Walk Distance; Change in Plasma N-Terminal Pro-brain Natriuretic Peptide (NT-proBNP) From ; Change in World Health Organization Functional Class (WHO FC) From Baseline
+
+### NCT02006732
+ENR: FEV1 AUC0-3h response (change from baseline) [12 Weeks]
+ENR: Trough FEV1 response (change from baseline) [12 Weeks]
+ENR: SGRQ total score (This endpoint will be evaluated in this study and after combining the data from this and the replicate study 1237.25) [12 Weeks]
+DEP: FEV1 AUC0-3h Response [baseline and 12 weeks] — Forced expiratory volume in one second (FEV1) Area under the curve (AUC) 0-3h was calculated as the area under the FEV1-time curve from 0 to 3h post-dose using 
+DEP: Trough FEV1 Response (Change From Baseline) [baseline and 12 weeks] — Trough FEV1 was defined as the FEV1 value at the end of the dosing interval (24 hours). It was calculated as the mean of the 2 FEV1 measurements performed 23 h 
+DEP: St. George's Respiratory Questionnaire (SGRQ) Total Score Based on Data From This Individual Study [12 weeks treatment] — The SGRQ ranges from 0 (no impairment of quality of life) to 100 (highest impairment of quality of life). The adjusted mean (SE) are obtained from fitting a mix
+DEP: St. George's Respiratory Questionnaire (SGRQ) Total Score Based on Combined Dataset From This Study and the Replicate Study NCT01964352 [12 weeks treatment] — This endpoint was evaluated after combining the data from this and the replicate study NCT01964352 as specified in the analysis plan. The SGRQ ranges from 0 (no
+SEC: Trough Forced Vital Capacity (FVC) Response (Change From Baseline); TDI Focal Score Based on Data From This Individual Study; TDI Focal Score Based on Combined Dataset From This Study and the Replicate; FVC AUC0-3h Response (Change From Baseline)
+
+### NCT03836807
+ENR: AUC0-6h of pain profile [From time 0 (baseline value of VAS) to 6 hours post-treatment] — Pain will be assessed by a horizontal 100 mm Visual Analogue Scale (VAS): 0 no pain - 100 worst pain imaginable at: 0' (just before taking the first medication 
+DEP: AUC0-6h of Pain Intensity Between Time 0 (Baseline Value of VAS) and 6 Hours Post-treatment in the ITT Population. [time 0', 5', 10', 15', 30', 60' (1 hour), 90' (1.5 hours), 120' (2 hours), 180' (3 hours), 240' (4 hours), 300' (5 hours), and 360' (6 hours) post-treatment] — The primary efficacy endpoint is the pain intensity assessment during 6 hours after molar tooth extraction measured as an area under the curve (AUC) of pain int
+DEP: AUC0-6h of Pain Intensity Between Time 0 (Baseline Value of VAS) and 6 Hours Post-treatment in the PP Population. [time 0', 5', 10', 15', 30', 60' (1 hour), 90' (1.5 hours), 120' (2 hours), 180' (3 hours), 240' (4 hours), 300' (5 hours), and 360' (6 hours) post-treatment] — The primary efficacy endpoint is the pain intensity assessment during 6 hours after molar tooth extraction measured as an area under the curve (AUC) of pain int
+SEC: Time Profile of Pain Intensity Using VAS Scale; Time Profile of Pain Relief Using VAS Scale; AUC5min-6h of Pain Relief Profile in the ITT and in the PP Populations; Time to First Perceptible Relief (TFPR); Time to Meaningful Pain Relief (TMPR); Number of Participants With an Overall Assessment Score of "Very Good", "Sa
+
+### NCT02635386
+ENR: Oral disposition (insulin sensitivity-secretion) index [Change from baseline to 24 weeks] — Treatment impact on improving insulin action, modeled from a simple 2-h oral glucose tolerance test (OGTT)
+DEP: Oral Disposition (Insulin Sensitivity-insulin Secretion) Index [24 weeks of treatment] — An estimation of β-cell compensatory function, the insulin secretion-sensitivity index (IS-SI) will be derived by applying the concept of the oral disposition i
+SEC: Absolute Body Weight; Body Mass Index (BMI); Change in Percent Body Weight; Central Adiposity (Waist Circumference); Waist-to-Hip Ratio (WHR); Waist-to-Height Ratio (WHtR); Total Fat Mass (kg) Evaluated by DEXA; Total Body Fat (%) by DEXA; Android-Gynoid Ratio (AGR) as Determined by DEXA; Trunk/Leg Fat Ratio by DEXA; Fasting Blood Glucose; OGTT Mean Blood Glucose (MBG)
+
+### NCT01439360
+ENR: First occurrence of Reverse transcription polymerase chain reaction confirmed influenza A and/or B disease due to any influenza strain [during the surveillance period (approximately 6 to 8 months)]
+DEP: Number of Subjects With Moderate to Severe RT-PCR Confirmed Influenza. [During the surveillance period (approximately 6 to 8 months)] — Attack rate (AR) was defined as the number/percentage of subjects with at least 1 RT-PCR confirmed influenza event.
+DEP: Number of Subjects With RT-PCR Confirmed Influenza of Any Severity. [During the surveillance period (approximately 6 to 8 months)] — Attack rate (AR) was defined as the number/percentage of subjects with at least 1 RT-PCR confirmed influenza event.
+SEC: Number of Subjects With First Occurrence of Lower Respiratory Illness (LRI); Number of Subjects With First Occurrence of Culture-confirmed Moderate to S; Number of Subjects With First Occurrence of Culture-confirmed Influenza A a; Number of Subjects With First Occurrence of Culture-confirmed Moderate to S; Number of Subjects With First Occurrence of Culture-confirmed Influenza A a; Number of Subjects With First Occurrence of Acute Otitis Media (AOM) With R; Number of Subjects With First Occurrence of RT-PCR Confirmed Severe Influen; Humoral Immune Response in Terms of Haemagglutination-inhibition (HI) Antib; Number of Seropositive Subjects for HI Antibodies Against Each of the 4 Inf; Number of Seroconverted Subjects for HI Antibodies Against Each of the 4 In; Mean Geometric Increase (MGI) for HI Antibody Titer Against Each of the 4 V; Number of Seroprotected Subjects for HI Antibodies Against Each of the 4 In
+
+### NCT00458393
+ENR: Anti-HIV seroconversion []
+ENR: clinical or laboratory adverse events []
+DEP: HIV Seroconversion [Monthly follow-up through a median of 1.2 years] — Confirmed HIV infection
+DEP: Grade 1 or Higher Creatinine Toxicity [Duration of follow-up, median 1.2 years] — Creatinine which reach grade 1 (mild, 1.1 to 1.3 local upper limit of normal) or higher by the US Division of AIDS grading table (version 1) or a 50% increase i
+DEP: Grade 3 or Higher Phosphorous Toxicity [The entire follow-up period, median 1.2 years] — Grade 3 or higher phosphorous toxicity (hypophosphatemia) by the Division of AIDS Grading Table (severe, level at or below 1.9 mg/dL)
+DEP: Grade 2, 3, or 4 Laboratory Adverse Events [Entire follow-up, median 1.2 years] — Number of participants with at least one Grade 2, 3, or 4 laboratory adverse events (moderate, severe of life threatening based one the US Division of AIDS Grad
+DEP: Grade 2, 3, or 4 Clinical Adverse Events [Entire follow-up, median 1.2 years] — Number of participants with at least 1 Grade 2, 3, or 4 clinical adverse events (moderate, severe of life threatening based one the US Division of AIDS Grading 
+SEC: Hepatitis Flares Among Hepatitis B Virus (HBV) Infected Persons During and ; Percentage Change in Bone Mineral Density; Percentage Change in Body Fat; Percentage Change in Fasting Triglycerides; Percent Change in Total Cholesterol; Viral Load Among HIV Infected Participants; Among HIV Infected Participants Drug Resistance; CD4 Count Among HIV Infected Participants; Proportion of Missed Doses by Pill Count; Percentage of Missed Doses by Estimate During CASI Interview; Number of Condomless Sexual Partners With HIV Positive or Unknown Status; Total Number of Sexual Partners
+
+### NCT01725308
+ENR: Change in Montgomery-Asberg Depression Rating Scale (MADRS) total score [Baseline, at 8 weeks after dosing]
+DEP: Change From Baseline to End of Treatment Period I in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score [Baseline and Week 8] — The MADRS is a 10-item scale to measure the severity of depressive episodes, where each item is rated on a scale from 0 to 6. The MADRS total score ranges from 
+SEC: Change From Baseline in MADRS Total Score (Treatment Period I); Change From Baseline in MADRS Total Score (Combined Treatment Period I and ; Number of Participants With MADRS Response (Treatment Period I); Number of Participants With MADRS Response (Combined Treatment Period I and; Number of Participants With MADRS Remission (Treatment Period I); Number of Participants With MADRS Remission (Combined Treatment Period I an; Change From Baseline in Hamilton Depression Rating Scale (HAM-D17) Total Sc; Change From Baseline in HAM-D17 (Combined Treatment Period I and II); Number of Participants With HAM-D17 Response (Treatment Period I); Number of Participants With HAM-D17 Response (Combined Treatment Period I a; Change From Baseline in Clinical Global Impression-Bipolar Disorder-Severit; Change From Baseline in CGI-BP-S: Mania (Combined Treatment Period I and II
+
+### NCT00784225
+ENR: Visually significant age-related macular degeneration (AMD) []
+ENR: Visually significant cataract []
+DEP: Number of Participants With Visually Significant Age-related Macular Degeneration (AMD) [Every 6 months, up to 7 years] — Visually significant age-related AMD was defined as incident AMD responsible for reduction in best corrected visual acuity to 20/30 or worse(AMD 20/30)
+DEP: Number of Participants With Cataract and Best Corrected Visual-acuity of 20/30 [Every 6 months, up to 7 years] — Incident cataract was defined as lens opacity diagnosed after randomization but prior to end of study, age-related in origin, and best-corrected visual acuity o
+SEC: Number of Participants With Advanced AMD; Number of Participants Who Underwent Cataract Extraction
+
+### NCT03430856
+ENR: Change from Baseline in HbA1c at 24 weeks (Part I and Part II) [24 weeks] — The primary endpoint is change from baseline in HbA1c after 24 weeks of randomised treatment.
+DEP: Change From Baseline in HbA1c at 24 Weeks (Part 1) [Week 0, Week 24] — The primary endpoint is change from baseline in HbA1c after 24 weeks of randomized treatment.
+SEC: Change From Baseline in HbA1c at Week 12 (Part 1); Participants Achieving HbA1c < 7% (Part 1); Percentage of Participants With Hypoglycemia Events During 24-week Treatmen; Weight (Kgs) (Part 1); Lipid Profile (Part 1); Post-prandial Glucose (PPG) Excursion (Part 1); Number of Participants With Treatment-Emergent Adverse Events (Part 1); Anti-drug Antibody Levels; CGM
+
+### NCT02611687
+ENR: To evaluate the efficacy of pitolisant in reducing residual Excessive Daytime Sleepiness (EDS) [8 weeks] — Changes in EDS measured by the Paediatric Daytime Sleepiness Scale (PDSS).
+ENR: To evaluate the efficacy of pitolisant in reducing the number of cataplectic episodes (for patients with cataplexy) [8 weeks] — Changes in the average number of cataplexy episodes per weeks (recorded in sleep diary).
+ENR: To determine safety in children and adolescents - Safety assessment will be done on monitoring of adverse events, physical examination, vital signs, ECG (QTc) and Blood Laboratory tests modifications and the mood appraisal [8 weeks] — Safety assessment will be done on monitoring of adverse events (Incidence of Treatment-Emergent Adverse Events), physical examination, vital signs (blood pressu
+DEP: To Evaluate the Efficacy of Pitolisant in Reducing Residual Excessive Daytime Sleepiness (EDS), Ullanlinna Narcolepsy Scale Score. [8 weeks] — Changes in EDS measured by the Ullanlinna Narcolepsy Scale Score (UNS) from baseline (mean of two pre-treatment measures) to the end of double-blind period (mea
+SEC: To Evaluate the Efficacy of Pitolisant in Reducing Residual Excessive Dayti; To Evaluate the Efficacy of Pitolisant in Reducing Residual Excessive Dayti
+
+### NCT01863186
+ENR: Area under the curve based on Short Opiate Withdrawal Scale (SOWS) scores [Days 1 through 7] — A pattern-mixture approach, with subjects stratified by disposition within Days 1-7, will be used in assessing SOWS-Gossop AUC(1-7). The 4 disposition strata ar
+DEP: Difference Between the Overall Means From Short Opiate Withdrawal Scale of Gossop (SOWS-Gossop) Scores [Days 1 through 7] — The SOWS-Gossop was completed by the mITT population subject at baseline, once daily at 3.5 hours after the first dose of the study medication on Days 1 to 7. I
+SEC: Completion Status
+
+### NCT01313767
+ENR: MAS(Modified Ashworth Scale)of wrist flexor [4 weeks] — Change from baseline at week 4 for wrist flexor muscle tone as measured on the MAS(Modified Ashworth Scale)
+DEP: MAS(Modified Ashworth Scale) of Wrist Flexor [Baseline and 4 weeks] — Change from baseline at week 4 for wrist flexor muscle tone as measured on the MAS(Modified Ashworth Scale). The Modified Ashworth Scale is a well known and com
+SEC: MAS(Modified Ashworth Scale) of Wrist Flexor; MAS(Modified Ashworth Score) of Elbow Flexor; MAS(Modified Ashworth Score) of Finger Flexor; MAS(Modified Ashworth Score) of Thumb Flexor; Improvement Rate on the MAS(Modified Ashworth Score) of Wrist Flexor; Improvement Rate on the MAS(Modified Ashworth Score) of Elbow Flexor; Improvement Rate on the MAS(Modified Ashworth Score) of Finger Flexor; Improvement Rate on the MAS(Modified Ashworth Score) of Thumb Flexor; DAS(Disability Assessment Scale) of Hygiene; DAS(Disability Assessment Scale) of Dressing; DAS(Disability Assessment Scale) of Limb Position; DAS(Disability Assessment Scale) of Pain

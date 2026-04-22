@@ -1,0 +1,257 @@
+{
+ "annotator": "TJ",
+ "labels": [
+  {
+   "nct": "NCT03700320",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt développe le sigle TEAE et allonge la fenêtre temporelle (52 semaines + 4 semaines de suivi), sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT03083665",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal enregistré (pourcentage de variation de la fréquence des crises) disparaît du dépôt principal ; la fréquence des crises est rétrogradée en secondaire et des critères de tolérance sont ajoutés comme principaux."
+  },
+  {
+   "nct": "NCT01429272",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "L'échelle MADRS est remplacée par un critère de réponse au traitement (>50 % de baisse), domaine différent."
+  },
+  {
+   "nct": "NCT02278341",
+   "verdict": "changement",
+   "types": [
+    "ajoute",
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère EMA est conservé, mais un critère FDA (semaines 28-52) est ajouté comme principal."
+  },
+  {
+   "nct": "NCT02371759",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "metrique",
+    "supprime"
+   ],
+   "gravite": "mineur",
+   "note": "Les mesures de pression/FC/ECG passent de « change from baseline » à des valeurs absolues par temps, avec suppression du point 5 min."
+  },
+  {
+   "nct": "NCT02229383",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère HbA1c baseline→semaine 28, libellé simplifié."
+  },
+  {
+   "nct": "NCT02101359",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise « sans mydriatique additionnel » sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01062763",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "mineur",
+   "note": "« Blood pressure reduction » remplacé par les composantes systolique et diastolique séparées."
+  },
+  {
+   "nct": "NCT04051463",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même mesure de l'épaisseur cornéenne centrale, formulée en changement."
+  },
+  {
+   "nct": "NCT00939900",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le pourcentage de collapsus devient un nombre de participants, et les temps de mesure sont réduits (6, 12, 24 mois au lieu de 0-24 mois)."
+  },
+  {
+   "nct": "NCT01297517",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise les moments de mesure de la PIO à 3 mois sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT02943564",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai passe de 1 jour à 3 semaines pour le score total MADRS."
+  },
+  {
+   "nct": "NCT04668950",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même définition de la détérioration clinique, formulée en nombre de participants."
+  },
+  {
+   "nct": "NCT03474107",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la méthode d'analyse et la date de coupure, sans contredire l'OS enregistrée."
+  },
+  {
+   "nct": "NCT01473589",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère de consolidation de la fracture à 24 mois est remplacé par l'absence de reprise chirurgicale à 12 mois."
+  },
+  {
+   "nct": "NCT02706873",
+   "verdict": "changement",
+   "types": [
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le dépôt ajoute des critères principaux par région (FDA à S12, PMDA avec mTSS) et décale l'ACR50 à S12."
+  },
+  {
+   "nct": "NCT01686633",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même VEMS moyen pondéré 0-24 h à S12, formulé en changement depuis la baseline."
+  },
+  {
+   "nct": "NCT01108731",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise « change in » et la méthode MRS, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT04739306",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La réponse clinique en acuité visuelle à S8 devient un changement moyen de BCVA à S8."
+  },
+  {
+   "nct": "NCT04066023",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères de soulagement et soulagement soutenu, formulés en pourcentage."
+  },
+  {
+   "nct": "NCT01235234",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères (coloration cornéenne et événements indésirables), formulés en nombre de sujets."
+  },
+  {
+   "nct": "NCT02281318",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même changement du score SGRQ à S24, reformulé."
+  },
+  {
+   "nct": "NCT01346592",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Les événements indésirables graves enregistrés comme principal sont absents du dépôt principal ; des critères immunologiques sont déposés comme principaux."
+  },
+  {
+   "nct": "NCT04870606",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "« Pourcentage d'hospitalisation » devient un critère composite (hospitalisation, O2, décès) à J28."
+  },
+  {
+   "nct": "NCT01492101",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la méthode Kaplan-Meier et la population ITT pour l'OS."
+  },
+  {
+   "nct": "NCT03620162",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes critères de tolérance et de réponse IgG, avec populations et sérotypes précisés."
+  },
+  {
+   "nct": "NCT03280537",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes deux critères principaux (NPS et NCS à S24), ordre inversé."
+  },
+  {
+   "nct": "NCT02289352",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère de succès thérapeutique à J7, formulé en pourcentage."
+  },
+  {
+   "nct": "NCT01533428",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le dépôt précise la fenêtre (semaines 2 à 8) et l'instrument BPI-DN, sans contredire l'enregistrement."
+  },
+  {
+   "nct": "NCT01475071",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le pourcentage de variation des lésions devient « lesion response » ; l'évaluation de la douleur enregistrée disparaît du dépôt principal."
+  },
+  {
+   "nct": "NCT01887600",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La réponse Hb est précisée (seuils et deux visites consécutives) sans contredire l'enregistrement."
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+# Dépendances directes. Versions figées dans requirements.txt :
+#   uv pip compile requirements.in --python-version 3.12 --exclude-newer 2026-04-01T00:00:00Z -o requirements.txt
+requests
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib

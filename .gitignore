@@ -1,0 +1,36 @@
+# Environnement et caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Cache du classement en direct de la démo
+demo/cache/
+demo/out/
+
+# Données brutes : régénérées par collect/run.py (≈ 540 Mo)
+# Exceptions : essais d'exemple de la démo et des tests (historique en cache)
+data/current/*
+data/wayback/*
+!data/current/NCT03504423.json.gz
+!data/wayback/NCT03504423/
+!data/current/NCT01249872.json.gz
+!data/wayback/NCT01249872/
+!data/current/NCT03430856.json.gz
+!data/wayback/NCT03430856/
+!data/current/NCT01144338.json.gz
+!data/wayback/NCT01144338/
+!data/current/NCT01475071.json.gz
+!data/wayback/NCT01475071/
+!data/current/NCT01808612.json.gz
+!data/wayback/NCT01808612/
+!data/current/NCT01474109.json.gz
+!data/wayback/NCT01474109/
+!data/current/NCT02722278.json.gz
+!data/wayback/NCT02722278/
+!data/current/NCT01108731.json.gz
+!data/wayback/NCT01108731/
+!data/current/NCT01489254.json.gz
+!data/wayback/NCT01489254/
+!data/wayback/NCT01070316/

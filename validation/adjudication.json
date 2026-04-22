@@ -1,0 +1,657 @@
+{
+ "decisions": [
+  {
+   "nct": "NCT03700320",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère TEAE est conservé ; la fenêtre est simplement allongée de 52 semaines à fin d'étude + 4 semaines de suivi, ce qui est un délai et non une précision.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01429272",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le registre ne donnait aucune métrique sur l'échelle MADRS ; le dépôt ajoute un répondeur défini par une baisse >50 %, ce qui est une métrique ajoutée sans contradiction.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01062763",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "« Blood pressure reduction » est déposé en ses composantes PAS et PAD, exactement le cas prévu par la règle « composite déposé en ses composantes enregistrées ».",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04739306",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "La « clinical response » en MAVC à S8 devient une variation moyenne de BCVA à S8 : c'est une métrique et une mesure différentes, de domaine différent.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03620162",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Les IgG sont limitées aux 13 sérotypes communs V114/Prevnar 13, comme le prévoit l'enregistrement qui parlait déjà de comparaison entre groupes ; les autres critères sont inchangés.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01475071",
+   "verdict": "changement",
+   "types": [
+    "remplace"
+   ],
+   "gravite": "majeur",
+   "note": "Le pourcentage de variation des lésions devient « lesion response » (pourcentage de lésions en réponse complète), et l'évaluation de la douleur n'est plus un critère principal déposé.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01887600",
+   "verdict": "changement",
+   "types": [
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "La réponse Hb est précisée, mais surtout un second critère principal (Hb S28–52 pour la FDA) est ajouté : ajoute + delai, mineur selon la règle du point temporel ajouté.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT00283686",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal de l'étude B (délai jusqu'à 50 % de baisse du DFG, IRT ou décès) disparaît du dépôt ; pour l'étude A un point à 5 ans est ajouté.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02292784",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "Les critères d'utilisation des ressources et de productivité parentale disparaissent du dépôt principal, et les seuils BSID passent de <70 à des scores échelonnés <4.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01675635",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "L'EVA à la toux, enregistrée comme principal, passe en secondaire ; seule l'EVA au repos à 6 h reste principale, avec une mesure explicitée.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03040999",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'EFS est conservée ; le dépôt précise seulement ses composantes (progression, récidive, décès) et allonge la fenêtre jusqu'à environ 62 mois.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01144338",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Le même composite MACE est déposé à la fois comme critère principal d'efficacité et de tolérance : c'est un même critère redéposé sous une autre étiquette, donc ajoute mineur.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01227265",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Le temps « off » est conservé ; des critères de tolérance (PA, suicidalité, ESS) sont ajoutés comme critères principaux.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03735121",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Les Cmin sont conservées et une AUC 0–21 j est ajoutée : c'est un critère PK supplémentaire, donc mineur.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01552343",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "La cohérence interne et la validité de construit passent en secondaire, et la fiabilité intra/inter-sujets disparaît du dépôt.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02276274",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "La description PK globale est déclinée en paramètres (AUC, Cmax, Tmax, MRT, CLr, etc.) : même domaine, métrique et agrégation précisées.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01959243",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "La fenêtre des EI passe de J36 à J29, sans autre changement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT05047601",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La confirmation RT-PCR est élargie aux tests antigéniques rapides, ce qui est un élargissement de la mesure sans contredire l'enregistrement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01249872",
+   "verdict": "changement",
+   "types": [
+    "retrograde"
+   ],
+   "gravite": "majeur",
+   "note": "La variation des valeurs spirométriques, enregistrée comme principal, apparaît en secondaire déposé (spirométrie), donc retrograde.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02105948",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La fréquence des exacerbations modérées/sévères est déposée en deux strates distinctes (haut stratum et mITT) comme critères principaux.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT05045144",
+   "verdict": "changement",
+   "types": [
+    "mesure",
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Les titres HI portent sur 3 souches au lieu de 4, et une fenêtre EIG J1–J181 est ajoutée comme critère principal de tolérance.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01968707",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "La tolérance cutanée et les EI, enregistrés comme principaux, passent en secondaire ; les deux critères bactériens sont fusionnés en un taux de répondeurs.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02006732",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Le SGRQ est conservé mais analysé sur un jeu de données combiné à l'étude répliquée, et les réponses FEV1 et trough sont précisées.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT00458393",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Les EI cliniques/biologiques enregistrés sont remplacés par des toxicités biologiques spécifiques (créatinine, phosphore, grades 2–4) ; la séroconversion VIH est conservée.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03430856",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "L'analyse combinée Parties I + II disparaît du dépôt principal ; il ne reste que la Partie 1.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01863186",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "L'AUC du score SOWS-Gossop sur J1–J7 est remplacée par une différence de moyennes globales des scores SOWS-Gossop, agrégation différente.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03083665",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "Le pourcentage de variation de la fréquence des crises passe en secondaire ; le principal devient la fréquence des crises sur 28 jours, et trois critères de tolérance sont ajoutés.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02278341",
+   "verdict": "changement",
+   "types": [
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le critère EMA (S28–36) est conservé ; un second critère principal FDA (S28–52, sans traitement de secours) est ajouté sur une autre fenêtre.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02371759",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "metrique",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Les mesures de PA/FC/ECG passent de « change from baseline » à des valeurs absolues par temps, avec suppression du point à 5 min ; l'intensité est mesurée autrement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04051463",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le registre ne donnait pas de métrique (« Central corneal thickness ») ; le dépôt ajoute un changement depuis l'inclusion à 1 mois.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT00939900",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le pourcentage de collapsus devient un nombre de participants, et les temps de mesure sont réduits (6, 12, 24 mois au lieu de 0–24 mois).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04668950",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "La détérioration clinique est la même ; on passe d'une définition à un nombre de participants, sans nouvelle information.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03474107",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'OS est conservée ; le dépôt précise la méthode Kaplan-Meier et la date de coupure, sans contredire l'enregistrement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01473589",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "remplace",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La consolidation à 24 mois passe en secondaire et est remplacée par l'absence de réintervention à 12 mois comme critère principal.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02706873",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "L'ACR50 passe de S24 à S12, le S24 est relégué en secondaire, et l'ACR20 à S12 ainsi que le mTSS à S24 sont ajoutés comme principaux pour le Japon.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01686633",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le VEMS pondéré 0–24 h à S12 est conservé ; le dépôt ajoute une métrique de changement depuis l'inclusion.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01235234",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Les critères (coloration cornéenne, EI) sont conservés ; le dépôt ajoute des métriques en nombre de sujets.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01346592",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La tolérance (EIG, réactions) passe en secondaire ; le principal devient la non-infériorité immunogénique à J50, avec plusieurs critères GMT/séroconversion ajoutés.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04870606",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "L'hospitalisation, enregistrée comme principal, passe en secondaire ; le principal devient un composite hospitalisation ≥24 h / O2 / décès à J28.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01492101",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La survie globale à 36 mois est conservée ; le dépôt précise la méthode Kaplan-Meier et la population ITT.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01533428",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Le pourcentage de variation du score de douleur est le même ; la fenêtre S2–S8 figurait déjà dans la description enregistrée.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02635204",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal de tolérance (signes vitaux, tolérance cutanée, EI) disparaît du dépôt et n'apparaît pas non plus en secondaire.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03335566",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "L'amélioration de précision diagnostique est la même ; le dépôt exprime seulement la métrique en pourcentage de participants.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02612337",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le nombre de jours de vertige à S12 est conservé ; le dépôt précise l'intervalle S9–S12 utilisé pour le comptage.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03257267",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'OS est conservée ; le dépôt précise la définition et la censure, et ajoute une analyse dans la population SCC.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02451358",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Les GMT sont conservés ; la séroprotection et la séroconversion, évoquées dans l'enregistrement, sont déposées comme composantes séparées.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02686658",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La MAVC à M24 est remplacée par l'atrophie géographique (FAF) à M12 ; la MAVC passe en secondaire.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02431806",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le changement du CDRS-R à S8 est conservé ; le dépôt précise le modèle MMRM et la direction du changement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04447469",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai passe de J15 à J29, et l'insuffisance respiratoire (HFO, VNI, VMI, ECMO) est restreinte à la ventilation mécanique (VMI, ECMO).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01586819",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le résultat du peeling est conservé ; le dépôt précise l'échelle FWSS (valeur après traitement et variation pré/post).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03345342",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le délai jusqu'à la rechute est conservé ; le dépôt précise la définition de la rechute et la fenêtre (jusqu'à 12 mois).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02062463",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Les erreurs observées et l'observance passent en secondaire ; le principal devient la maîtrise du dispositif (étapes 1 et 2).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01188551",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "L'échelle OPS est abandonnée au profit de FLACC, et le point de mesure passe de 60 min à 30 min post-opératoire.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02322775",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le VEMS pré-bronchodilatateur à S12 est conservé ; le dépôt précise la méthode MMRM et l'unité (L).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02668692",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'amélioration globale de la lésion du cuir chevelu à S4 est conservée ; le dépôt ajoute une métrique en nombre de sujets.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02338193",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "metrique"
+   ],
+   "gravite": "majeur",
+   "note": "Le pourcentage de variation du poids, enregistré comme principal, passe en secondaire ; le principal devient la variation absolue.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02722278",
+   "verdict": "changement",
+   "types": [
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "La fourchette eugonadique passe de 300–1000 ng/dL à 252–907 ng/dL à J105, sans autre changement.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03168334",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le changement absolu des lésions et la réduction de 2 grades à l'EGSS sont conservés ; la description précise les types de lésions comptées.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03504423",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "L'ORR et la PFS passent en secondaire ; la SG devient le critère principal déposé.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT00545532",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Le délai de résolution des symptômes grippaux passe en secondaire ; la tolérance, la résistance virale et le rejet de greffe deviennent principaux.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03840148",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le composite TOC en microITT est conservé ; le dépôt précise les seuils d'éradication et la définition de la réussite clinique.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01665144",
+   "verdict": "changement",
+   "types": [
+    "metrique",
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai jusqu'à progression devient un pourcentage de participants avec progression confirmée à 3 mois (EDSS), avec un horizon réduit à environ 36 mois.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01560624",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le 6MWD, enregistré comme principal, passe en secondaire ; l'horizon passe de 2,5 à environ 4 ans.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT00784225",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La DMLA et la cataracte visuellement significatives sont conservées ; le dépôt précise le seuil (MAVC ≤ 20/30).",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02611687",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "remplace",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le PDSS et la cataplexie passent en secondaire, la tolérance disparaît du principal, et le score UNS devient le critère principal.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01313767",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le score MAS du fléchisseur du poignet à S4 est conservé ; le dépôt précise qu'il s'agit d'un changement depuis l'inclusion.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01439360",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "La grippe RT-PCR confirmée de toute sévérité est conservée et un second critère principal (grippe modérée à sévère) est ajouté.",
+   "arbitre": "AB"
+  }
+ ]
+}

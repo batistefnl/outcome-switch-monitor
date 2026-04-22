@@ -1,0 +1,264 @@
+{
+ "annotator": "CM",
+ "labels": [
+  {
+   "nct": "NCT02635204",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal de tolérance (signes vitaux, tolérance cutanée, EI) a disparu. On ne le retrouve pas non plus en secondaire."
+  },
+  {
+   "nct": "NCT03335566",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère. La métrique « pourcentage de participants » est simplement explicitée."
+  },
+  {
+   "nct": "NCT02770807",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le mICARS était prévu à M3, M6, M9 et M12 (MMRM). Il ne reste que la variation à M6."
+  },
+  {
+   "nct": "NCT01451203",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "L'« inhibition de la progression radiographique » est précisée en variation du mTSS à S52."
+  },
+  {
+   "nct": "NCT00283686",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "Le critère principal de l'étude B a disparu (délai jusqu'à une baisse de 50 % du DFG, une IRT ou un décès). Pour l'étude A, un point à 5 ans a été ajouté."
+  },
+  {
+   "nct": "NCT02292784",
+   "verdict": "changement",
+   "types": [
+    "supprime",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "Les critères sur l'utilisation des ressources et la productivité parentale ont été supprimés. Les seuils BSID ont aussi changé : on passe de <70 à des scores échelonnés <4."
+  },
+  {
+   "nct": "NCT02226198",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même critère LDL-C, simplement déposé dans deux unités."
+  },
+  {
+   "nct": "NCT02612337",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le nombre de jours de vertige est précisé sur l'intervalle S9–S12."
+  },
+  {
+   "nct": "NCT01857622",
+   "verdict": "changement",
+   "types": [
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Les EI, les effets indésirables médicamenteux et les concentrations plasmatiques ont été supprimés. Il ne reste que le saignement."
+  },
+  {
+   "nct": "NCT01675635",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "mesure"
+   ],
+   "gravite": "majeur",
+   "note": "L'EVA était enregistrée au repos et à la toux. Seule l'EVA au repos à 6 h reste en principal, et celle à la toux passe en secondaire."
+  },
+  {
+   "nct": "NCT03040999",
+   "verdict": "changement",
+   "types": [
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "La définition de l'EFS a été élargie à la biopsie, à la récidive locorégionale et à la métastase à distance."
+  },
+  {
+   "nct": "NCT01144338",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le composite CV est précisé (décès CV, IDM, AVC), avec une double analyse supériorité / non-infériorité."
+  },
+  {
+   "nct": "NCT01227265",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Le temps « off » est conservé. Des critères de tolérance ont été ajoutés : PA, suicidalité, somnolence sur l'ESS."
+  },
+  {
+   "nct": "NCT03735121",
+   "verdict": "changement",
+   "types": [
+    "ajoute"
+   ],
+   "gravite": "mineur",
+   "note": "Les Ctrough sont conservés et l'AUC 0–21 j a été ajoutée. C'est un critère PK, ni d'efficacité ni de tolérance, donc la gravité reste à arbitrer."
+  },
+  {
+   "nct": "NCT03257267",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même SG. Une analyse a été ajoutée dans la population SCC, ce qui change seulement la population d'analyse."
+  },
+  {
+   "nct": "NCT01552343",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "La cohérence interne et la validité de construit sont passées en secondaire. La fiabilité intra/inter-sujets a disparu."
+  },
+  {
+   "nct": "NCT02072824",
+   "verdict": "changement",
+   "types": [
+    "metrique"
+   ],
+   "gravite": "mineur",
+   "note": "On passe d'un % de réduction vs placebo à un taux log-transformé. Il s'agit peut-être de la même analyse (à vérifier)."
+  },
+  {
+   "nct": "NCT03165617",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Les deux mêmes populations d'âge, dans l'ordre inverse. L'efficacité vaccinale est estimée par une analyse en temps jusqu'à événement."
+  },
+  {
+   "nct": "NCT02451358",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La séroprotection et la séroconversion sont déposées comme composantes séparées."
+  },
+  {
+   "nct": "NCT02686658",
+   "verdict": "changement",
+   "types": [
+    "remplace",
+    "retrograde",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La MAVC à M24 est remplacée par l'atrophie géographique (FAF) à M12. La MAVC passe en secondaire."
+  },
+  {
+   "nct": "NCT02276274",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Les concentrations et l'excrétion sont précisées en paramètres PK (AUC, Cmax, etc.)."
+  },
+  {
+   "nct": "NCT02431806",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même variation du CDRS-R à S8."
+  },
+  {
+   "nct": "NCT01808612",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "Le HAMD21 était prévu à environ 2 mois. Il est déposé à 6 semaines."
+  },
+  {
+   "nct": "NCT01861522",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Même score total des trois symptômes nasaux à S2."
+  },
+  {
+   "nct": "NCT01391546",
+   "verdict": "reformulation",
+   "types": [],
+   "gravite": null,
+   "note": "Mêmes GMT et GMFR (voie IM). Les sigles sont simplement développés."
+  },
+  {
+   "nct": "NCT04447469",
+   "verdict": "changement",
+   "types": [
+    "delai",
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "Le délai passe de J15 à J29. L'insuffisance respiratoire (HFO, VNI, VMI, ECMO) est restreinte à la ventilation mécanique (VMI, ECMO)."
+  },
+  {
+   "nct": "NCT01586819",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le résultat du peeling est précisé avec l'échelle FWSS (valeur après traitement et variation)."
+  },
+  {
+   "nct": "NCT03345342",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "Titre identique."
+  },
+  {
+   "nct": "NCT01959243",
+   "verdict": "changement",
+   "types": [
+    "delai"
+   ],
+   "gravite": "mineur",
+   "note": "La fenêtre passe de J36 à J29."
+  },
+  {
+   "nct": "NCT02062463",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute"
+   ],
+   "gravite": "majeur",
+   "note": "Les erreurs observées et l'observance sont passées en secondaire. Le principal est désormais la maîtrise du dispositif (étapes 1 et 2)."
+  },
+  {
+   "nct": "NCT05047601",
+   "verdict": "changement",
+   "types": [
+    "mesure"
+   ],
+   "gravite": "mineur",
+   "note": "La confirmation par RT-PCR est élargie aux tests antigéniques rapides."
+  }
+ ]
+}

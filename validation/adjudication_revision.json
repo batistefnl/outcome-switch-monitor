@@ -1,0 +1,96 @@
+{
+ "decisions": [
+  {
+   "nct": "NCT03700320",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "La fenêtre « 52 semaines de traitement » est simplement réexprimée en fin d'étude + 4 semaines de suivi, ce qui est le cas prévu par la règle : délai réexprimé sans contradiction = identique.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03474107",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "L'OS est inchangée ; la date de gel des données (« Up to 36 months » → « cut-off 15-Jul-2020 ») est un délai réexprimé sans contradiction, donc identique.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT03345342",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "Le délai jusqu'à la rechute est réexprimé sans contradiction (« Up to Month 12 » → « Up to 12 months of DB Phase ») : identique.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01313767",
+   "verdict": "identique",
+   "types": [],
+   "gravite": null,
+   "note": "« 4 weeks » → « Baseline and 4 weeks » est un délai réexprimé sans contradiction, cas explicitement prévu par la règle : identique.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04739306",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "« Clinical response » était vague et sans métrique ; le dépôt d'une variation moyenne de BCVA à S8 est une métrique ajoutée sur l'échelle enregistrée, donc précision.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT04668950",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "Le registre ne donnait pas de métrique (« Clinical deterioration ») ; le dépôt ajoute un nombre de participants avec la même définition, donc précision.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02105948",
+   "verdict": "precision",
+   "types": [],
+   "gravite": null,
+   "note": "La fréquence des exacerbations est conservée ; le dépôt décline le critère par strate (haut stratum) et par population d'analyse (mITT) sans autre changement, donc précision.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT01473589",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La consolidation à 24 mois apparaît en secondaire (retrograde), l'absence de réintervention à 12 mois est ajoutée comme principal (ajoute), avec un délai raccourci.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02686658",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "delai"
+   ],
+   "gravite": "majeur",
+   "note": "La MAVC à M24 apparaît en secondaire (retrograde) ; l'atrophie géographique à M12 est ajoutée comme nouveau critère principal (ajoute), avec un délai différent.",
+   "arbitre": "AB"
+  },
+  {
+   "nct": "NCT02611687",
+   "verdict": "changement",
+   "types": [
+    "retrograde",
+    "ajoute",
+    "supprime"
+   ],
+   "gravite": "majeur",
+   "note": "Le PDSS et la cataplexie passent en secondaire (retrograde), le score UNS est ajouté comme principal (ajoute), et le critère de tolérance disparaît du dépôt principal (supprime).",
+   "arbitre": "AB"
+  }
+ ]
+}
